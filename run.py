@@ -1,6 +1,7 @@
 """
-Entry point: python run.py
-Opens the app in your browser automatically.
+Entry point.
+- Local:   python run.py          → opens browser automatically
+- Hosted:  python run.py --no-browser  → skips browser open (Railway, Render, etc.)
 """
 import os
 import sys
@@ -10,6 +11,7 @@ import webbrowser
 import uvicorn
 
 PORT = int(os.environ.get("PORT", 8000))
+NO_BROWSER = "--no-browser" in sys.argv
 
 
 def open_browser():
@@ -18,7 +20,7 @@ def open_browser():
 
 
 if __name__ == "__main__":
-    if "--no-browser" not in sys.argv:
+    if not NO_BROWSER:
         threading.Thread(target=open_browser, daemon=True).start()
 
     uvicorn.run(
