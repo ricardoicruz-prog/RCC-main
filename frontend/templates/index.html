@@ -26,30 +26,12 @@
       </div>
     </header>
 
-    <!-- Settings drawer -->
-    <div id="settingsBar" class="settings-bar">
-      <div class="settings-inner">
-        <div class="settings-field">
-          <label>Bluesky Handle</label>
-          <input id="bskyHandle" type="text" placeholder="yourname.bsky.social" />
-        </div>
-        <div class="settings-field">
-          <label>Bluesky App Password</label>
-          <input id="bskyPassword" type="password" placeholder="xxxx-xxxx-xxxx-xxxx" />
-        </div>
-        <p class="settings-hint">
-          Generate an App Password at <strong>bsky.app → Settings → App Passwords</strong>.
-          Credentials stay in your browser and are never stored on the server.
-        </p>
-      </div>
-    </div>
-
     <main class="main">
       <!-- idle state -->
       <div id="idleState" class="idle-state">
         <div class="idle-icon">🔍</div>
         <h2>Ready to scan</h2>
-        <p>Click <strong>Run Scan</strong> to pull hot posts from Reddit, Hacker News, and Bluesky filtered for your niche.</p>
+        <p>Click <strong>Run Scan</strong> to pull hot posts from Reddit, Hacker News, Bluesky, and YouTube — filtered for your niche.</p>
         <p class="idle-hint">Results are cached for 2 hours. Use <em>Fresh Scan</em> to force a new fetch.</p>
         <button class="btn btn-primary btn-large" onclick="runScan(false)">Run Scan</button>
       </div>
@@ -57,7 +39,7 @@
       <!-- loading state -->
       <div id="loadingState" class="loading-state" style="display:none">
         <div class="spinner"></div>
-        <p id="loadingMsg">Scanning Reddit, Hacker News, Bluesky…</p>
+        <p id="loadingMsg">Scanning Reddit, Hacker News, Bluesky, YouTube…</p>
         <p class="loading-hint">First scan takes 60–90 seconds. Cached runs are instant.</p>
       </div>
 

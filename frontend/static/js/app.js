@@ -1,9 +1,6 @@
 let currentData = null;
 
 async function runScan(forceRefresh = false) {
-  const handle = document.getElementById('bskyHandle').value.trim();
-  const password = document.getElementById('bskyPassword').value.trim();
-
   showLoading();
 
   const msgEl = document.getElementById('loadingMsg');
@@ -11,6 +8,7 @@ async function runScan(forceRefresh = false) {
     'Scanning Reddit hot posts…',
     'Fetching Hacker News discussions…',
     'Searching Bluesky conversations…',
+    'Pulling YouTube videos…',
     'Scoring by engagement heat…',
     'Clustering topic themes…',
     'Almost done…',
@@ -25,11 +23,7 @@ async function runScan(forceRefresh = false) {
     const resp = await fetch('/api/scan', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        force_refresh: forceRefresh,
-        bluesky_handle: handle,
-        bluesky_password: password,
-      }),
+      body: JSON.stringify({ force_refresh: forceRefresh }),
     });
 
     clearInterval(msgInterval);
@@ -73,8 +67,9 @@ function renderResults(status) {
   const d = currentData;
   const total = d.total_fetched || 0;
   const pc = d.platform_counts || {};
+  const ytPart = pc.youtube ? `, YouTube: ${pc.youtube}` : '';
   document.getElementById('statsText').textContent =
-    `${total} posts scanned — Reddit: ${pc.reddit || 0}, HN: ${pc.hackernews || 0}, Bluesky: ${pc.bluesky || 0}`;
+    `${total} posts scanned — Reddit: ${pc.reddit || 0}, HN: ${pc.hackernews || 0}, Bluesky: ${pc.bluesky || 0}${ytPart}`;
 
   const badge = document.getElementById('cacheLabel');
   badge.textContent = status === 'cached' ? 'Cached' : 'Fresh';
@@ -91,8 +86,8 @@ function heatBadge(score) {
 }
 
 function platformPill(platform) {
-  const labels = { reddit: 'Reddit', hackernews: 'HN', bluesky: 'Bluesky' };
-  const cls = { reddit: 'pill-reddit', hackernews: 'pill-hackernews', bluesky: 'pill-bluesky' };
+  const labels = { reddit: 'Reddit', hackernews: 'HN', bluesky: 'Bluesky', youtube: 'YouTube' };
+  const cls = { reddit: 'pill-reddit', hackernews: 'pill-hackernews', bluesky: 'pill-bluesky', youtube: 'pill-youtube' };
   return `<span class="platform-pill ${cls[platform] || ''}">${labels[platform] || platform}</span>`;
 }
 

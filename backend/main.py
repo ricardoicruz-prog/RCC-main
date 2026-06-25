@@ -2,16 +2,22 @@ import os
 import sys
 from pathlib import Path
 
-# make sure backend package is importable
+# load .env if present
+try:
+    from dotenv import load_dotenv
+    load_dotenv(Path(__file__).parent.parent / ".env")
+except ImportError:
+    pass
+
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from fastapi import FastAPI, BackgroundTasks
+from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import HTMLResponse, JSONResponse
 from pydantic import BaseModel
 import uvicorn
 
-from backend.fetchers import reddit, hackernews, bluesky
+from backend.fetchers import reddit, hackernews, bluesky, youtube
 from backend.core import scorer, clusterer, cache
 
 app = FastAPI(title="RCC – Research & Content Commander")
@@ -22,8 +28,6 @@ app.mount("/static", StaticFiles(directory=FRONTEND_DIR / "static"), name="stati
 
 class ScanRequest(BaseModel):
     force_refresh: bool = False
-    bluesky_handle: str = ""
-    bluesky_password: str = ""
 
 
 @app.get("/", response_class=HTMLResponse)
@@ -40,7 +44,6 @@ async def run_scan(req: ScanRequest):
         if cached:
             return JSONResponse({"status": "cached", "data": cached})
 
-    # fetch from all platforms
     all_items = []
 
     reddit_items = reddit.fetch()
@@ -49,15 +52,19 @@ async def run_scan(req: ScanRequest):
     hn_items = hackernews.fetch()
     all_items.extend(hn_items)
 
-    bsky_handle = req.bluesky_handle or os.environ.get("BLUESKY_HANDLE", "")
-    bsky_password = req.bluesky_password or os.environ.get("BLUESKY_APP_PASSWORD", "")
+    bsky_handle = os.environ.get("BLUESKY_HANDLE", "")
+    bsky_password = os.environ.get("BLUESKY_APP_PASSWORD", "")
     bsky_items = bluesky.fetch(
         handle=bsky_handle or None,
         app_password=bsky_password or None,
     )
     all_items.extend(bsky_items)
 
-    # score, cluster
+    yt_key = os.environ.get("YOUTUBE_API_KEY", "")
+    if yt_key:
+        yt_items = youtube.fetch(api_key=yt_key)
+        all_items.extend(yt_items)
+
     scored = scorer.score_items(all_items)
     engage_feed, topics_feed = scorer.split_by_intent(scored)
 
@@ -72,6 +79,7 @@ async def run_scan(req: ScanRequest):
             "reddit": sum(1 for i in all_items if i["platform"] == "reddit"),
             "hackernews": sum(1 for i in all_items if i["platform"] == "hackernews"),
             "bluesky": sum(1 for i in all_items if i["platform"] == "bluesky"),
+            "youtube": sum(1 for i in all_items if i["platform"] == "youtube"),
         },
     }
 
