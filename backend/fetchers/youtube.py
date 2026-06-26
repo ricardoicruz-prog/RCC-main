@@ -1,5 +1,5 @@
 import httpx
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from typing import List, Dict, Optional
 
 YT_API = "https://www.googleapis.com/youtube/v3"
@@ -46,7 +46,7 @@ def _search_videos(client: httpx.Client, query: str, api_key: str) -> List[Dict]
                 "q": query,
                 "type": "video",
                 "order": "relevance",
-                "publishedAfter": "2024-01-01T00:00:00Z",
+                "publishedAfter": (datetime.now(timezone.utc) - timedelta(days=30)).strftime("%Y-%m-%dT%H:%M:%SZ"),
                 "maxResults": 10,
                 "key": api_key,
             },
