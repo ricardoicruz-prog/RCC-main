@@ -68,8 +68,9 @@ function renderResults(status) {
   const total = d.total_fetched || 0;
   const pc = d.platform_counts || {};
   const ytPart = pc.youtube ? `, YouTube: ${pc.youtube}` : '';
+  const fcPart = pc.firecrawl ? `, Web: ${pc.firecrawl}` : '';
   document.getElementById('statsText').textContent =
-    `${total} posts scanned — Reddit: ${pc.reddit || 0}, HN: ${pc.hackernews || 0}, Bluesky: ${pc.bluesky || 0}${ytPart}`;
+    `${total} posts scanned — Reddit: ${pc.reddit || 0}, HN: ${pc.hackernews || 0}, Bluesky: ${pc.bluesky || 0}${ytPart}${fcPart}`;
 
   const badge = document.getElementById('cacheLabel');
   badge.textContent = status === 'cached' ? 'Cached' : 'Fresh';
@@ -86,8 +87,8 @@ function heatBadge(score) {
 }
 
 function platformPill(platform) {
-  const labels = { reddit: 'Reddit', hackernews: 'HN', bluesky: 'Bluesky', youtube: 'YouTube' };
-  const cls = { reddit: 'pill-reddit', hackernews: 'pill-hackernews', bluesky: 'pill-bluesky', youtube: 'pill-youtube' };
+  const labels = { reddit: 'Reddit', hackernews: 'HN', bluesky: 'Bluesky', youtube: 'YouTube', firecrawl: 'Web' };
+  const cls = { reddit: 'pill-reddit', hackernews: 'pill-hackernews', bluesky: 'pill-bluesky', youtube: 'pill-youtube', firecrawl: 'pill-firecrawl' };
   return `<span class="platform-pill ${cls[platform] || ''}">${labels[platform] || platform}</span>`;
 }
 

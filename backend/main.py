@@ -17,7 +17,7 @@ from fastapi.responses import HTMLResponse, JSONResponse
 from pydantic import BaseModel
 import uvicorn
 
-from backend.fetchers import reddit, hackernews, bluesky, youtube
+from backend.fetchers import reddit, hackernews, bluesky, youtube, firecrawl
 from backend.core import scorer, clusterer, cache
 
 app = FastAPI(title="RCC – Research & Content Commander")
@@ -65,6 +65,11 @@ async def run_scan(req: ScanRequest):
         yt_items = youtube.fetch(api_key=yt_key)
         all_items.extend(yt_items)
 
+    fc_key = os.environ.get("FIRECRAWL_API_KEY", "")
+    if fc_key:
+        fc_items = firecrawl.fetch(api_key=fc_key)
+        all_items.extend(fc_items)
+
     scored = scorer.score_items(all_items)
     engage_feed, topics_feed = scorer.split_by_intent(scored)
 
@@ -80,6 +85,7 @@ async def run_scan(req: ScanRequest):
             "hackernews": sum(1 for i in all_items if i["platform"] == "hackernews"),
             "bluesky": sum(1 for i in all_items if i["platform"] == "bluesky"),
             "youtube": sum(1 for i in all_items if i["platform"] == "youtube"),
+            "firecrawl": sum(1 for i in all_items if i["platform"] == "firecrawl"),
         },
     }
 
