@@ -13,9 +13,10 @@ NICHE_KEYWORDS = [
 ]
 
 
-def _score_relevance(text: str) -> float:
+def _score_relevance(text: str, keywords: list = None) -> float:
+    kws = keywords or NICHE_KEYWORDS
     text_lower = text.lower()
-    hits = sum(1 for kw in NICHE_KEYWORDS if kw in text_lower)
+    hits = sum(1 for kw in kws if kw in text_lower)
     return min(hits / 2.0, 1.0)
 
 
@@ -27,7 +28,7 @@ def _get_item(client: httpx.Client, item_id: int) -> Dict:
         return {}
 
 
-def fetch(limit: int = 60) -> List[Dict]:
+def fetch(limit: int = 60, keywords: list = None) -> List[Dict]:
     results = []
     try:
         with httpx.Client() as client:
@@ -42,7 +43,7 @@ def fetch(limit: int = 60) -> List[Dict]:
                 title = item.get("title", "")
                 text = item.get("text", "")
                 combined = f"{title} {text}"
-                relevance = _score_relevance(combined)
+                relevance = _score_relevance(combined, keywords)
                 if relevance == 0:
                     continue
 

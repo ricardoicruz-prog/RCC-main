@@ -24,8 +24,12 @@ NICHE_KEYWORDS = [
 
 
 def _score_relevance(text: str) -> float:
+    return _score_relevance_kw(text, NICHE_KEYWORDS)
+
+
+def _score_relevance_kw(text: str, keywords: list) -> float:
     text_lower = text.lower()
-    hits = sum(1 for kw in NICHE_KEYWORDS if kw in text_lower)
+    hits = sum(1 for kw in keywords if kw in text_lower)
     return min(hits / 2.0, 1.0)
 
 
@@ -61,16 +65,18 @@ def _get_auth_token(handle: str, app_password: str) -> Optional[str]:
     return None
 
 
-def fetch(handle: Optional[str] = None, app_password: Optional[str] = None) -> List[Dict]:
+def fetch(handle: Optional[str] = None, app_password: Optional[str] = None, queries: list = None, keywords: list = None) -> List[Dict]:
     token = None
     if handle and app_password:
         token = _get_auth_token(handle, app_password)
 
+    active_queries = (queries or SEARCH_QUERIES)[:5]
+    active_keywords = keywords or NICHE_KEYWORDS
     results = []
     seen_uris = set()
 
     with httpx.Client() as client:
-        for query in SEARCH_QUERIES[:5]:  # cap at 5 queries to stay polite
+        for query in active_queries:
             posts = _search_posts(client, query, token)
             for post in posts:
                 uri = post.get("uri", "")
@@ -80,7 +86,7 @@ def fetch(handle: Optional[str] = None, app_password: Optional[str] = None) -> L
 
                 record = post.get("record", {})
                 text = record.get("text", "")
-                relevance = _score_relevance(text)
+                relevance = _score_relevance_kw(text, active_keywords)
                 if relevance == 0:
                     continue
 

@@ -68,6 +68,68 @@ body {
 .btn-ghost:hover { color: var(--text); border-color: var(--accent); }
 .btn-large { padding: 14px 32px; font-size: 16px; }
 
+/* Industry bar */
+.industry-bar {
+  background: var(--surface2);
+  border-bottom: 1px solid var(--border);
+}
+.industry-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 12px 24px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.industry-label {
+  font-size: 12px;
+  color: var(--text-muted);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+}
+.industry-chips {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.industry-chip {
+  padding: 5px 14px;
+  border-radius: 20px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-muted);
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: var(--font);
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+.industry-chip:hover { color: var(--text); border-color: var(--accent); }
+.industry-chip.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+/* Pain badge */
+.pain-badge {
+  font-size: 11px;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: 20px;
+  background: rgba(239,68,68,0.12);
+  color: var(--red);
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor: default;
+}
+.post-card.has-pain { border-left: 3px solid var(--red); }
+.post-badges { display: flex; gap: 6px; align-items: center; flex-shrink: 0; }
+
 /* Settings bar */
 .settings-bar {
   background: var(--surface2);

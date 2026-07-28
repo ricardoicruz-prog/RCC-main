@@ -1,14 +1,43 @@
 let currentData = null;
+let selectedIndustry = 'all';
 
+// ── Industry chips ──────────────────────────────────────────
+async function loadIndustries() {
+  try {
+    const resp = await fetch('/api/industries');
+    const industries = await resp.json();
+    const container = document.getElementById('industryChips');
+    container.innerHTML = Object.entries(industries).map(([key, val]) => `
+      <button
+        class="industry-chip ${key === 'all' ? 'active' : ''}"
+        data-key="${key}"
+        onclick="selectIndustry('${key}', this)"
+      >${val.emoji} ${val.label}</button>
+    `).join('');
+  } catch (e) {
+    // silently fail — chips just won't show
+  }
+}
+
+function selectIndustry(key, btn) {
+  selectedIndustry = key;
+  document.querySelectorAll('.industry-chip').forEach(c => c.classList.remove('active'));
+  btn.classList.add('active');
+}
+
+// ── Scan ────────────────────────────────────────────────────
 async function runScan(forceRefresh = false) {
   showLoading();
 
   const msgEl = document.getElementById('loadingMsg');
+  const ind = document.querySelector('.industry-chip.active');
+  const indLabel = ind ? ind.textContent.trim() : 'your niche';
   const msgs = [
-    'Scanning Reddit hot posts…',
+    `Scanning Reddit for ${indLabel} discussions…`,
     'Fetching Hacker News discussions…',
-    'Searching Bluesky conversations…',
+    `Searching Bluesky for ${indLabel} conversations…`,
     'Pulling YouTube videos…',
+    'Scraping industry sites…',
     'Scoring by engagement heat…',
     'Clustering topic themes…',
     'Almost done…',
@@ -23,14 +52,12 @@ async function runScan(forceRefresh = false) {
     const resp = await fetch('/api/scan', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ force_refresh: forceRefresh }),
+      body: JSON.stringify({ force_refresh: forceRefresh, industry: selectedIndustry }),
     });
 
     clearInterval(msgInterval);
 
-    if (!resp.ok) {
-      throw new Error(`Server error: ${resp.status}`);
-    }
+    if (!resp.ok) throw new Error(`Server error: ${resp.status}`);
 
     const json = await resp.json();
     currentData = json.data;
@@ -45,6 +72,7 @@ function showLoading() {
   document.getElementById('idleState').style.display = 'none';
   document.getElementById('loadingState').style.display = 'flex';
   document.getElementById('results').style.display = 'none';
+  document.getElementById('exportBtn').style.display = 'none';
   document.getElementById('scanBtn').disabled = true;
   document.getElementById('refreshBtn').disabled = true;
 }
@@ -61,16 +89,18 @@ function renderResults(status) {
   document.getElementById('loadingState').style.display = 'none';
   document.getElementById('idleState').style.display = 'none';
   document.getElementById('results').style.display = 'block';
+  document.getElementById('exportBtn').style.display = 'inline-block';
   document.getElementById('scanBtn').disabled = false;
   document.getElementById('refreshBtn').disabled = false;
 
   const d = currentData;
   const total = d.total_fetched || 0;
   const pc = d.platform_counts || {};
+  const indLabel = d.industry_label ? ` · ${d.industry_label}` : '';
   const ytPart = pc.youtube ? `, YouTube: ${pc.youtube}` : '';
   const fcPart = pc.firecrawl ? `, Web: ${pc.firecrawl}` : '';
   document.getElementById('statsText').textContent =
-    `${total} posts scanned — Reddit: ${pc.reddit || 0}, HN: ${pc.hackernews || 0}, Bluesky: ${pc.bluesky || 0}${ytPart}${fcPart}`;
+    `${total} posts scanned${indLabel} — Reddit: ${pc.reddit || 0}, HN: ${pc.hackernews || 0}, Bluesky: ${pc.bluesky || 0}${ytPart}${fcPart}`;
 
   const badge = document.getElementById('cacheLabel');
   badge.textContent = status === 'cached' ? 'Cached' : 'Fresh';
@@ -80,10 +110,55 @@ function renderResults(status) {
   renderTopics(d.topics || []);
 }
 
+// ── CSV Export ───────────────────────────────────────────────
+function exportCSV() {
+  if (!currentData) return;
+
+  const ind = currentData.industry_label || 'All Industries';
+  const date = new Date().toISOString().slice(0, 10);
+
+  const rows = [
+    ['Title', 'URL', 'Platform', 'Source', 'Heat Score', 'Age (hours)', 'Upvotes', 'Comments', 'Pain Signal', 'Industry'],
+  ];
+
+  (currentData.engage || []).forEach(item => {
+    rows.push([
+      item.title || '',
+      item.url || '',
+      item.platform || '',
+      item.source || '',
+      item.heat_score != null ? item.heat_score.toFixed(2) : '',
+      item.age_hours || '',
+      item.raw_score || 0,
+      item.comment_count || 0,
+      item.pain_signal || '',
+      ind,
+    ]);
+  });
+
+  const csv = rows.map(r =>
+    r.map(v => `"${String(v).replace(/"/g, '""')}"`).join(',')
+  ).join('\n');
+
+  const blob = new Blob(['﻿' + csv], { type: 'text/csv;charset=utf-8;' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `rcc-${ind.toLowerCase().replace(/[^a-z0-9]+/g, '-')}-${date}.csv`;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+}
+
+// ── Render helpers ───────────────────────────────────────────
 function heatBadge(score) {
   if (score >= 5) return '<span class="heat-badge heat-high">🔥 Hot</span>';
   if (score >= 2) return '<span class="heat-badge heat-mid">↑ Rising</span>';
   return '<span class="heat-badge heat-low">· Active</span>';
+}
+
+function painBadge(signal) {
+  if (!signal) return '';
+  return `<span class="pain-badge" title="${escHtml(signal)}">🚨 Pain Point</span>`;
 }
 
 function platformPill(platform) {
@@ -110,10 +185,13 @@ function renderEngageFeed(items) {
       ? `<p class="post-text">${escHtml(item.text.slice(0, 200))}${item.text.length > 200 ? '…' : ''}</p>`
       : '';
     return `
-      <div class="post-card">
+      <div class="post-card${item.pain_signal ? ' has-pain' : ''}">
         <div class="post-header">
           <a href="${escHtml(item.url)}" target="_blank" rel="noopener" class="post-title">${escHtml(item.title)}</a>
-          ${heatBadge(item.heat_score)}
+          <div class="post-badges">
+            ${painBadge(item.pain_signal)}
+            ${heatBadge(item.heat_score)}
+          </div>
         </div>
         ${snippet}
         <div class="post-meta">
@@ -185,3 +263,6 @@ function escHtml(str) {
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;');
 }
+
+// ── Init ─────────────────────────────────────────────────────
+loadIndustries();

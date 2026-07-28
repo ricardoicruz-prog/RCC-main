@@ -2,7 +2,6 @@ import os
 import sys
 from pathlib import Path
 
-# load .env if present
 try:
     from dotenv import load_dotenv
     load_dotenv(Path(__file__).parent.parent / ".env")
@@ -18,7 +17,7 @@ from pydantic import BaseModel
 import uvicorn
 
 from backend.fetchers import reddit, hackernews, bluesky, youtube, firecrawl
-from backend.core import scorer, clusterer, cache
+from backend.core import scorer, clusterer, cache, industries
 
 app = FastAPI(title="RCC – Research & Content Commander")
 
@@ -28,6 +27,7 @@ app.mount("/static", StaticFiles(directory=FRONTEND_DIR / "static"), name="stati
 
 class ScanRequest(BaseModel):
     force_refresh: bool = False
+    industry: str = "all"
 
 
 @app.get("/", response_class=HTMLResponse)
@@ -36,20 +36,34 @@ async def index():
     return HTMLResponse(html_path.read_text())
 
 
+@app.get("/api/industries")
+async def list_industries():
+    return {
+        key: {"label": v["label"], "emoji": v["emoji"]}
+        for key, v in industries.INDUSTRIES.items()
+    }
+
+
 @app.post("/api/scan")
 async def run_scan(req: ScanRequest):
-    cache_key = "scan_v1"
+    cache_key = f"scan_v2_{req.industry}"
     if not req.force_refresh:
         cached = cache.get(cache_key)
         if cached:
             return JSONResponse({"status": "cached", "data": cached})
 
+    ind = industries.get_industry(req.industry)
+    kw = ind["keywords"]
+    subs = ind["subreddits"]
+    yt_q = ind["yt_queries"]
+    bsky_q = ind["bsky_queries"]
+
     all_items = []
 
-    reddit_items = reddit.fetch()
+    reddit_items = reddit.fetch(subreddits=subs, keywords=kw)
     all_items.extend(reddit_items)
 
-    hn_items = hackernews.fetch()
+    hn_items = hackernews.fetch(keywords=kw)
     all_items.extend(hn_items)
 
     bsky_handle = os.environ.get("BLUESKY_HANDLE", "")
@@ -57,18 +71,25 @@ async def run_scan(req: ScanRequest):
     bsky_items = bluesky.fetch(
         handle=bsky_handle or None,
         app_password=bsky_password or None,
+        queries=bsky_q,
+        keywords=kw,
     )
     all_items.extend(bsky_items)
 
     yt_key = os.environ.get("YOUTUBE_API_KEY", "")
     if yt_key:
-        yt_items = youtube.fetch(api_key=yt_key)
+        yt_items = youtube.fetch(api_key=yt_key, queries=yt_q, keywords=kw)
         all_items.extend(yt_items)
 
     fc_key = os.environ.get("FIRECRAWL_API_KEY", "")
     if fc_key:
         fc_items = firecrawl.fetch(api_key=fc_key)
         all_items.extend(fc_items)
+
+    # tag pain signals
+    for item in all_items:
+        signal = industries.detect_pain_signal(f"{item.get('title','')} {item.get('text','')}")
+        item["pain_signal"] = signal
 
     scored = scorer.score_items(all_items)
     engage_feed, topics_feed = scorer.split_by_intent(scored)
@@ -80,6 +101,8 @@ async def run_scan(req: ScanRequest):
         "engage": engage_feed[:30],
         "topics": topic_summaries[:10],
         "total_fetched": len(all_items),
+        "industry": req.industry,
+        "industry_label": ind["label"],
         "platform_counts": {
             "reddit": sum(1 for i in all_items if i["platform"] == "reddit"),
             "hackernews": sum(1 for i in all_items if i["platform"] == "hackernews"),

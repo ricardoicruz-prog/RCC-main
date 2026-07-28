@@ -25,13 +25,14 @@ NICHE_KEYWORDS = [
 ]
 
 
-def _score_relevance(text: str) -> float:
+def _score_relevance(text: str, keywords: list = None) -> float:
+    kws = keywords or NICHE_KEYWORDS
     text_lower = text.lower()
-    hits = sum(1 for kw in NICHE_KEYWORDS if kw in text_lower)
+    hits = sum(1 for kw in kws if kw in text_lower)
     return min(hits / 3.0, 1.0)
 
 
-def _parse_feed(url: str, source_label: str) -> List[Dict]:
+def _parse_feed(url: str, source_label: str, keywords: list = None) -> List[Dict]:
     try:
         feed = feedparser.parse(url)
     except Exception:
@@ -43,15 +44,12 @@ def _parse_feed(url: str, source_label: str) -> List[Dict]:
         summary = entry.get("summary", "")
         combined = f"{title} {summary}"
 
-        relevance = _score_relevance(combined)
+        relevance = _score_relevance(combined, keywords)
         if relevance == 0:
             continue
 
-        # engagement from feed metadata
         comments = 0
         score = 0
-        for tag in entry.get("tags", []):
-            pass  # RSS doesn't carry vote counts well
 
         published = entry.get("published_parsed")
         if published:
@@ -76,7 +74,7 @@ def _parse_feed(url: str, source_label: str) -> List[Dict]:
     return items
 
 
-def _fetch_json_listing(subreddit: str) -> List[Dict]:
+def _fetch_json_listing(subreddit: str, keywords: list = None) -> List[Dict]:
     """Fallback: use .json endpoint with proper headers."""
     url = f"https://www.reddit.com/r/{subreddit}/hot.json?limit=25"
     headers = {"User-Agent": "RCC-ContentScanner/1.0 (personal research tool)"}
@@ -92,7 +90,7 @@ def _fetch_json_listing(subreddit: str) -> List[Dict]:
             title = p.get("title", "")
             selftext = p.get("selftext", "")
             combined = f"{title} {selftext}"
-            relevance = _score_relevance(combined)
+            relevance = _score_relevance(combined, keywords)
             if relevance == 0:
                 continue
             created = p.get("created_utc", 0)
@@ -115,16 +113,17 @@ def _fetch_json_listing(subreddit: str) -> List[Dict]:
         return []
 
 
-def fetch(max_subreddits: int = 6) -> List[Dict]:
+def fetch(max_subreddits: int = 6, subreddits: list = None, keywords: list = None) -> List[Dict]:
+    global NICHE_KEYWORDS
+    active_keywords = keywords or NICHE_KEYWORDS
+    subs = (subreddits or NICHE_SUBREDDITS)[:max_subreddits]
     results = []
-    subs = NICHE_SUBREDDITS[:max_subreddits]
     for i, sub in enumerate(subs):
         if i > 0:
-            time.sleep(1.5)  # respect rate limit ~1 req/60s guideline with caching
-        items = _fetch_json_listing(sub)
+            time.sleep(1.5)
+        items = _fetch_json_listing(sub, active_keywords)
         if not items:
-            # fallback to RSS
             rss_url = f"https://www.reddit.com/r/{sub}/hot.rss"
-            items = _parse_feed(rss_url, f"r/{sub}")
+            items = _parse_feed(rss_url, f"r/{sub}", active_keywords)
         results.extend(items)
     return results

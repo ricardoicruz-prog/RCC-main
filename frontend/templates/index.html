@@ -16,6 +16,9 @@
           <span class="brand-sub">Research &amp; Content Commander</span>
         </div>
         <div class="header-actions">
+          <button id="exportBtn" class="btn btn-ghost" onclick="exportCSV()" style="display:none" title="Download results as CSV">
+            ↓ Export CSV
+          </button>
           <button id="scanBtn" class="btn btn-primary" onclick="runScan(false)">
             Run Scan
           </button>
@@ -26,13 +29,23 @@
       </div>
     </header>
 
+    <!-- Industry selector -->
+    <div class="industry-bar">
+      <div class="industry-inner">
+        <span class="industry-label">Industry:</span>
+        <div id="industryChips" class="industry-chips">
+          <!-- populated by JS -->
+        </div>
+      </div>
+    </div>
+
     <main class="main">
       <!-- idle state -->
       <div id="idleState" class="idle-state">
         <div class="idle-icon">🔍</div>
         <h2>Ready to scan</h2>
-        <p>Click <strong>Run Scan</strong> to pull hot posts from Reddit, Hacker News, Bluesky, and YouTube — filtered for your niche.</p>
-        <p class="idle-hint">Results are cached for 2 hours. Use <em>Fresh Scan</em> to force a new fetch.</p>
+        <p>Select an industry above, then click <strong>Run Scan</strong> to pull hot posts from Reddit, Hacker News, Bluesky, YouTube, and industry sites — filtered for your niche.</p>
+        <p class="idle-hint">Results are cached 2 hours per industry. Use <em>Fresh Scan</em> to force a new fetch.</p>
         <button class="btn btn-primary btn-large" onclick="runScan(false)">Run Scan</button>
       </div>
 
@@ -60,7 +73,7 @@
         </div>
 
         <div id="engageTab" class="tab-content">
-          <p class="tab-desc">Recent posts you can add value to <em>right now</em> — sorted by heat + recency.</p>
+          <p class="tab-desc">Recent posts you can add value to <em>right now</em> — sorted by heat + recency. 🚨 marks real pain points your content can address.</p>
           <div id="engageList" class="post-list"></div>
         </div>
 

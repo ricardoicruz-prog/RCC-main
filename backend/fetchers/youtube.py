@@ -24,8 +24,12 @@ NICHE_KEYWORDS = [
 
 
 def _score_relevance(text: str) -> float:
+    return _score_relevance_kw(text, NICHE_KEYWORDS)
+
+
+def _score_relevance_kw(text: str, keywords: list) -> float:
     text_lower = text.lower()
-    hits = sum(1 for kw in NICHE_KEYWORDS if kw in text_lower)
+    hits = sum(1 for kw in keywords if kw in text_lower)
     return min(hits / 2.0, 1.0)
 
 
@@ -99,15 +103,17 @@ def _get_transcript_excerpt(video_id: str) -> str:
         return ""
 
 
-def fetch(api_key: str, max_queries: int = 4) -> List[Dict]:
+def fetch(api_key: str, max_queries: int = 4, queries: list = None, keywords: list = None) -> List[Dict]:
     if not api_key:
         return []
 
+    active_queries = (queries or SEARCH_QUERIES)[:max_queries]
+    active_keywords = keywords or NICHE_KEYWORDS
     results = []
     seen_ids = set()
 
     with httpx.Client() as client:
-        for query in SEARCH_QUERIES[:max_queries]:
+        for query in active_queries:
             items = _search_videos(client, query, api_key)
             video_ids = []
             for item in items:
@@ -129,7 +135,7 @@ def fetch(api_key: str, max_queries: int = 4) -> List[Dict]:
                 published = snippet.get("publishedAt", "")
 
                 combined = f"{title} {description}"
-                relevance = _score_relevance(combined)
+                relevance = _score_relevance_kw(combined, active_keywords)
                 if relevance == 0:
                     continue
 
