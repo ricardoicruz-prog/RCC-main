@@ -7,7 +7,7 @@
 **One-liner:** "I help growing businesses eliminate the manual work that is quietly costing them time and revenue — using AI and automation tools that pay for themselves within weeks of deployment."
 **What it does:** Audits operations, then designs and deploys the automations (workflow, tool integrations, documentation, training) that remove the founder as the operational bottleneck.
 **Product category:** AI/automation operations consulting — how the audience searches for it: "business consultant for [my industry]," "how to stop being the bottleneck in my business," "operations audit for small business."
-**Product type:** Service (consulting engagement), tiered by scope. Entry point is a paid diagnostic (Tier 1 Audit), not a free lead magnet — [NOTE: this supersedes the earlier draft, which assumed a free "Operational Capacity Audit" lead magnet; the actual funnel entry point is the $1,500–$2,000 paid audit].
+**Product type:** Service (consulting engagement), tiered by scope. Two funnel entry points confirmed live on ricardocruz.io/hello: the free **Growth Readiness Assessment** (10-minute self-assessment, renamed from the earlier "Operational Capacity Audit" — same asset, current name) for top-of-funnel qualification, and the paid Tier 1 AI Operations Audit ($1,500–$2,000) as the first paid engagement.
 **Business model:** Five tiers, all beginning with a signed MSA + Statement of Work.
 
 | Tier | Name | Price | Format | Timeline | Best for |
