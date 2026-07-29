@@ -1,12 +1,12 @@
 # Brand Context
 
-*Status: V2 — updated from the RCC Services & Pricing sheet (2026), published case studies at ricardocruz.io/case-studies, and Ricardo's direct input. Remaining gaps marked [NEED INPUT] / [OPEN QUESTION].*
+*Status: V3 — brand name, stage, and pilot-client status confirmed by Ricardo. One remaining gap marked [NEED INPUT].*
 
 ## Brand
-- **Name**: Ricardo Cruz Consulting (RCC) — internal/working shorthand. External-facing pricing collateral brands it as **"Ricardo Cruz | AI Operations Consultancy."** [OPEN QUESTION: which name should be canonical in external marketing copy — "RCC," "Ricardo Cruz Consulting," or "AI Operations Consultancy"? They're used interchangeably right now.]
+- **Name**: **Ricardo Cruz Consulting** — spell out on first use, then **RCC** for short. "AI Operations Consultancy" is a category descriptor/tagline used under the name on pricing collateral, not a competing brand name — keep it subordinate to "Ricardo Cruz Consulting" in external copy.
 - **Category**: AI/automation operations consulting for founder-led SMBs — audits and builds the automations that eliminate manual work quietly costing the business time and revenue.
 - **Description**: "I help growing businesses eliminate the manual work that is quietly costing them time and revenue — using AI and automation tools that pay for themselves within weeks of deployment." (verbatim from pricing collateral)
-- **Stage**: Early stage, actively selling. Cold outreach is running across the three industry lanes (mental health, medical practice, wellness/fitness), but no client has closed through that official outreach motion yet. Two case studies (a day spa and a boutique gym) are already delivered and published — [OPEN QUESTION: were those early/pilot engagements outside the current official sales pipeline? Worth reconciling "no official client yet" with two published, completed case studies.]
+- **Stage**: Early stage, actively selling. Cold outreach is running across the three industry lanes (mental health, medical practice, wellness/fitness). Two case studies (a day spa and a boutique gym) are completed **pilot engagements** — used to build proof points, not counted as official closed clients from the current sales pipeline. No official paying client has closed through that pipeline yet.
 - **Website**: ricardocruz.io
 
 ## Audience

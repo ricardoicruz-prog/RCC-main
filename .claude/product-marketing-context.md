@@ -1,7 +1,7 @@
 # Product Marketing Context
 
 *Last updated: 2026-07-29 (V2)*
-*Status: Updated from the RCC Services & Pricing sheet (2026) and published case studies at ricardocruz.io/case-studies. Remaining gaps marked [NEED INPUT] / [OPEN QUESTION].*
+*Status: V3 — pilot-client status confirmed, HSA case study drafted from Ricardo's account. Remaining gaps (competitors, sales objections) marked [NEED INPUT] — genuinely open since no competitive sales cycle has happened yet.*
 
 ## Product Overview
 **One-liner:** "I help growing businesses eliminate the manual work that is quietly costing them time and revenue — using AI and automation tools that pay for themselves within weeks of deployment."
@@ -104,9 +104,12 @@
 - **Boutique Gym** (Fitness & Coaching, 6-week engagement): 10 hrs/week → 1 hr/week client follow-up; 40 hrs/month reclaimed; **$72K annual training capacity unlocked**; 90% reduction in follow-up time.
 - **Fortune 500 Financial Services — Severance & Benefits** (enterprise engagement, operating-model redesign): **90% reduction in escalations** tied to a single decision point; decision sequence moved from "last question on a call" to "first step in the flow."
 - **Fortune 500 Financial Services — Retiree Healthcare Eligibility** (enterprise engagement, systems visibility): **+5 NPS points**; 15 distinct eligibility variations mapped to one auditable source of truth; 100% of outcomes traceable to the underlying rule.
-- [NOTE: the two Fortune 500 case studies read as engagements from Ricardo's enterprise career at Fidelity Investments, not paid RCC/SMB client work. They're strong authority/credibility proof but shouldn't be presented as "RCC client results" without being clear about which era of work they're from.]
-- [OPEN QUESTION: the pricing sheet also headlines "95% HSA Issues Eliminated" as a stat, but no published case study on the site currently substantiates it. Worth either writing that case study up or dropping the stat from collateral until it's backed by a public write-up.]
-**Customers:** Day spa (unnamed/anonymized), boutique gym (unnamed/anonymized), Fortune 500 financial services (unnamed/anonymized).
+- **Fortune 500 Financial Services — HSA Payroll Funding** (enterprise engagement, cross-functional process redesign): **95% reduction in HSA issues** (escalations and funding errors). Draft narrative (Ricardo's own account, not yet published as a formal case study):
+  > When HSAs became more popular, corporate clients were struggling to correctly deduct HSA contributions from payroll and get that money into HSA accounts. The root cause was inconsistent understanding — across Product, HSA Operations, clients, and the core systems team — of the IRS funding rules governing when and how payroll contributions could be made, made worse when an employee reported a retroactive status change. Ricardo brought those groups together to whiteboard the desired end-to-end outcome, then designed an employee experience letting someone set their HSA goal amount and have it deducted correctly from payroll — built on one consistent interpretation of the rules applied across every group. Result: HSA escalations and funding errors dropped 95%, and the employee experience became end-to-end reliable.
+  > This case demonstrates the same core skill as the other Fortune 500 stories: translating complexity across groups, technology, and clients into measurable outcomes.
+- [NOTE: all three Fortune 500 case studies read as engagements from Ricardo's enterprise career at Fidelity Investments, not paid RCC/SMB client work. They're strong authority/credibility proof but should be presented as track record, not "RCC client results," to avoid implying they were paid RCC engagements.]
+- [NEXT STEP: the HSA story above is a draft narrative, not yet formatted to match the site's published case-study style (Challenge / Operational Cost Before-After / Intervention / Outcome). Offer to draft that formatted version for ricardocruz.io/case-studies if Ricardo wants to publish it.]
+**Customers:** Day spa (pilot client, unnamed/anonymized), boutique gym (pilot client, unnamed/anonymized), Fortune 500 financial services (unnamed/anonymized, from Ricardo's enterprise career).
 **Credentials:** MBA with Distinction (SNHU), 15+ years enterprise operations (Fidelity Investments), President's Circle Award.
 **Value themes:**
 | Theme | Proof |
@@ -119,4 +122,4 @@
 ## Goals
 **Business goal:** $150,000 revenue in Year 1.
 **Conversion action:** Book a free 30-minute discovery call at ricardocruz.io.
-**Current metrics:** Behind Q1 pace — target was $15K by 8/31, currently at risk. No officially closed client yet through the current outreach pipeline as of this writing, despite two published case studies already delivered. [OPEN QUESTION: clarify whether the spa/gym engagements count toward the $150K Year 1 target or predate it, since that affects how "behind pace" the number actually is.]
+**Current metrics:** Behind Q1 pace — target was $15K by 8/31, currently at risk. The day spa and boutique gym engagements were pilot clients (used to build proof points, not counted toward the official sales pipeline) — zero officially closed clients yet through the current outreach motion.
