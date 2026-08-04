@@ -7,7 +7,3 @@ venv/
 *.egg-info/
 dist/
 .DS_Store
-
-# Cold outbound skills: client profiles, experiment logs, reply scores
-profiles/
-node_modules/
