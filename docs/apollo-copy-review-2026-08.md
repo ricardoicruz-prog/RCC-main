@@ -68,6 +68,22 @@ volume will produce another unreadable result. The rewrite below is worth
 shipping, but it needs meaningfully more volume behind it — on the order of
 300+ contacts per lane — before its performance means anything.
 
+**Resolved 2026-08-04.** Two changes since this review was written remove the
+constraint:
+
+- **Sending moved to four dedicated inboxes on `meetricardo.co`**, warmed since
+  2026-07-06 and confirmed active in Apollo. Capacity goes from roughly 40
+  sends/day on one mailbox to 100/day ramping to 160/day across four, which puts
+  a ~3,600-send round at 4.5 to 7 weeks instead of ~13. It also takes cold
+  traffic off the primary domain, which the earlier spam blocks made advisable.
+- **Search geography widened from 7 states to 12**, adding Pennsylvania,
+  Missouri, Minnesota, Iowa and Tennessee. Estimated pool moves from ~1,100 to
+  somewhere near 1,800-1,900, giving enough headroom for a 900-contact round
+  with room left to iterate.
+
+Both are recorded in `rcc-cold-outreach-sop`. The live Apollo search still needs
+rebuilding by hand — that step has no connector tool.
+
 ---
 
 ## 2. What is wrong with the current copy
