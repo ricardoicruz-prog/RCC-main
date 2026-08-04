@@ -98,19 +98,29 @@ higher reply rates. Current lengths:
 
 Email 2 is a five-paragraph essay sent to a stranger who did not ask for it.
 
-### 2.3 A tracked link in email 1, and in every email after
+### 2.3 The link had nothing behind it
 
-A first-touch cold email from an unknown sender containing a tracked link is
-both a deliverability liability and a trust problem. Standard practice is no
-link in the first touch. This pattern appears in all four emails in all three
-lanes.
+The link stays in all four emails — SOP rule confirmed and unchanged. What
+changes is the destination: `/hello` is replaced by
+**`ricardocruz.io/runs-without-you`**, the free offer page.
 
-Note: the cold-outreach SOP explicitly says every email closes with the
-`/hello` link and that the link structure must never be edited. The rewrite
-below keeps the link and its UTM structure exactly as specified but moves it to
-email 3 only. **This is a deliberate departure from the SOP and needs your
-sign-off** — if the SOP rule stands, the link goes back in every email and this
-recommendation is void.
+This is the more useful fix. A generic "here's my page" link asks a stranger to
+go look at something for no stated reason. A named free offer gives the click a
+reason to exist, and it lets the email lead with something the reader gets
+rather than something Ricardo does. The UTM structure is unchanged —
+`utm_source=email&utm_medium=cold_outreach&utm_campaign=[LANE]&utm_content=email[1-4]`
+— and display text stays clean, with the tracked URL in the `href`.
+
+One caution worth keeping in view: every email now carries both a link and a
+question. That is two asks, and the skill guidance is one job per email. The
+rewrite handles this by making the question the ask and the offer the
+supporting resource, never the reverse. If reply rate is the metric, the
+question has to stay in the final line position in emails 1, 2 and 3.
+
+**Note:** `rcc-cold-outreach-sop/references/email-templates.md` and its
+SKILL.md still specify `/hello` throughout. Both need updating or the SOP and
+the live copy will drift. That file lives in the user-level skills directory,
+outside this repo.
 
 ### 2.4 The opener is hollow flattery
 
@@ -175,11 +185,14 @@ maximum one em dash per email, no buzzwords, calm and observational tone.
 >
 > Is that roughly true at {{company}}, or have you got that handled already?
 >
+> If it's easier to just look, the free walkthrough is here:
+> ricardocruz.io/runs-without-you
+>
 > Ricardo
 
-*51 words. One question, answerable in four words. No link. The "or have you
-got that handled" gives an easy out, which raises reply rates rather than
-lowering them.*
+*72 words. One question, answerable in four words. The "or have you got that
+handled" gives an easy out, which raises reply rates rather than lowering them.
+The offer sits after the question so the question keeps the emphasis.*
 
 ### Email 2 — Day 4
 **Subject:** The hire that didn't fix it
@@ -194,11 +207,12 @@ lowering them.*
 > that triggered onboarding automatically. About 14 hours a week came back to
 > the team. No new hire.
 >
-> Worth me showing you where yours is going?
+> Worth me showing you where yours is going? More examples are at
+> ricardocruz.io/runs-without-you
 >
 > Ricardo
 
-*76 words. Keeps the strongest existing subject line and the strongest existing
+*82 words. Keeps the strongest existing subject line and the strongest existing
 story, cut to its bones.*
 
 ### Email 3 — Day 11
@@ -210,17 +224,14 @@ story, cut to its bones.*
 > a year. That cost never lands on a P&L, which is why it goes unnoticed for
 > years.
 >
-> I built a short calculator so you can run your own numbers:
-> ricardocruz.io/hello
+> You can run your own numbers here: ricardocruz.io/runs-without-you
 >
 > If the figure looks wrong for {{company}}, tell me and I'll stop guessing.
 >
 > Ricardo
 
-*70 words. The one link in the sequence, at the touch where trust is highest.
-Link text and UTM structure unchanged from spec
-(`utm_campaign=mental_health&utm_content=email3`). Still closes on a reply ask,
-not the click.*
+*68 words. The offer carries the specific promise here, so the link earns its
+place. Still closes on a reply ask rather than the click.*
 
 ### Email 4 — Day 19
 **Subject:** Closing the loop
@@ -232,10 +243,13 @@ not the click.*
 > One thing before I do — was it timing, or is operations simply not the
 > bottleneck at {{company}} right now? Either answer is genuinely useful to me.
 >
+> Whenever it's useful, it's all still at ricardocruz.io/runs-without-you
+>
 > Ricardo
 
-*54 words. A real question at the exit. This touch typically produces the
-highest reply rate in the sequence.*
+*70 words. A real question at the exit. This touch typically produces the
+highest reply rate in the sequence, and the standing offer gives the people who
+won't reply somewhere to go.*
 
 ---
 
@@ -273,8 +287,10 @@ throughout.
 
 ## 5. Recommendations before relaunch
 
-1. **Get sign-off on the link change** (section 2.3). It contradicts a standing
-   SOP rule and is the only change here that does.
+1. **Update the SOP to the new offer page.** `email-templates.md` and
+   `rcc-cold-outreach-sop/SKILL.md` still specify `/hello` in the link rule and
+   in all twelve emails. Change both to `runs-without-you` so the SOP stays the
+   source of truth.
 2. **Raise volume before drawing conclusions.** Target 300+ contacts per lane.
    At current volume the next campaign will be as unreadable as the last.
 3. **Test one variable, not two.** The V2 A/B changed the entire angle
