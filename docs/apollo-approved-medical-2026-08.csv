@@ -1,0 +1,924 @@
+contact_id,first_name,last_name,email,company,title,state,domain,naics,lane,verdict,reason
+6a724a0fc679740001423adf,Matt,Crook,matt@sylvanhealth.com,Sylvan Health,Co-Founder & President,Tennessee,sylvanhealth.com,62139;541512,Medical Practice,Approve,Medical Practice
+6a724a13c679740001423c53,Carley,Fowler,cfowler@knoxdermplastics.com,"DERMATOLOGY ASSOCIATES OF KNOXVILLE, P.C.",Physician Owner,Tennessee,dermaknox.com,62111,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b68,Ericha,Rupp,erichar@noteablemusictherapy.com,"Note-Able Music Therapy Services of MN, LLC",Owner and Lead Music Therapist,Minnesota,noteablemusictherapy.com,62139,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c02,Diem-Hang,Ho,hang.ho@thenexusgrouppc.com,"Nexus Group, PC",Managing Partner,Pennsylvania,thenexusgrouppc.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423981,Ellen,Wolfe,ewolfe@sightrite.com,SightRite Eye Care Services,Owner/Optometrist at At Home Eye Care PLLC,Pennsylvania,sightrite.com,621320,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b4d,William,Vemula,wvemula@inhospitalphysicians.com,Inhospital Physicians,CO-CEO,Pennsylvania,inhospitalphysicians.com,56132;621111;561311,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423905,Pat,Manning,pat@manningphysicaltherapy.net,Manning Physical Therapy,President,Pennsylvania,manningphysicaltherapy.net,62139,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bf7,Marcia,Mattson,marciam@capernaumpeds.com,"Capernaum Pediatric Therapy, Inc.",President,Minnesota,capernaumpeds.com,62139;62134,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423969,Sima,Patel,spateldds@lakemoordental.com,Lakemoor Dental,Owner,Illinois,lakemoordental.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a30,Susan,Griffin,susan@nashvillecosmeticsurgery.com,Nashville Cosmetic Surgery + The Skin Lounge,Co-owner,Tennessee,nashvillecosmeticsurgery.com,33911;621111,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423908,Naimish,Patel,npatel@sevadentalteam.com,Seva Dental Team,Chairman and Co-Founder,Michigan,sevadentalteam.com,621210,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c12,Hoang,Nguyen,hnguyen@rdradiology.com,Regional Diagnostic Radiology,"President, Regional Diagnostic Radiology",Minnesota,rdrmn.com,62151;621111;621498,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ab2,David,Christensen,dchristensen@iowaeyecare.com,Iowa EyeCare,Optometrist/Owner,Iowa,iowaeyecare.com,62111;621320,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b3c,Curtis,Swogger,cswogger@nposa.com,North Pittsburgh Oral Surgery,Chief Executive Officer,Michigan,northpittsburghoralsurgery.com,621210,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c3c,Chris,Talley,drtalley@innateknox.com,Innate Wellness,Owner,Tennessee,innatewellness.ca,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239d6,Nathan,Hoffman,dr.nathanhoffman@thechicagodentalstudio.com,The Chicago Dental Studio,Dentist/Owner,Illinois,thechicagodentalstudio.com,621210,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ae9,Sudhir,Malhotra,sudhir@healncure.com,Heal n Cure Medical Wellness Center,CEO Founder,Illinois,healncure.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b6d,Sarah,Rosten,sarahr@pediatricinteractions.com,Pediatric Interactions,Speech/Language Pathologist and CEO,Illinois,pediatricinteractions.com,62139,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b36,Jeff,Gardino,jeff.gardino@bellanodental.com,Bellano Dental Health,Chief Executive Officer,Tennessee,bellanodental.com,62121,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c4a,Noel,Liu,noelliu@secure-dental.com,DentVia,Co-Founder,Illinois,dentvia.com,62121;561110;561320,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b6c,Brian,Smith,brians@carepartnersrx.com,CarePartners Pharmacy,"President, CarePartners Pharmacy",Tennessee,carepartnersrx.com,62139;45611;621498,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fbc,Mitch,Lawson,mitch@subflow.com,Subflow Health,Co-Founder,Tennessee,subflow.com,62111;513210,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a12,Kevan,Lewis,klewis@newdermgroup.com,New Dermatology Group,Owner,Wisconsin,newdermgroup.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ac2,Maggie,Solimeo,maggie.solimeo@feetfirstpa.com,Feet First Podiatry,Owner,Pennsylvania,feetfirstpodiatry.com.au,62139,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a95,Charity,McConnell,charitymcconnell@franklinderm.net,FRANKLIN DERMATOLOGY GROUP PLC,Owner/Dermatologist,Tennessee,franklinderm.net,62111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a9e,Amanda,Sonntag,drsonntag@compassdentalpa.com,Compass Dental,Owner and Dentist,Pennsylvania,compassdental.ca,62121,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423be2,Russ,Lein,rlein@ppwhealth.com,Pro Spine & Pain,Chief Executive Officer,Wisconsin,prospinepain.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423b01,Kaylynne,Gasiorowski,drkaylynne@uwschiro.com,Universal Wellness Source,Owner,Illinois,universalwellnesssource.com,621310,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238be,Anthony,Dann,anthony@biometricahealth.com,"Biometrica Health, Inc.",Founder & CEO,Minnesota,biometricahealth.com,62139;513210;621999,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239e3,Lewis,Sharps,lsharpsmd@sharpsmd.com,Comprehensive Diagnostic Center,Founder & CEO,Pennsylvania,cdcime.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e09,Lori,Silverberg,lori@sensablekids.com,SensAble Kids,Owner and Occupational Therapist,Illinois,sensablekids.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e19,Jolynn,Radin,jolynn@thewombwellnesscenter.com,The Womb Wellness Center,"Business Owner, Licensed Massage Therapist, and Certified Birth Doula",Ohio,thewombwellnesscenter.com,62139,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ec0,Matt,Tucker,matt@healthcareadvantage.com,Health Care Advantage,Founder,Ohio,healthcareadvantage.com,62111;541810,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f4c,Erik,Kowalke,drerik@sked.life,SKED,Founder & CEO,Michigan,sked.life,62111;51321,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e72,Newell,Crane,newell@ethos-care.com,Ethos Care,Founder,Ohio,ethos-care.com,62111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425ee0,Kent,Kirk,kkirk@kirkeye.com,"KIRK EYE CENTER, S. C.",Business Owner,Illinois,kirkeye.com,62111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d87,Julie,Chandler,jchandler@ams-ohrc.com,Advanced Medical Specialties,CEO,Illinois,ams-ohrc.com,621111,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425eae,Rami,Salloum,rami.salloum@brightdentalpa.com,Bright Dental,Owner,Pennsylvania,brightdentalpa.com,621210,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e2b,Ann,Lewandowski,ann@hcrebelalliance.com,Rebel Health Alliance,CEO,Wisconsin,rebelhealthalliance.io,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e17,Siddharth,Tambar,st@chicagoarthritis.com,Chicago Arthritis and Regenerative Medicine LLC,Physician and Owner at Chicago Arthritis and Regenerative Medicine,Illinois,chicagoarthritis.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e7a,Sharon,Lyttle,sharon@lyttlefoxtherapy.com,Lyttle Fox Therapy,Company Owner,Tennessee,lyttlefoxtherapy.com,62139,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fd2,Catherine,Stegemann,caty@cntrpt.com,Centre Physical Therapy,Owner/Physical Therapist,Illinois,centrephysicaltherapy.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fd7,Kelly,Beaudoin,kelly@balancesolutions.com,Balance Solutions Physical Therapy,President,Ohio,balancesolutions.com,62139,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e7e,Steve,Crandall,curtis@southhillsdentalarts.com,South Hills Dental Arts,Owner,Pennsylvania,southhillsdentalarts.com,62121,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dca,Vern,Cole,vern@hrimn.com,Hair Restoration Institute,President and Founder at Hair Restoration Institute,Minnesota,hrimn.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f93,Michael,Gilbert,michael.gilbert@gilbertpt.com,Madden & Gilbert Physical Therapy,Company Owner,Pennsylvania,maddengilbertphysicaltherapy.com,62139;62134,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e04,Wayne,Meng,wmeng@remetrichealth.com,RemetricHealth,CEO and Founder,Pennsylvania,remetrichealth.com,62111;334510;51321,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423980,Raymond,Fritz,rfritz@affc.com,Allentown Family Foot Care Professional Corporation,President,Pennsylvania,affc.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bb9,Paige,Berland,pberland@mnbehavioral.com,Minnesota Behavioral Specialists,President of Clinical Operations,Minnesota,mnbehavioral.com,62139;621420;624110,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423960,Derek,Remer,derek@rocketbenefits.com,Rocket Benefits,Co-Founder,Michigan,rocketbenefits.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238d2,Suresh,Gupta,sgupta@daytondoc.com,Dayton Outpatient Center (DOC),Owner,Ohio,daytondoc.com,62139;621493;621111,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423976,Chelsea,Zamudio,brittany@sweettoothkidsdentistry.com,Sweet Tooth Pediatric Dentistry,Business Owner,Wisconsin,sweettoothkids.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239a5,Marcus,Rhem,mrhem@specialtyeyeinstitute.com,TLC Eyecare & Laser Centers,Owner/Partner,Michigan,,621111,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b16,Andrew,Kanter,a.kanter@paoms.com,"Pennsylvania Oral & Maxillofacial Surgery, Ltd.",Owner,Pennsylvania,paoms.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142399c,Richard,Jahnle,rich.jahnle@jahnleeye.com,Jahnle Eye Associates,"Ophthalmologist, President",Pennsylvania,jahnleeye.com,62142;621111,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239f1,Theresa,Osmer,drosmer@flowchiro.com,FLOW Chiropractic,Chiropractic Physician / Owner,Michigan,flowchiro.com,62131,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a0b,Keri,Sutton,ksutton@kare-health.com,Kare Health & Wellness,Chief Medical Officer / Owner,Missouri,integrativehealthcarespringfieldmo.com,62139;621498,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423af6,Bradley,McMath,bmcmath@porthuronchiropractic.com,Lakeview Chiropractic,Owner,Michigan,porthuronchiropractic.com,62131,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a7c,Jessica,Sylvester,jessica@humla.com,Humla Health,CEO and Founder,Minnesota,humla.com,62139;561320,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423aa4,John,Compton,jcompton@otolaryn.com,"OTOLARYNGOLOGY ASSOCIATES, LLC",Chief Executive Officer,Indiana,biggerstaffassociates.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423907,Manan,Trivedi,manan@clearwellnessgroup.com,Clear Wellness Group,Founder,Illinois,clearwellnessgroup.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a0f,Jerry,Eledge,jeledge@communityquickcare.com,Community Quick Care,President,Tennessee,communityquickcare.com,62111;621498,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a32,Rick,Robinson,rick@handsdoc.com,Robinson Chiropractic,Owner,Illinois,myrobinsonchiropractic.com,62131,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ea0,Charles,James,cjamesjr@northamericanhms.com,North American Healthcare Management Services,President and CEO,Missouri,northamericanhms.com,62111;541611;561110,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d94,Jennifer,Fleischer,jenn@nashvillenutritionpartners.com,"Nashville Nutrition Partners, PLLC",Chief Executive Officer,Tennessee,nashvillenutritionpartners.com,621399,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a28,Keren,Horn,khorn@chicagoderm1765.com,Dermatology + Aesthetics,Owner/Partner,Illinois,,621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a61,Mary,Colman,drmcolman@hetrickcenter.com,The Hetrick Center,Owner,Pennsylvania,hetrickcenter.com,62139;621310;621340,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bbd,Elizabeth,Campbell,ecampbell@associatedpediatricians.com,Associated Pediatricians,Pediatrician and Partner/Owner,Indiana,associatedpediatricians.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423993,Brian,Wisniewski,bwisniewski@chelseafamilydentistry.com,Chelsea Family Dentistry,Owner,Michigan,chelseafamilydentistry.com,62121,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b3e,Daniel,Tataje,dtataje@mercydentalwi.com,Mercy Dental Group,Founder & CEO,Wisconsin,mercydentalwi.com,621210,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a7a,Draparna,Sadineni,aparna@dublinmetrodental.com,Dublin Metro Dental,"Cosmetic Dentist, President",Ohio,dublinmetrodental.com,621210,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423b97,Stephen,Nash,stephen.nash@southernpeds.com,Southern Pediatrics,Co-Founder,Tennessee,southernpediatrics.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239cb,Fareha,Malik,fmalik@apofe.com,Advanced Psychiatry of Elgin,"Founder, Chief Executive Officer, Interventional Psychiatrist",Illinois,advancedpsychiatryofelgin.com,621112,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b5d,Courtney,Hodge,courtney@shinepeds.com,Shine Pediatric Therapy,Owner,Indiana,shinepeds.com,62139;621498,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423950,Miranda,Peter,drmiranda@highpointsmile.com,High Point Dentistry,General Dentist and Owner,Wisconsin,highpointsmiles.com,62121,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b49,Greg,Cochrane,gcochrane@rivertowndentalonline.com,Rivertown Dental,Chief Executive Officer,Wisconsin,rivertowndentalonline.com,621210,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bf4,Eva,Hanna,eva@brightdentalpa.com,Bright Dental,Owner,Illinois,brightdentalpa.com,621210,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238b0,Charlie,Hildebrand,charlie@unitynetwork.health,Unity Preferred Network,President & Partner,Missouri,unitynetwork.health,62111;524292,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423955,Nathan,Paulus,nathan@fivepointholistic.com,Five Point Holistic Health,Owner / Bodyworker,Illinois,fivepointholistichealth.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423892,George,Olson,golson@sterlinghealth.net,Sterling Area Health Center,President and Chief Executive Officer,Michigan,sterlinghealth.net,62111;621498,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ac3,Jason,Gehman,jgehman@prsmhealthcare.com,PRSM Healthcare,CEO,Pennsylvania,prsmhealthcare.com,62111;561422;561110,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ad9,Mark,Whitlock,mark@myarlingtondental.com,Arlington Dental,General Dentist & Owner/Operator,Tennessee,myarlingtondental.com,62121,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f34,Ken,Young,kyoung@primaryeyecare.com,Primary Eyecare Group,President / CEO,Tennessee,primaryeyecare.com,62132,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d50,Milan,Nesic,mnesic@mygatewaymd.com,GatewayMD,Chief Executive Officer,Illinois,mygatewaymd.com,62111;541512,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d92,Chris,Castello,npchris@genesislifestylemedicine.com,Genesis Lifestyle Medicine,Co-Owner,Indiana,genesislifestylemedicine.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f10,Megan,Lohman,mlohman@planforward.io,Plan Forward,Founder & Co-Chief Executive Officer,Indiana,planforward.io,62139;513210,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ea2,Neil,Gupta,ngupta@mdhngi.com,Midwest Digestive Health and Nutrition,Managing Partner,Illinois,mdhngi.com,621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f56,Ashlin,Gasiorowski,drashlin@uwschiro.com,Universal Wellness Source,Owner,Illinois,universalwellnesssource.com,621310,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f5d,Jamie,Altman,jaltman@adaderm.com,Aesthetic Dermatology,President,Pennsylvania,adaderm.com,621111,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fe8,Morgan,Hylarides,morgan@mkaesthetics.com,MK Aesthetics,Founder + CEO,Minnesota,mkaesthetics.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425de9,Jerry,Curtin,jcurtin@thecorwellness.com,COR Wellness,CEO,Wisconsin,thecorwellness.com,62139;62199,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f46,Craig,Veatch,cveatch@priorityphysicianspc.com,"Priority Physicians, PC","Physician, Practice Owner Priority Physicians, PC",Indiana,priorityphysicianspc.com,621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f36,William,Steiner,bill@nurowavtms.com,Nurowav,Co-Founder,Pennsylvania,nurowavtms.com,62111;621420,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f64,Quinn,Uzelman,druzelman@wellnesspfc.com,Premier Family Chiropractic,Owner,Tennessee,premierfamilychiropractic.com,62131,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e54,Bailey,Dental,smile@baileyfamilydental.com,Bailey Family Dental,Owner,Wisconsin,baileyfamilydental.com,62121,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425eeb,Andrew,Hayek,andrew@tripleaim.com,Triple Aim Partners,Co-Founder & CEO,Illinois,tripleaim.com,62111;523940;551112,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f9f,Greg,Baughman,gbaughman@goodbodiesfitness.com,Good Bodies Fitness and Wellness,Owner,Ohio,goodbodiesfitness.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238f7,Becca,Hunsicker,becca@thelindencenter.com,The Linden Center,Co-Founder,Michigan,thelindencenter.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142393b,Stanley,Friedell,s-friedell@northwestern.edu,Northwestern Women's Health Associates,Owner,Illinois,northwesternobgyn.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a96,Smita,Rao,smita@genexsure.com,Genexsure,Founder,Tennessee,genexsure.com,62111;621399,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ab5,Melanie,Criss,melanie@ctsvirtual.com,Community Therapy Services,Founder,Ohio,ctspediatrics.com,62139,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c06,Kathy,Love,klove@fpalex.com,"Family Practice Associates of Lexington, PSC",CEO,Kentucky,fpalex.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238a4,Bryn,Dermatology,rotahal@brynmawrdermatology.com,Bryn Mawr Dermatology,President,Pennsylvania,brynmawrdermatology.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423927,Paul,Anast,paul.anast@dentistwickerparkchicago.com,Kimberly Smiles,Owner and Dentist,Illinois,dentistwickerparkchicago.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239b9,Bob,Brady,bob@promotiongb.com,Pro-Motion Physical Therapy,"Owner, Physical Therapist",Wisconsin,movingpainfree.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a0dc67974000142387f,Ana,Vazquez,drana@fisherspediatric.com,Fishers Pediatric Dentistry,CEO,Indiana,fisherspediatric.com,621210,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239ab,Donnie,Sharp,donnie@easttnspinesport.com,East Tennessee Spine and Sport,Owner,Tennessee,easttnspinesport.com,62139,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c4d,Adam,Domovich,adomovich@resolute-physicaltherapy.com,Resolute Physical Therapy,Owner,Pennsylvania,resolutephysicaltherapy.com,62139,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ecc,Jay,Jagannathan,jjagannathan@mi-nsgy.com,Jagannathan Neurosurgery,President,Michigan,mi-neurosurgery.com,621111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d6c,Alyssa,Perala,aperala@autismmatters.net,Health Dimensions Rehabilitation,Chief Executive Officer,Minnesota,hdrtherapy.com,62139,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e4c,Gerry,Erb,gerb@verve-health.com,Verve Health,CEO,Indiana,verve-health.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ecb,Josh,Holzman,jholzman@supportivehc.com,Supportive Healthcare,Chief Executive Officer,Ohio,supportivehc.com,62161;62111,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f79,William,Stefani,williamstefani@renaissanceps.com,Renaissance Plastic Surgery & Spa Renaissance,President,Michigan,renaissanceps.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fb7,Janna,Hacker,janna@jhatherapy.com,Janna Hacker & Associates,Owner,Tennessee,jhatherapy.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fea,Athena,Doshi,athena@exactrx.ai,Exactrx,Founder and Chief Executive Officer,Tennessee,exactrx.ai,62111;513210,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dad,Daniella,Gery,daniella@trouvemedspa.com,Trouve Medspa,Nurse Practitioner & CEO,Ohio,trouvemedspa.com,621399,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d6b,James,Riggen,jim@lx-medical.com,LX Medical,Co-Founder,Minnesota,lx-medical.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f2f,Alexandra,Crosson,acrosson@mindyogabody.com,"MYBody, PLLC",Founder,Michigan,mindyogabody.com,62111;62142,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dfd,Oleg,Verlinsky,overlinsky@rgiscience.com,Reproductive Genetic Innovations,Chief Executive Officer,Illinois,rgiscience.com,62139;621511,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fe0,Samantha,Lewis,samantha@highergroundaba.com,Higher Ground ABA,Owner,Kentucky,highergroundaba.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f2e,Michael,Dees,mtdees@bluminehealth.com,BluMine Health,"President / CEO BluMine Health, LLC",Kentucky,bluminehealth.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425ed6,Hannah,Vargas,jdonahoo@vargasfaceandskin.com,Vargas Face and Skin Center,Owner,Missouri,vargasfaceandskin.com,621111,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fd3,Tracie,Beckmann,tracie@linkupteletherapy.com,LinkUp Teletherapy,Co-Founder,Missouri,linkupteletherapy.com,61171;6211,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425e9b,Bain,Herron,bherron@nedermatology.com,Northeast Dermatology & Cosmetic Surgery Center,Owner,Ohio,dermatologycolumbus.com,62111,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e6f,Denise,Gardner,denise@source4nurses.com,Source4Nurses,CEO & President,Pennsylvania,source4nurses.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f30,Andrew,Walker,awalker@oaklanedental.com,Oak Lane Dental,Founder and CEO,Ohio,oaklanedental.com,621210,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d97,Travis,Robbins,travis@robbinsptwest.com,Robbins Rehabilitation West,Owner,Pennsylvania,robbinsptwest.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e1c,James,Lewerenz,jlewerenz@longevityhealthinstituteinc.com,Longevity Health Institute,Chief Executive Officer,Michigan,longevityhealthinstituteinc.com,62139,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425e9c,Natalie,Aprn,natalie@complexionnashville.com,Complexion,Co-Founder and Aesthetic Nurse Practitioner,Tennessee,complexionnashville.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425ee6,Timothy,Murray,tmurray@solsticewi.com,Solstice Health,Founder & CEO,Wisconsin,solsticewi.com,62139;621111;621493,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d71,Craig,Fava,cfava@optimumpt.com,"OPTIMUM PHYSICAL THERAPY ASSOCIATES, P.C.",Physical Therapist and Owner,Pennsylvania,optimumpt.com,62139,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e6b,Andrew,Bartek,andrew@elevateptiowa.com,Elevate Physical Therapy & Sports Medicine,Owner | Physical Therapist,Iowa,elevateptiowa.com,62139,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e80,Adam,Fellows,dr.adam@rejuvenatekc.com,Rejuvenate,Owner,Missouri,rejuvenatekc.com,62139,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fe3,Genia,Yovankin,geniay@shftbh.com,SHFT Behavioral Health,Co-founder and COO,Illinois,shftbh.com,621420;621112,Medical Practice,Approve,Medical Practice
+6a724a22c679740001425d4c,Tony,Thompson,tony.thompson@ebohub.com,EBO MD,CEO,Missouri,doyouebo.com,621111,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fc1,Derek,Bock,drderek@forestorthopedo.com,Forest Orthodontics & Pediatric Dentistry,Practice Owner & Orthodontist,Illinois,forestorthopedo.com,62121,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fcd,Scott,Huitink,scott.huitink@compasspeds.com,Compass Pediatrics,"Pediatrician, Owner",Tennessee,compasspeds.com,621111,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e41,Yousef,Almadrahi,yousef@specialtymc.com,Specialty Medical Center,CEO,Michigan,specialtymc.com,62139;621498,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239a6,Trevor,Kight,trevor@thedentalstudio.com,The Dental Studio,Co-Owner,Illinois,thedentalstudio.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239e6,Matthew,Eschbach,matthew@c-uinnovations.com,CU Anschutz | Innovations,Owner,Illinois,cuanschutz.edu,62111;54171;52394,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423aa3,Mark,Jacobs,mjacobs@brightsidedental.com,Brightside Dental Care,Dentist/Owner,Michigan,brightsidedentalcare.com,62121,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bc5,Carlo,Marino,cmarino@marinoassoc.com,Dr. Marino & Associates,"President, Owner",Ohio,marinonassif.com,62121,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b4b,Amiad,Fredman,afredman@aegisdigitalhealth.com,SweetSpot™,"Co-Founder, Chief Product Officer",Missouri,sweetspot.health,62111;51321;62199,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bb6,Ty,Babcock,ty@completehealthpartners.com,Complete Health Partners,CEO/owner,Tennessee,completehealthpartners.com,621111;621498,Medical Practice,Approve,Medical Practice
+6a724a13c679740001423c56,John,Whittemore,drw@germantownsmiles.com,Germantown Dental Group,Dentist/Owner,Tennessee,memphissmiledesigns.com,621210,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238bd,Eric,Howard,ehoward@epnotoledo.com,Emergency Physicians of Northwest Ohio,CEO,Ohio,epnotoledo.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a1b,Kenneth,Parschauer,kp@parschauer.com,"PARSCHAUER EYE CENTER, INC.",Owner,Ohio,parschauer.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238d1,Patrick,Feder,pfeder@cchiropractic.com,Comprehensive Chiropractic,Chiropractic Physician/ Owner,Missouri,cchiropractic.com,62131,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a7b,Andy,Cowen,andy@radialogica.com,Radialogica LLC,Chief Executive Officer,Missouri,radialogica.com,62139;51321;54151,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b3b,Nicole,Parikh,nparikh@mjkidz.com,MJ KIDZ LLC,Co-Owner/ Speech Language Pathologist,Pennsylvania,mjkidz.com,62111;621340,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c3d,Tammy,Fache,tth@tillerhewitt.com,Tiller-Hewitt HealthCare Strategies LLC,President | CEO,Missouri,tillerhewitt.com,62111;541611;611430,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a3d,Chris,Larson,clarson@larsoneyes.com,Larson Eye Care,President,Wisconsin,larsoneyecare.com,62111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bf2,Tushar,Kothari,tgkothari@radnky.com,RANK: Radiology Associates of Northern Kentucky,President,Ohio,radnky.com,62151;621111,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142396c,Ann,Auburn,annauburn@nhicwestmi.com,Natural Health Improvement Center,Owner,Michigan,nhicwestmi.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a2b,Christine,Julian-Hoernke,christinej@madisonfamilydental.com,Madison Family Dental,Dentist and Owner,Wisconsin,madisonsmiles.com,62121,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b21,Drew,Langton,drew@houseofoptical.com,House Of Optical,CEO and Optometrist,Michigan,houseofoptical.com,62121,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c18,Amanda,Joseph,amanda@aestheticartistrygr.com,FACE Aesthetic Artistry,"Owner, Esthetician, and Nail Technician",Michigan,faceaestheticartistry.com,62139,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c2c,Rhodes,Amaker,rhodes@sylvanhealth.com,Sylvan Health,Co-Founder & CEO,Tennessee,sylvanhealth.com,62139;541512,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423880,Keeley,Shoup,keeley@cuddlist.com,Cuddlist Professional Cuddle Therapy,CEO,Illinois,cuddlist.com,62139;621999;611430,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239de,Kristen,Thomsen,thomsen@greatmindsabatherapy.com,Great Minds ABA Therapy LLC,Chief Executive Officer & Consultant,Pennsylvania,greatmindsabatherapy.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423af5,Mike,Gavin,mike@valleydental.us,Valley Dental Inc.,Dentist/Owner,Wisconsin,valleydental.us,62121,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a08,Laura,Baker,lb@lookmedspas.com,Look Lab Med Spas,Managing Partner,Missouri,looklab.com,62139;621498,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b2b,Aaron,Jones,aj@sweetdreamsanesthesia.com,Sweet Dreams Anesthesia,CEO,Tennessee,sweetdreamsanesthesia.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b83,Jacquelyn,Kaschel,jackie@peaceranchtc.org,PEACE Ranch,Founder,Michigan,peaceranchtc.com,62139;813990;62142;624190,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bdc,Sham,Chandok,sham@brightdentalpa.com,Bright Dental,"Dentist, Owner",Wisconsin,brightdentalpa.com,621210,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423aee,Ramy,Sarsour,rsarsour@mssscribes.com,Medical Scribing Solutions,President,Ohio,mssscribes.com,62139;561320,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238a9,Mike,Janesch,mjanesch@suburbanpt.com,Suburban Physical Therapy,Owner,Ohio,suburbanpt.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239fb,Sara,Bridges,sara@thelindencenter.com,The Linden Center,Co-Founder,Michigan,thelindencenter.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a26,Matthew,Kelley,matthew@caseintegrativehealth.com,Case Integrative Health,President,Illinois,caseintegrativehealth.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a89,Drbradblack,Black,black@eyeassociates.com.au,Eye Associates,President,Indiana,eyeassociates.com.au,62111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a58,Eric,Inman,erici@wellbridgesurgical.com,WellBridge Surgical,Co-Founder,Indiana,wellbridgesurgical.com,62111;621493,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423982,Nancy,Lasch,nancy@shapelyroyal.com,Shapely,President,Ohio,getshapely.com,62199;621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bf5,Todd,Park,toddpark@parkrehab.com,Park Rehab,Owner,Ohio,parkrehab.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142398f,Patricia,McGinley,pmcginley@horizonhcc.com,Horizon Health Care Consultants,President,Pennsylvania,horizonhcc.com,62139;541611,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ab0,Korwitts,,drk@korwittschiro.com,Korwitts Chiropractic Center,Business Owner,Illinois,korwittschiro.com,621310,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423906,Mark,Leonard,mleonard@arcturushealthcare.com,ARCTURUS HEALTHCARE PLC,Chief Executive Officer,Michigan,arcturushealthcare.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423967,Philip,O'Malley,pomalley@memphisurology.com,"The Urology Group, P.C.",Chief Executive Officer,Tennessee,memphisurology.com,62149;621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a8b,Kurt,Johnson,kurt@chirowellnessindy.com,Back to Health Chiropractic,Owner,Iowa,backtohealth.net.au,621310,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ac8,Mona,Sood,drsood@villageeyecare.net,Village Eyecare,Optometrist & Owner,Illinois,villageeyecare.net,62142;621320;446130,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b34,Otto,Placik,otto@bodysculptor.com,"Associated Plastic Surgeons, S.C.",Owner,Illinois,bodysculptor.com,33911;621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423b9f,Leah,Sigler,leahs@theteledentists.com,The TeleDentists,President,Missouri,theteledentists.com,62121,Medical Practice,Approve,Medical Practice
+6a724a13c679740001423c5e,Beth,Martinelli,beth@c-plan.ai,C-Plan,Co-Founder,Kentucky,c-plan.ai,62139;51321,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425eec,Isha,Naik,isha@treeohealth.com,Treeo,Founder,Michigan,treeo.co,62111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a97,Brad,Manning,bmanning@capstonevitalcare.com,Capstone Vital Care,Owner,Ohio,capstonevitalcare.com,62139;621610,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a44,Kevin,Eckert,kevin.eckert@aretaspt.com,Aretas Physical Therapy,Owner,Wisconsin,aretasphysicaltherapy.com,62139,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c44,Sony,Thomas,sthomas@oswegovision.com,Oswego Vision LTD,Owner/Optometrist,Illinois,oswegovision.com,62111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c49,Adrianne,Bowen,abowen@sgsmn.com,"SPECIALISTS IN GENERAL SURGERY, LTD",President,Minnesota,sgsmn.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423994,Daniel,Roach,daniel@cornerstonechiropractic.com,Cornerstone Chiropractic,Company Owner,Missouri,cornerstonechiropractictx.com,62131,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a43,Sharon,Christensen,sharon@nsfawi.com,"North Shore Foot & Ankle, WI",Small Business Owner,Wisconsin,northshorefootandanklewi.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ab1,Michael,Williams,mwilliams@cornerstonedental.com,Cornerstone Dental Arts,Owner/Partner,Tennessee,whatasmile.com,62121,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e0e,Micah,Hylarides,micah@mkaesthetics.com,MK Aesthetics,"Co-Chief Executive Officer, MK Aesthetics",Minnesota,mkaesthetics.com,62139,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e57,Jason,Baker,jason@flexiblerx.com,"Flexible Pharmacy Services, PLLC",President and CEO,Kentucky,flexiblerx.com,62131;561311;541611,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d59,Eric,Oliver,eric@gobeyondexercise.com,Beyond Exercise,"Physical Therapist, Founder",Ohio,gobeyondexercise.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d5e,Rhonda,Dmd,rhonda@interfaithdental.com,Interfaith Dental,Chief Executive Officer,Tennessee,interfaithdental.com,621210,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d7b,Bryan,Joseph,drbryan@connectwithwellness.com,The Wellness Connection,Owner,Missouri,thewellnessconnection.com,621310;621399,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fe9,Grant,Rutledge,grutledge@pathpointhealth.com,PathPoint Health,Founder/ CEO,Tennessee,pathpointhealth.com,62111;621498,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f84,Jenna,Smith,jenna.smith@vitalityptgr.com,Vitality at Home,Business Owner,Michigan,vitalityptgr.com,62139,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e6d,Kurt,Williams,kwilliams@eyecareassociates.com,Eye Care Associates Inc.,Chief Executive Officer,Ohio,eyecareassociates.com,621111,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425e9a,Erich,Mounce,erich@hellojasper.com,Jasper Health,Chief Executive Officer,Tennessee,hellojasper.com,62139;62199,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ea7,Karen,Jiran,karen@kineticinstitute.com,Kinetic Physical Therapy Institute,Owner/MPT/PRC,Minnesota,kineticinstitute.com,62139,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fd4,John,Hoyt,jhoyt@theintensivistcompany.com,The Intensivist Company,Chief Executive Officer,Pennsylvania,theintensivistcompany.com,62111;541611;561312,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fd9,Rachit,Mendi,rmendi@vivalamedspa.com,Viva La Med Spa,Chief Executive Officer,Illinois,vivalamedspa.com,81219;621399;81211,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425eee,Sonja,Redding,sonja@imaginelaserworks.com,Imagine Laserworks,Owner - Practitioner,Tennessee,imaginelaserworks.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425da0,Anushka,Gaglani,dr.g@areodental.com,Areo Dental Group,Co-Chief Executive Officer,Illinois,areodental.com,621210,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fee,Susan,Haise,susan@sknbarrx.com,SKN BAR RX,Chief Executive Officer,Wisconsin,sknbarrx.com,621111;812199,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d90,Christopher,Stroud,drstroud@fertilityandmidwifery.com,Fertility and Midwifery Care Center,President and Founder,Indiana,fertilityandmidwifery.com,62141;621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425ee4,Jessica,Ravineala,jessica@therapyspotmi.com,The Therapy SPOT,Pediatric Occupational Therapist & Co-Owner,Michigan,therapyspotstatesboro.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d77,Patrick,Moore,p.moore@crnatogether.com,CRNA Together,"President and Founder (CRNA Locums or Travel Staffing, CRNA Placement, Profit-sharing)",Wisconsin,crnatogether.com,62139;561311;561320,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fb0,Misti,Solomon-Davis,misti@solomonconsultingservices.com,Solomon Consulting Services,Chief Executive Officer,Tennessee,solomonconsultingservices.com,62111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dee,Mark,Seraly,mark.seraly@dermatologistoncall.com,DermatologistOnCall,CEO,Pennsylvania,dermatologistoncall.com,621111,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e6c,James,Flood,drjflood@firststepfootcare.com,First Step Foot Care,"Owner, President Physician",Illinois,firststepfootcare.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f11,Jourdan,Laik,jourdan@workingagainstgravity.com,Working Against Gravity,Co-Owner,Wisconsin,workingagainstgravity.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d73,Matt,Oelke,moelke@beyondbehaviorllc.com,"Beyond Behavior, LLC","Independent Business Owner, Behavior Analyst",Wisconsin,beyondbehaviorllc.com,62139,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425e9d,Matt,Kalina,matt@tandemstride.com,TandemStride,Founder & CEO,Ohio,tandemstride.com,62139;62142,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d9f,Marco,Fernandez,marco.fernandez@midwestap.com,"Midwest Anesthesia Partners, LLC",President,Illinois,midwestap.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ae7,Michael,Frank,mfrank@cmcounsel.com,CM Counsel Inc,President,Pennsylvania,cmcounsel.com,62111;621420,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423891,Robert,Ramsay,rramsay@retinamn.com,"VitreoRetinal Surgery, PLLC",President/Physician,Minnesota,retinamn.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238bf,Manisha,Patel,manisha@elevatephysicaltherapychicago.com,Elevate Physical Therapy Chicago,Co-Owner/Clinician,Illinois,elevatephysicaltherapychicago.com,62139,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423b9c,Stella,Zaimi,stella.zaimi@illinoisbackpain.com,"Illinois Back And Joint, PLLC",CEO,Illinois,illinoisbackpain.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a0dc67974000142391d,Donna,Krech,donna@donnakrech.com,Beth Hammond,CEO,Ohio,2030fasttrack.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc67974000142391c,Cindy,Dougherty-Mrotek,cindymrotek@ace-therapies.com,a.c.e. therapies,CEO/Founder a.c.e. Therapies,Illinois,ace-therapies.com,62139;621340;621420,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a51,Kristin,Belcher,kristin_belcher@lakesidemed.com,Lakeside Medical,Business Owner,Tennessee,lakesidemedicaldandridge.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b35,Melinda,Haws,mindy@nashvillesurgery.com,The Plastic Surgery Center of Nashville,"Plastic Surgeon, Owner",Tennessee,theplasticsurgerycenterofnashville.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c0e,Cheryl,Aldridge,draldridge@chattortho.com,Greater Chattanooga Orthodontics,Owner/Orthodontist,Tennessee,greaterchattanoogaorthodontics.com,62121,Medical Practice,Approve,Medical Practice
+6a724a13c679740001423c59,Jeff,Messer,jmesser@impacthealthcaremanagement.com,Impact Healthcare Management,President & CEO,Missouri,impacthealthcaremanagement.com,62139,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c0c,Brett,Kingma,drbrett@mittenkids.com,Mitten Kids Dentistry & Orthodontics,Owner,Michigan,mittenkids.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142397e,David,Green,greend@pccaintensivist.com,Pittsburgh Critical Care Associates,President,Pennsylvania,pccaintensivist.com,62199;621111;561312;541611,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239e2,Cuong,Do,cdo@epnotoledo.com,Emergency Physicians of Northwest Ohio,Owner,Ohio,epnotoledo.com,621111,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b15,Jean,Paty,jpaty@outcomemd.com,OutcomeMD,Chief Executive Officer,Pennsylvania,outcomemd.com,62111;51321;51929,Medical Practice,Approve,Medical Practice
+6a724a13c679740001423c5f,Chloe,Thorpe,chloe.thorpe@chiroway.com,ChiroWay,Franchise Owner,Minnesota,chiroway.com,621310,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142392f,Teresa,Pulvermacher,tpulvermacher@viarohealth.com,ViaroHealth,President and Family Nurse Practitioner,Wisconsin,viarohealth.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142393e,Amy,Clark,amyclark@renewskinbar.org,Skin ReNew,Owner/Esthetician,Iowa,skinrenewclinic.com,62139,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b5e,Ryan,McCostlin,ryan@tailwaterdental.com,Tailwater Dental Partners,CEO,Tennessee,tailwaterdental.com,621210;541611;523940,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f9a,Roldana,H,hr@berrystreet.co,Berry Street,"Owner/Dietitian, All Good Nutrition LLC",Pennsylvania,berrystreet.com,513210;621399,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c30,James,Borchers,jborchers@uscah.com,U.S. Council for Athletes' Health (USCAH),President & Co-Founder,Ohio,uscah.com,62139;541611;611430,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142399f,Amira,Tal-Henig,amira@physicaltherapyannarbor.com,Healing Hands Physical Therapy,Physical Therapist and Owner,Michigan,physicaltherapyannarbor.com,62139;62134,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239cf,Chad,Madden,chad@getbreakthrough.com,Breakthrough,Co-Founder,Pennsylvania,getbreakthrough.com,62139;541810;513210,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239f5,Mike,Hilton,drhilton@dcgstaff.com,Duncan Chiropractic Group,Owner,Michigan,duncanchiropracticgroup.com,621310,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423b06,Michelle,Sensat,michelle@bogerdental.com,Boger Dental,President,Minnesota,bogerdental.com,621210,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b40,Stephen,Frascone,drfrascone@greatlakesfootandankle.com,Great Lakes Foot & Ankle Institute,Cmo/ceo,Michigan,greatlakesfootandankle.com,621391,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bae,Reena,Naami,rnaami@sparkcenterforautism.com,The Spark Center For Autism,Owner and Founding CEO,Michigan,sparkcenterforautism.com,62139;621420,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425df4,Justin,Blanchard,justin@fiestahealth.com,Fiesta Health,Chief Executive Officer,Ohio,fiestahealth.com,62139;621420,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425db2,Noelle,Iadeluca,noelle@eriechiropractic.com,Iadeluca Chiropractic,Owner,Pennsylvania,eriechiropractic.com,621310,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425ef0,Rudy,Braydich,drrudy@braydich.com,Braydich Dental Inc,President,Ohio,braydich.com,62121,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f91,Blake,Hood,bhood@ac4o.com,Advanced Center for Orthopedics & Sports Medicine,President/Chief Executive Officer,Kentucky,advancedcenterfororthopedics.com,621111,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fb6,Robert,Starosta,rstarosta@rheummds.com,"ARTHRITIS & RHEUMATOLOGY CONSULTANTS, P.A.",Chief Executive Officer,Minnesota,rheummds.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f02,Mary,Strickland,maryroses@newlifept.com,New Life Physical Therapy,President | Co-Owner,Wisconsin,newlifept.com,62139,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e55,Paul,Savage,paul.savage.md@mdlifespan.com,MDLifespan,Chief Executive Officer,Illinois,mdlifespan.com,62139;621498,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f98,Taralyn,Inhc,taralyn@nirvanahealthandbeauty.com,Nirvana Wellness,Founder/Owner/Aesthetician,Pennsylvania,nirvanawellnessmedspa.com,621399;812199,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f83,Danial,Redifer,danial.redifer@sdpamgmt.com,Lavender Dental Patient Page,Chief Executive Officer,Michigan,lavenderdental.com,621210,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425de1,Caressa,Hutchinson,caressa@modrnhealth.com,ModRN Health,Founder & CEO,Missouri,modrnhealth.com,62139;621999;541512,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f87,Martin,,jrm@myaliveandwell.com,Alive & Well,Founder,Pennsylvania,myaliveandwell.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e28,Joe,Nelson,joe@teamiowapt.com,Team Iowa Physical Therapy,Founder & Physical Therapist,Iowa,teamiowaphysicaltherapy.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425da7,Fredric,Reyelts,reyeltsf@mipartnerhealth.com,MI Partner Health,Co-Founder,Michigan,mipartnerhealth.com,621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f06,David,Zaremba,david.zaremba@alwaysgreatsmiles.com,Always Great Smiles,Dentist/Owner,Illinois,alwaysgreatsmiles.com,62121,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dec,Anne,Germain,anne@noctemhealth.com,NOCTEM Health,Founder and CEO,Pennsylvania,noctemhealth.com,62139;513210,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f59,Jamie,Coach,coachjamie@jackedfitness.online,Jacked Fitness,CEO Jacked Fitness Online,Illinois,jackedfitness.online,62139,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c0b,Loretta,Sassmannshausen,loretta@threeriversdermatology.com,Three Rivers Dermatology & Windy Ridge Skin Care Centre,Owner,Indiana,threeriversdermatology.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423af8,Janice,Pellecchia,janice@aba-midwest.com,ABA Midwest,President,Illinois,abamidwestltd.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a7e,Joe,Browder,jbrowder@painconsultants.com,Pain Consultants of East Tennessee,Managing Partner,Tennessee,painconsultants.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423aaa,Dan,German,dan@orthobrain.com,orthobrain®,Founder,Ohio,orthobrain.com,62121;33911;611430,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b0b,Hiren,Pansuria,hpansuria@colonialdentalgroup.com,"Colonial Dental Group, Ltd.",Owner / Dentist,Pennsylvania,colonialdentalgroup.com,62121,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b33,Len,McDade,len@3c.healthcare,3C Comprehensive Correctional Care,President,Kentucky,3c.healthcare,6211,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239e7,Erin,Phipps,erin@unearthpotential.com,Unearth Potential,Co-Owner/Board Certified Behavior Analyst,Missouri,unearthpotential.com,62139,Medical Practice,Approve,Medical Practice
+6a724a13c679740001423c61,Amy,Berg,amy@integrityme.com,Integrity Medicolegal Enterprises,President/ Co Founder,Minnesota,integrityme.com,62139;621999;541990,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239c4,Many,Emamzadeh,manyemamzadeh@lumoraclinics.com,Lumora Clinics,CEO and Co-Founder,Pennsylvania,lumoraclinics.com,62111;62142;541611,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238ec,Gregory,Johnson,gjohnson@thesrsgroup.net,"The SRS Group, LLC",President & CEO,Pennsylvania,thesrsgroup.net,62139;6219,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a1f,Miodrag,Zivic,miodrag.zivic@clevelandprimecare.com,Cleveland Primecare,President & CEO,Ohio,clevelandprimecare.com,621111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425db0,Bryce,Heinbaugh,bryce@mynursenavigators.com,Concierge Nurse Navigators,Chief Executive Officer,Ohio,mynursenavigators.com,62139;62199,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ece,Nichol,Morey,nmorey@heartsforaba.com,Hearts for ABA,Business Owner,Ohio,heartsforaba.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425efc,Elizabeth,Higney,beth@complexionnashville.com,Complexion,Co-Founder and Nurse Practitioner at Complexion Nashville,Tennessee,complexionnashville.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f0c,Ralph,Chu,yrchu@chuvision.com,Chu Vision Institute,Owner,Minnesota,chuvision.com,621111;621493,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f90,Nathan,Jay,nathan@swaphealth.com,Swap Health,Chief Executive Officer,Tennessee,swaphealth.com,62139;62199;541511,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f20,Jamie,Speiser,jamie@precisionlife.io,"PrecisionLifeStl: Fitness, Aesthetics, Nutrition",Owner,Missouri,precisionlife.io,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f66,Sandy,Saldano,sandy@wekneadyou.com,"Therapeutic Kneads, Ltd.",CEO/President,Illinois,wekneadyou.com,62139,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e34,Shane,Sheppard,ssheppard@dexabody.com,Dexa Body,President-South East Region,Ohio,dexabody.com,62139;621511,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dc8,Francis,Price,francisprice@pricevisiongroup.net,Price Vision Group,President and CEO,Indiana,pricevisiongroup.com,62142;621111;541715,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e90,Patrick,Caplis,patrick.caplis@solverahealth.com,Solvera Health,CEO,Illinois,,621111,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ec6,Nathan,Heilman,nathan.heilman@rvep.com,River Valley Eye Professionals,President,Minnesota,rvep.com,62121,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e40,Belal,Abdallah,babdallah@pulseprimary.com,"Pulse Primary Care, PLLC",Chief Executive Officer,Michigan,pulseprimary.com,62111,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e51,Rita,Kajy,rita@thelaserhairremoval.co.uk,Laser Hair Removal,Owner,Michigan,thelaserhairremoval.co.uk,621111;812199,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ec8,Lee,Pt,leeann@pt-inc.net,"Pediatric Therapeutics, Inc",Founder,Pennsylvania,pt-inc.net,62139,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e4d,Robert,Kim,robert@zuub.com,Zuub,Chief Business Officer | Co-founder,Michigan,zuub.com,62121;513210,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e8c,Camille,Heyman,cheyman@mnbehavioral.com,Minnesota Behavioral Specialists,Co-Owner President of Program Operations,Minnesota,mnbehavioral.com,62139;621420;624110,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ec1,Josh,Johnson,jjohnson@innovate32services.com,Innovate 32,Chief Executive Officer,Tennessee,innovate32services.com,62121;561110;541611,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f89,Hamid,Abbaspour,hamid@drazizrx.com,Dr Aziz,Founder,Indiana,drazizrx.com,621111;45611,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fcc,Aaron,Brummer,aaronb@cedarvalleydentalassociates.com,Cedar Valley Dental Associates,Partner and Chief Executive Officer,Iowa,cedarvalleydentalassociates.com,62121,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e36,Jim,O'Connell,jim@vytalahealth.com,Vytala,"CEO, Founder",Pennsylvania,vytalahealth.com,62139;311999;541714,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425eb8,Devin,Deboer,devin@myptsolutions.net,myPTsolutions Therapist Staffing,Co Owner,Michigan,myptsolutions.com,62139;561311;561320,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238c4,Jason,Putz,jasonp@ptsiowa.com,Physical Therapy Solutions.,Owner,Iowa,ptsiowa.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238d9,Jason,Korkus,jason.korkus@sfdchicago.com,Sonrisa Family Dental,President,Illinois,sonrisafamilydental.com,621210,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239d7,Mark,Goldstein,m.goldstein@specialsmilesltd.com,"Special Smiles, Ltd",Owner and Founder,Pennsylvania,specialsmilesltd.com,621210,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b31,Paul,Keelan,jpkdmd@keelandental.com,KEELAN DENTAL,President,Pennsylvania,keelandental.com,62121,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425db3,Thomas,Curran,thomas.curran@coopersurgical.com,Cooper Surgical Associates,Owner - T.M. Curran & Associates / Independent Medical Sales Profesional,Michigan,,621111,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fb9,Reid,Maclellan,reid.maclellan@cortinahealth.com,"Cortina Health, Inc.",Chief Executive Officer,Tennessee,cortinahealth.com,621111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dd5,Chris,Ice,chrisice@midwest-nursing.com,Midwest Nursing & Vascular Services,Co Owner,Illinois,midwest-nursing.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f29,Adam,Accay,adam.accay@ritechoice-rx.com,RiteChoice Rx,Chief Executive Officer,Pennsylvania,ritechoice-rx.com,62111;45611,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425df3,Paul,Goodman,paul@dentistjobconnect.com,Dentist Job Connect,Founder at Dentist Job Connect,Pennsylvania,dentistjobconnect.com,62121;561311,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f7c,April,Vogelsang,avogelsang@cimro.com,CIMRO Independent Peer Review,Chief Executive Officer,Illinois,cimro.com,62139;541990;813990,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fc3,Bill,Sevold,bill.sevold@neurorelief.com,Sanesco International Inc.,Chief Executive Officer,Minnesota,sanescohealth.com,62139;541714;621511,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fed,Randolph,Waldman,waldman@waldmanplasticsurgery.com,Waldman Schantz Turner Plastic Surgery Center,Chief Executive Officer,Kentucky,waldmanplasticsurgery.com,62139,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e63,Jarrett,Michau,jarrett@worldclasshealth.com,World Class Health,President,Pennsylvania,worldclasshealth.com,62111;621999,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d99,Holly,Young,holly@ayoungeryouohio.com,A Younger You Aesthetics,Aesthetic Nurse Practitioner/Owner,Ohio,ayoungeryouohio.com,62139;621498,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dba,Jack,Mougin,jmougin@goodbodiesfitness.com,Good Bodies Fitness and Wellness,Founder/past Owner,Ohio,goodbodiesfitness.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f40,Satti,Sarai,drsarai@villageeyecare.net,Village Eyecare,Owner,Illinois,villageeyecare.net,62142;621320;446130,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f96,Cynthia,Sayers,drsayers@eyeshopoptical.com,EyeShop Optical Center,Owner,Ohio,eyeshopoptical.com,62121,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425db7,Derrick,Kraemer,dkraemer@dopplerveterinary.com,Doppler Veterinary Network,Chief Executive Officer,Pennsylvania,dopplerveterinary.com,62139;541940,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425ed7,Nicholas,Maio-Aether,nicholas.maio@empoweredcenter.com,Empowered: A Center for Sexuality LLc,"CEO, Licensed [Sexual] Behavior Analyst, Certified Sexuality Counselor",Missouri,empoweredcenter.com,62139;62142;611430,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d9b,Mike,Palackdharry,mike.palackdharry@healent.com,Healent,Chief Executive Officer,Ohio,healent.com,62139;51321,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425eab,Brian,Fretwell,brian@directpca.com,"Direct Primary Care Associates, PLLC",President/CEO,Tennessee,directprimarycareassociates.com,62139;62111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425da4,Brian,Albery,brian.albery@chirospring.com,ChiroSpring,CEO,Iowa,chirospring.com,62111;513210,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425eed,Kasey,Stark,drkasey@kidstoothteam.com,Kids Tooth Team,Pediatric Dentist / Co-Founder,Michigan,kidstoothteam.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423965,John,Murray,jmurray@foothealers.com,Foot Healers,"President, Managing Member",Missouri,foothealers.com,62139,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423baf,Tarek,Kteleh,tarek.kteleh@rocindy.com,Rheumatology of Central Indiana,CEO,Indiana,rocindy.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a1e,Omair,Siraj,omair.siraj@chestnuthealth.com,Chestnut Health Company,Chief Executive Officer & Founder,Illinois,chestnuthealth.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ad5,Lisa,Rock,lisa@unitynetwork.health,Unity Preferred Network,President,Missouri,unitynetwork.health,62111;524292,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a7f,Andy,Lair,jspratt@ohscompanies.com,Choice Physical Therapy,Owner,Ohio,choiceptny.com,62139;62134,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b65,Lynda,Lazzaro,lynda.lazzaro@aestique.com,Aestique Medical Center,Executive Vice-President,Pennsylvania,aestique.com,33911;621111;621493,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b8f,Melvin,Maclin,melvin@parkcrestplasticsurgery.com,Parkcrest Plastic Surgery,Owner,Missouri,parkcrestplasticsurgery.com,621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bb4,Alison,Denil,alison.denil@summitbhc.com,Accord,Chief Executive Officer,Wisconsin,accordtelemed.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142397f,David,Berring,dr.berring@everybodyshealth.net,Everybody's Health,Owner,Ohio,everybodyshealth.us,62131,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a29,Heather,Borgman,heather@anchortohealth.com,Anchor Chiropractic,Owner,Indiana,your-anchor.com,62131,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423acb,Jim,Sorgi,jsorgi@proteamtactical.com,ProTeam Tactical Performance,OWNER,Indiana,proteamtactical.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bd9,Rocco,Salviola,rocco@iharmonyhealth.com,Harmony Health Solutions,CEO & Founder,Illinois,iharmonyhealth.com,62139;621610,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423990,Robert,Willard,rwillard@usdermpartners.com,Dermatology & Mohs Surgery Center,President,Pennsylvania,dermatologyandmohs.com,621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bd3,Allan,Ross,allan.ross@oahs.us,Ortonville Area Health Services,Chief Executive Officer,Minnesota,oahs.us,62149;622110;621111,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423961,Dave,Lippincott,davel@suburbanhealth.com,Suburban Health Organization,President,Indiana,suburbanhealth.com,62111;813910;561990,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423aa0,April,Kubinski,akubinski@emediatecure.com,Emediate Cure® Quick Care,Business Owner,Illinois,emediatecure.com,62139,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b7c,Katie,Eckhoff,katie.eckhoff@kid-talk.com,Kid Talk,Owner,Minnesota,kid-talk.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238ea,Etienne,Mejia,etienne@thesportsmedcenter.com,Sports Medicine Center,President,Wisconsin,thesportsmedcenter.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142396b,Vanessa,Kelly,vkelly@missourieye.com,Missouri Eye Institute,Chief Executive,Missouri,missourieye.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a46,Damon,Tomeo,drtomeo@dejazzd.com,Hometown Dental,Dentist-Owner,Pennsylvania,ourhometowndental.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a57,Murtaza,Bambot,murtaza@heartbeat.chat,Heartbeat,Founder & CEO,Illinois,,621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a9a,Jim,Clahane,jclahane@inspiredpt.com,Inspired Physical Therapy,Owner,Pennsylvania,inspiredpt.com,62139,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b2a,Samantha,Kress,skress@crossmedicalgroup.com,Cross Medical Group,CEO,Pennsylvania,crossplasticsurgery.com,33911;621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423aad,Aston,Goldsworthy,dr.aston@coremedcenter.com,Core Medical Center,Company Owner,Missouri,coremedcenter.com,62139;621498,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c35,Dylan,Drynan,drdrynan@activebodychiro.com,Active Body Chiropractic,Owner,Illinois,activebodychiro.com,62131,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238a6,Rahma,Hasan,rhasan@riseupforautism.com,Rise Up For Autism,Chief Executive Officer,Illinois,riseupforautism.com,62139;621420,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423946,Amy,Grant,amy@turningwheelstherapy.com,Turning Wheels Pediatric Therapy,Founder/CEO Turning Wheels Pediatric Therapy,Illinois,turningwheelstherapy.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142396e,Suzy,Hatten,suzy.hatten@atlasptco.com,Atlas Physical Therapy,Physical Therapist - Owner,Tennessee,atlasptco.com,62139;62134,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b5f,Patrick,Howell,patrick@healthworksmedical.com,HealthWorks Medical,Chief Executive Officer,Kentucky,healthworksmedical.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423aa2,Rob,Gregory,rob@karingheartscardiology.com,Karing Hearts Cardiology,Chief Executive Officer,Tennessee,karingheartscardiology.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239c2,Brad,Beatty,brad@casespecificnutrition.com,Case Specific Nutrition,Location Owner and Lead Dietitian,Pennsylvania,casespecificnutrition.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238ff,Ines,Knezevic,ines@megi.ai,MEGI Health,Co-Founder,Illinois,megi.ai,62111;621999;513210,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142392c,Aja,Kimrey,ajkimrey@isthmuseye.com,Isthmus Eye Care,Optometrist/ Part Owner,Wisconsin,isthmuseye.com,62121;621320;446130,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ad1,Vineet,Gulati,vgulati@sweettoothfamilydental.com,Sweet Tooth Dental,Owner / Dentist,Pennsylvania,sweettoothfamilydental.com,62121,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b23,Ankush,Prashar,aprashar@klimbnow.com,Klimbnow,Chief Executive Officer & Founder,Ohio,klimbnow.com,62111;561320,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b72,Thomas,Donahue,drdonahue@chicagospineandsports.com,Chicago Spine and Sports,Owner,Illinois,chicagospineandsports.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238c5,Joy,Elliott,joye@performanceeyecare.com,Performance Eyecare,Chief Executive Officer,Missouri,performanceeyecare.com,62121;621320,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b73,Steven,Silverstein,ssilverstein@silversteineyecenters.com,Silverstein Eye Centers,President,Missouri,silversteineyecenters.com,621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bb8,Chuck,Schulte,chuck@dptrehab.com,Diamond Physical Therapy,Owner,Illinois,diamond-pt.com,62139,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c2d,Tanya,Gallagher,tgallagher@allureaestheticsllc.com,Allure Aesthetics,Managing Partner,Pennsylvania,allureaestheticsllc.com,621399,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239e5,Jacquelyn,Vasquez,jvasquez@transparentdentalgroup.com,Smile Obsession,President of Operations,Illinois,smileobsession.com,621210,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239ae,Alicia,Adair,aadair@autismcenterstn.com,"Autism Centers of Tennessee, PLLC","Owner of Autism Centers of Tennessee, PLLC",Tennessee,autismcenterstn.com,62139;621420,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c04,Roger,Staton,rstaton@professionalradiology.com,"PROFESSIONAL RADIOLOGY, INC.",CEO Professional Radiology,Ohio,professionalradiology.com,62151;621111,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238f3,David,Burns,drburns@burnsfamilydentistry.com,Burns Family Dentistry,Owner,Indiana,burnsdentalva.com,62121,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d93,Athanasios,Vlahos,avlahos@virchicago.com,VIR Chicago,Managing Partner,Illinois,virchicago.com,62151;621111,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e64,Kenneth,Ashbrook,kashbrook@biocareusa.com,"Bio-Care, Inc",President,Michigan,biocareusa.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d5d,Flavio,Arana,farana@meridianproviders.com,"Meridian Psychiatric Partners, LLC",Founding and Managing Partner,Illinois,meridianpsychiatricpartners.com,621112,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d74,Nicholas,Bigrigg,drbigrigg@ahcmgmtgroup.com,Aligned Health Center,Owner / Founder,Ohio,ahcwestlake.com,62139,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e47,Morgan,Anderson,morgananderson@metropeds.com,Metropolitan Pediatrics,Chief Executive Officer,Minnesota,metropeds.com,62111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f3c,Adam,Campbell,adam@drhyman.com,Hyman Health,President and Chief Content Officer,Pennsylvania,drhyman.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e48,Jorge,Calzada,jic@deepblueretina.com,Deep Blue Retina,CEO and Founder,Tennessee,deepblueretina.com,62149;621111;541714,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e11,Tamara,Wyse,twyse@northshore.org,"WYSE EYECARE, S.C.","Opthalmologist, President",Illinois,tamarawysemd.com,62111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f16,Adam,Feuer,afeuer@3riversendo.com,Three Rivers Endodontics,Chief Executive Officer,Pennsylvania,3riversendo.com,62121,Medical Practice,Approve,Medical Practice
+6a724a22c679740001425d4a,Kathy,Burgdorf,kburgdorf@llptherapy.com,Lifeline Partners Physical Therapy,Owner,Ohio,lifelinepartners.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425df0,Gary,Anderson,ga@andersoneye.com,Anderson Eye Care,Owner,Michigan,carlson-eyecare.com,62121,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f2c,Karen,George,karen@chicagospeechtherapy.com,Chicago Speech Therapy,Owner,Illinois,chicagospeechtherapy.com,62111;621340,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fe2,Marlene,Stephens,mstephens@health-quest.org,HealthQuest,Owner,Missouri,healthquestspine.com,621310,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423942,Chris,Gray,chris@renewdentaltn.com,Renew Dental,Co-Owner / COO,Tennessee,renewdentalaz.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142397c,Jimmy,Louis,jstlouis@agentislongevity.com,Agentis Longevity,Chief Executive Officer,Tennessee,agentislongevity.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a37,Christopher,Eckert,chris.eckert@hearingunlimited.net,"Hearing Unlimited, Inc.",President,Pennsylvania,hearingunlimited.net,62111;62134,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b32,David,Caplin,dcaplin@parkcrestplasticsurgery.com,Parkcrest Plastic Surgery,President,Missouri,parkcrestplasticsurgery.com,621111,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b1b,Eric,Carlson,carlson@msdsmile.com,Menomonie Street Dental,Co-Owner,Wisconsin,msdsmile.com,621210,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239d8,Rob,Bramblett,rob.bramblett@purity-health.com,"Purity Health, LLC",President/Founder,Tennessee,purity-health.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a4b,Mary,Ladd,mary@ladddental.com,"Ladd Dental Group, Inc.",CEO,Indiana,ladddental.com,621210,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423b9d,Stephanie,Shulman,stephanie@vive4me.com,Vive Med Spa,CEO/Owner/AGACNP-BC,Wisconsin,vivemedspa.ca,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238a1,Ryan,Berlin,ryan.berlin@alignlv.com,Align Chiropractic,President / Owner,Ohio,alighhealthcenter.com,621310,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423935,Todd,Beyer,tbeyer@novusclinic.com,Novus Clinic,President Emeritus,Ohio,novusclinic.com,62121;621111;621320,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142395f,Pattie,Craumer,pattie@positiveprime.com,Positive Prime,National President,Pennsylvania,positiveprime.com,62139;51321,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b60,Karl,Staser,k.staser@meramecdermatology.com,"Meramec Dermatology, LLC",Managing Partner,Missouri,meramecdermatology.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0dc67974000142389d,David,Segraves,david.segraves@elitedoctor.com,Elite Pain Doctors,Chief Executive Officer,Ohio,elitedoctor.com,62139;62111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423aa9,Ryan,Nelson,rnelson@iowaeyecare.com,Iowa EyeCare,Optometrist & Business Owner,Iowa,iowaeyecare.com,62111;621320,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b1a,Emma,Nosseir,emma@atlasoncpartners.com,Atlas Oncology Partners,Chief of Staff and Co-Founder,Tennessee,atlasoncpartners.com,621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423b99,John,Lewis,jlewis@vdsvets.com,Veterinary Dentistry Specialists,Co-Owner,Pennsylvania,vdsvets.com,62139;541940,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bfc,Stephen,Huddleston,shuddleston@charlesretina.com,CHARLES RETINA INSTITUTE PC,President,Tennessee,charlesretina.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239d1,Scott,Horton,shorton@hopediscoveryaba.com,Hope Discovery ABA Services,President | Behavior Analyst,Michigan,hopediscoveryabaservices.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423983,Nadine,Salahuddin,nadine@pbsmidwest.com,Progressive Behavior Solutions,CEO/ Founder,Illinois,pbsmidwest.com,62139;62142,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a7d,Troy,Spurrill,drtroy@officialsynapse.com,Synapse Center for Health & Healing,CEO,Minnesota,officialsynapse.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc67974000142391e,Anne,Haley,ahaley@sc-centers.com,Strive Center for Autism,Business Owner,Michigan,sc-centers.com,62139;621420,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c2e,Jeff,Mastroianni,jeff@amazingsmiles.com,Amazing Smiles Orthodontics,Owner-Operator,Illinois,amazingsmiles.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239ec,David,Gilboe,davidg@gilboe.com,David Gilboe & Associates Physical & Occupational Therapy,Clinic Owner of David Gilboe & Associates Physical and Occupational Therapy,Michigan,gilboe.com,62139,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b1d,Stephanie,Johnson,stephanie@musicspeakstherapy.com,"Music Speaks, LLC",CEO & Founder/ Board Certified Music Therapist,Iowa,musicspeakstherapy.com,62139;62199,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bd0,Sarah,Scupin,sarah.poepsel@beyondphysicaltherapy.com,Beyond Physical Therapy,Business Owner,Illinois,beyondptga.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239c9,Kathy,McKee,kathy.mckee@wellspringswellness.com,Wellsprings Wellness,Co-Owner,Kentucky,wellspringswellness.com,621420;621112,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423b95,Stacey,Eby,dreby@ebyfamilydental.com,Eby Family Dental,Owner / Dentist,Wisconsin,ebyfamilydental.com,62121,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c3e,Paul,Thomas,paul@plumhealthdpc.com,Plum Health DPC,Chief Executive Officer and Chief Medical Officer,Michigan,plumhealthdpc.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ad3,Kyle,Wilkes,kylewilkes@blueridgedental.com,Blue Ridge Dental Center,"Dentist, Owner",Minnesota,blueridgedental.com,62121,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425db4,Joseph,Cashia,jcashia@renalcare360.com,Renal Care 360º,Founder CEO,Tennessee,renalcare360.com,62149;621111,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e5e,Shana,Ess,shana.ess@ovoeye.com,OVO LASIK + LENS,Co-Founder / COO,Minnesota,ovoeye.com,33911;621111,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238e3,Amy,Schlosser,amy@provisions.health,Provisions Health,Co-Owner,Wisconsin,provisions.health,62149;621111;621511,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423977,Mary,Lucido,mlucido@saint-lukes.org,Digestive Health Specialists,Managing Partner,Missouri,digestivehs.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423aab,Loren,Taple,ltaple@northwooddental.com,Northwood Dental,Partner-Owner,Minnesota,clearwater-dentistry.com,62121,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c1b,Chris,Seitz,chris.seitz@guardianmd.com,Guardian Medical Direction,"Founder, CEO, and Chief Medical Officer",Michigan,guardianmedicaldirection.com,62139;621999,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a14,Vicki,Houck,briercreek@wellsfamilydentalgroup.com,Wells Family Dental Group,President,Ohio,wellsfamilydental.com,621210,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425de8,Jess,Mandeville,jess@iv-active.com,IV ACTIVE,President & CMO,Pennsylvania,iv-active.com,62139;6219,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e18,Debra,Schroeder,drdeb@discoverhealthwithin.com,Health From Within,Owner,Ohio,discoverhealthwithin.com,62131,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ea1,Erin,Cooper,cooper@westsidebehavioralhealth.org,"Westside Behavioral Health, LLC",Owner,Ohio,westsidebh.com,62111,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e39,Jordana,Eisenstein,jordana@evs.pet,EVS Pet Urgent Care,Chief Executive Officer,Illinois,evs.pet,62139;541940,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425edc,Amy,Cooper,amy@greatheightsaba.com,Great Heights,Chief Executive Officer,Indiana,greatheightsaba.com,62139;62142,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425ede,Cheri,Levinson,cheri.levinson@louisvillecenterforeatingdisorders.com,Louisville Center for Eating Disorders,Founder,Kentucky,louisvillecenterforeatingdisorders.com,62111;62142,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fbd,Jenn,Anderson,janderson@alcoachiro.com,Alcoa Chiropractic Center,Business Owner,Tennessee,alcoachiro.com,62131,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e3e,Muhammad,Farooq,mfarooq@neurox.us,NeuroX,Co-Founder,Michigan,neurox.us,62111;621999;513210,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fa1,Scott,Schumann,schumanndds@grovecitydental.com,GROVE CITY DENTAL,Owner,Ohio,grovecitydental.com,621210,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b12,Tom,Dalagiannis,tdalagiannis@arrowheadsurgeons.com,Arrowhead Plastic Surgeons,Owner,Ohio,arrowheadsurgeons.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423918,Craig,Eaves,craig.eaves@omnisleep.com,OmniSleep Sleep Health,CEO,New Mexico,omnisleep.com,62149;621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a77,Michelle,Houchin,michelle@adkissonsearch.com,Adkisson Search Consultants,President,Illinois,adkissonconsultants.com,62111;561312,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238c6,Casey,Smith,svc@sightvisioncare.com,First Sight Vision Care,Owner,Ohio,firstsightvisioncare.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423978,Brooke,Scott,brooke.scott@docscott.com,Scott Dentistry,Co-Owner,Indiana,docscott.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a5f,Ray,Wilson,rwilson@magmemphis.com,"MEDICAL ANESTHESIA GROUP, P.A.",President,Tennessee,magmemphis.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b7b,Dan,Ritacca,dan@ritaccalasercenter.com,RL Center for Cosmetic Surgery & Medspa,President,Illinois,rlcosmeticsurgery.com,621111;456120,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bf0,Sarah,Weiler,sarah@merakishine.com,Meraki Health,Founder/CEO,Illinois,merakishine.com,62139;621498;621420,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c0d,Jim,Stone,mikelle@etcphysicaltherapy.com,ETC Physical Therapy & Sports Medicine,Owner,Missouri,etcphysicaltherapy.com,62139;62134,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239d2,Robert,Sims,drrobertsims@simsortho.com,Sims Orthodontics,Owner,Tennessee,simsorthodontics.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a0a,Neill,Wright,nwright@stlbrainandspine.com,Helios Specialty Healthcare,Neurosurgeon/Owner,Missouri,heliosspecialtyhealthcare.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423adc,Anne,Hodits,annehodits@strivetothrivetherapy.com,STRIVE TO THRIVE THERAPY LLC,"Founder, Business Owner, Speech and Language Pathologist",Illinois,strivetothrivetherapy.com,62111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c14,Stephen,Rump,svonrump@aegisdigitalhealth.com,SweetSpot™,CEO & Founder,Missouri,sweetspot.health,62111;51321;62199,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238d8,Pete,Salaneck,psalaneck@wholesalemillwork.net,"Wholesale Millwork, Inc.",President/CEO,Pennsylvania,wholesalemillwork.net,62111;423310,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a34,Kili,Preitauer,kili@override.health,Override,Chief Executive Officer,Ohio,override.health,62139;621498,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b0d,Darrin,Schober,darrin@optimumtherapies.com,Optimum Therapies,Owner,Wisconsin,optimumtherapies.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423986,Robin,Hamm-Lavalley,lavalley@zoomnet.net,Family Vision Center,Owner,Ohio,familyvisioncenters.net,62111;62132;45613,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238b8,Stephen,McLean,smclean@everett-hurite.com,Everett & Hurite Ophthalmic Association,Chief Executive Officer,Pennsylvania,everett-hurite.com,621111,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b54,Frank,Kizy,frank.kizy@deluxedentalusa.com,DELUXE DENTAL ASSOCIATES PLLC,Chief Executive Officer,Michigan,deluxedentalusa.com,621210,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423881,Ryan,Hussong,rhussongdds@cornerstonedentalgroup.com,Cornerstone Dental,Owner/Dentist,Iowa,cornerstonedentalnj.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238d4,Phillip,Stark,philstark@peaktransitions.com,"Peak Performers, Inc",President,Michigan,peakperformersinc.com,62121;561311;541611,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a52,Danielle,Oyasu,doyasu@bnewbydanielle.com,Beautifully New,Founder and CEO,Illinois,beautifullynew.co,62139;621498,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b86,Breann,Forliti,b.forliti@blaineeyeclinic.com,Blaine Eye Clinic,Owner,Minnesota,blaineeyeclinic.com,62142;621320,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b25,Dave,Sterrett,daves@compasscryo.com,Compass Cryogenics - Medical Gas Services,President,Pennsylvania,compasscryo.com,62139;561210,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bb2,John,Holahan,john.holahan@simplythick.com,"SimplyThick, LLC",President,Missouri,simplythick.com,62139;311999,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e46,Gregory,Masiko,gmasiko@motivesportspt.com,MOTIVE Sports & Physical Therapy,Owner,Pennsylvania,motivesportspt.com,62139,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b0c,Nate,Hornung,nate.hornung@aretaspt.com,Aretas Physical Therapy,Owner,Wisconsin,aretasphysicaltherapy.com,62139,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c50,Timothy,Keeler,tkeeler@prohealthucm.com,Pro-Health Medical & Urgent Care,President/CEO/Founder,Michigan,prohealthucm.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238db,Richard,Uria,richard@orthobrain.com,orthobrain®,President,Ohio,orthobrain.com,62121;33911;611430,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142397a,Ben,Hayes,fd.col@skinallergycenter.com,Skin & Allergy Center,"Physician, Co-Founder",Tennessee,skinallergycenter.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239a4,Jayson,Cannon,drcannon@cannonchiropractic.com,Cannon Chiropractic,Owner,Tennessee,cannonchiropractic.com,62131,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c21,Kevin,Yanos,kevin@moldco.com,MoldCo,Co-founder & Head of Operations,Michigan,moldco.com,62139;621999,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239f7,Christopher,Hickman,chris@brightmeds.com,Brightmeds,Co-Owner and Chief Executive Officer,Missouri,brightmeds.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ac0,Huy,Tran,huy@togetherhealth.co,Together Health,Founder and CEO,Tennessee,togetherhealth.co,621111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d54,Franziska,Ringpfeil,rad@ringpfeildermatology.com,Ringpfeil Advanced Dermatology,Owner,Pennsylvania,ringpfeildermatology.com,621111,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fcf,Scott,Hoar,shoar@alcoachiro.com,Alcoa Chiropractic Center,Co-Owner,Tennessee,alcoachiro.com,62131,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e21,Harman,Gill,harman@ascendant.health,Ascendant Health,President,Michigan,ascendant.health,62139;621999,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425eaa,Christopher,Schout,christopher@metropolitanskinclinic.com,Metropolitan Skin Clinic,"CMO, Owner/Partner",Minnesota,metropolitanskinclinic.com,62139;621111;456120,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425efd,David,Usher,david.usher@reformedicine.com,"ReforMedicine, S.C.",President,Wisconsin,reformedicine.com,621111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dc6,Erin,Singh,doctorerin@optionsnaturopathic.com,Options Naturopathic,Founder & Visionary,Ohio,optionsnaturopathic.com,621399,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e50,Inell,Rosario,drrosario@androsent-sleep.com,Andros ENT & Sleep Center PA,Physician Owner,Minnesota,androsent-sleep.com,621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f15,Ken,Dominy,kdominy@physicianxpress.com,"PhysicianXpress, Inc.",President,Pennsylvania,physicianxpress.com,62111;51321;54151,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f2d,Megan,Ferguson,megan@beyondplayllc.com,Beyond Play LLC,Developmental Therapist/Co-Owner,Illinois,beyondplayllc.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425df8,Rima,Massih,rabdelmassih@idctelemed.com,Infectious Disease Connect,President & CEO,Pennsylvania,idctelemed.com,62111;621999;511210,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e3c,Todd,Raehtz,traehtz@indispensablehealth.com,Indispensable Health,President/CEO,Michigan,indispensablehealth.com,62139;621999;561311,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e74,Sheila,Panozzo,spanozzo@cisonsite.com,CIS Onsite,President/Owner,Illinois,cisonsite.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425eb7,Ross,Pope,ross@prescribery.com,Prescribery,CEO,Michigan,prescribery.com,62111;621498;541512,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d61,Kevin,Spahr,kspahr@protherapymn.com,PRO Therapy,Chief Executive Officer,Minnesota,protherapymn.com,62139;62134,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f37,Stephen,Bonner,steve@skinio.com,SkinIO,Chief Executive Officer,Illinois,skinio.com,62139;62199;51321,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f4e,Scott,Sayre,drsayre@nofeardentist.com,Advance Dentistry,President,Ohio,nofeardentist.com,621210,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f42,Devan,McCulloch,dmcculloch@orspt.com,Orthopedic Rehab Specialists,Co-Owner,Illinois,orspt.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f45,Brian,Houser,bhouser@holteyecare.com,Holt Eye Care,"Optometrist, Owner",Michigan,holteyecare.com,62121,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e30,Beth,Hubbard,beth@achievehealthwellness.com,"Achieve Health & Wellness, LLC",Owner & Lead Physical Therapist,Minnesota,achievehealthwellness.com,62139;62134,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e13,Kevin,Anderson,dranderson@afdsmiles.com,"All Family Dental, Ltd",Owner,Minnesota,afdsmiles.com,62121,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fb4,Ann,Blackburn,ann@tulayogawellness.com,Tula Yoga & Wellness,Co-Owner & Yoga Therapist,Minnesota,tulayogawellness.com,62139,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425eca,Carolyn,Kubik,ckubik@ivfpittsburgh.com,Reproductive Health Specialists,Physician/Owner,Pennsylvania,ivfpittsburgh.com,621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c03,Michael,Eagans,mike@alwaysinmotionfw.com,Always In Motion,CEO,Indiana,alwaysinmotion.com,62139,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c40,Brett,Miller,brett.miller@hurtapp.com,HURT!™,Founder,Missouri,hurtapp.com,62111;513210;621999,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423adb,Jordan,Boudreau,jordan@fiestahealth.com,Fiesta Health,Co-Founder,Michigan,fiestahealth.com,62139;621420,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b42,Van,Allen,van@thehireconnection.net,"The Hire Connection, LLC",President,Missouri,thehireconnection.net,62139;561311,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bac,Rachel,Ness,ness@fargoderm.com,Fargo Center For Dermatology,Dermatologist and Owner of Fargo Center for Dermatology,Minnesota,fargoderm.com,621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c07,Farah,Rajwany,farah@orstaffingsolutions.com,O.R. Staffing Solutions,President,Illinois,orstaffingsolutions.com,62139;561311;561320,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142393f,Scott,Kirk,skirk@kirkeye.com,"KIRK EYE CENTER, S. C.",President,Illinois,kirkeye.com,62111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c47,Jill,Sitek,jsitek@amazon.com,Petite 'n Pretty,Founder,Michigan,petitenpretty.com,62111;446120;454110,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423acf,Amanda,Bearce,amanda@simplywellnesscoach.com,Simply Wellness,"Owner, Health and Wellness Coach",New Mexico,simplywellness.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238cb,Andrea,Blake,drandrea@flowchiropractic.org,FLOW Chiropractic,Founder,Illinois,flowchiro.com,62131,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239f4,Mitch,Mudra,mitch@ladderhealth.co,Ladder Health,Chief Executive Officer,Minnesota,ladderhealth.co,62139;621498,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b58,Dan,Hannan,dan.hannan@ceoadvisorynetwork.com,CEO Advisory Network,"Partner, CEO Advisory Network",Ohio,ceoadvisorynetwork.com,62111;541611,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c10,Jim,Price,jimprice@midwestpt.net,"Midwest Physical Therapy, Inc.",Owner and President,Wisconsin,midwestpt.net,62139,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423aba,Craig,Wilson,craigw@suburbanhealth.com,Suburban Health Organization,President & Ceo/cmo,Indiana,suburbanhealth.com,62111;813910;561990,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f6f,Julie,Anderson,janderson@simplicityhealthmn.com,Simplicity Health,Physician Owner,Minnesota,simplicityhealthmn.com,621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f03,Julie,Hartl-Kilcherman,julie@chronic-care.net,NPalliative®️,Owner / President,Michigan,npalliative.net,62139;621610,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fd1,Richard,Salinas,rick.s@rejstaff.com,Rejuvinix,Chief Executive Officer,Wisconsin,rejuvinix.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ebb,Steven,Arbit,stevearbit@sirmpc.com,"Specialists in Rehabilitation Medicine, P.C.",Co-Founder,Michigan,sirmpc.com,621111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425de0,Tanya,Kula,tanya@bodyshop.fit,Bodyshop Wellness,Owner & Trainer,Minnesota,bodyshopwellness.rocks,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e12,Sean,Higgins,seanhiggins@betteryou.ai,BetterYou,CEO,Minnesota,betteryou.ai,62139;513210;621999,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ea5,Mark,Lobanoff,dr.lobanoff@ovoeye.com,OVO LASIK + LENS,Founder/President,Minnesota,ovoeye.com,33911;621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f14,Jeff,Lose,jlose@institutionaleyecare.com,Institutional Eye Care LLC,Founder,Pennsylvania,institutionaleyecare.com,62142;621320,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425ded,Barbra,Hanna,bhanna@mymenopauserx.com,MyMenopauseRx,Founder & CEO,Illinois,mymenopauserx.com,621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f4a,Brent,Koch,koch@kochmd.com,Koch & Carlisle Plastic Surgery and Spa,Owner,Iowa,kochandcarlisle.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dc1,Aaron,Hart,aaron.hart@mindplusclinic.com,Mind+ Neurology,Chief Executive Officer,Wisconsin,mindplusclinic.com,621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f25,Tiffany,Radke,tradke@northernlightshealthcare.com,Northern Lights Health,"Nurse Practitioner, Managing Partner, Co-Founder",Minnesota,northernlightshealthcare.com,621610;621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f74,John,Sonnenberg,jsonnenberg@uptownresearch.com,Uptown Research Institute,President,Illinois,uptownresearch.com,62111;541715,Medical Practice,Approve,Medical Practice
+6a724a22c679740001425d4b,Linda,Passmore,linda@cws4life.com,Complete Wellness Solutions,CEO,Indiana,completewellnesssolutions.com,62139,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ea9,Robin,Ryan,robin@saunders-therapy.com,Saunders Therapy Centers,Chief Executive Officer,Minnesota,saunders-therapy.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425da6,Arlan,Alburo,arlanalburo@orthopedicandbalancetherapy.com,Orthopedic and Balance Therapy Specialists,"CEO, Co-Founder, Chief Content Officer",Indiana,orthopedicandbalancetherapy.com,62139,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f97,Peter,Camiolo,drpete@theremarkablepractice.com,The Remarkable Practice,President,Tennessee,theremarkablepractice.com,62139;611430;541611,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d6a,Rajiv,Shah,rajiv@my-meds.com,MyMeds,Founder and CEO,Minnesota,my-meds.com,62111;513210,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d51,Gene,Hilton,ghilton@deserthillsdental.com,Desert Hills Dental Care,Owner,New Mexico,deserthillsdental.com,62121,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425daf,Debra,Durst,ddurst@revitalyzemd.com,RevitalyzeMD,Founder / Physician,Tennessee,revitalyzemd.com,62139;62111,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e69,Gary,Guidry,g.guidry@centerlinehealthcarepartners.com,Centerline Healthcare Partners,Chief Executive Officer,Tennessee,centerlinehealthcarepartners.com,62111;621999;541611,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239bf,Michael,Gorman,mike@imovephysicaltherapy.com,iMove PT,Founder/Physical Therapist,Missouri,imovephysicaltherapy.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bab,Stephen,Rublaitus,srublaitus@dupageanesthesia.com,"DuPage Valley Anesthesiologists, Ltd",President,Illinois,dupageanesthesia.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423929,Randy,Heiser,randy.heiser@sullivanhealthcareconsulting.com,Sullivan Healthcare Consulting,President,Michigan,sullivanhealthcareconsulting.com,62111;541611,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238c1,John,McNulty,johnmcnulty@gatewaymercy.com,Gateway Urgent Care LLC,CEO & Managing Partner,Kentucky,gatewayurgent.com,62139;621498,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a9d,Tom,Keesling,tomk@indushealth.com,IndusHealth,President & co Founder,Ohio,indushealth.com,62111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bba,Ankur,Sharma,asharma@entsc.com,Ear Nose and Throat Specialty Care of MN,Chief Executive Officer,Minnesota,entsc.com,621111,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b81,Ray,Mays,raym@ecotn.com,Eye Centers of Tennessee,Chief Executive Officer,Tennessee,ecotn.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423aec,Catherine,Raack,catherine@ctspediatrics.com,Community Therapy Services,CEO and Speech - Language Pathologist,Illinois,ctspediatrics.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238fc,Shaleea,Shields,sshields@lumicaretech.com,LumiCare,Chief Executive Officer,Pennsylvania,lumicaretech.com,62139;624120;541512,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423952,Adam,Pitts,apitts@oralsurgicalinstitute.com,Oral Surgical Institute,President,Tennessee,oralsurgicalinstitute.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc67974000142388f,Tamara,Owsley,towsley@alleghenymedical.com,"Allegheny Medical, P.C.",President - Allegheny Medical PC,Pennsylvania,alleghenymedical.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239cc,Keith,Warner,keithw@neswc.com,Northeast Surgical Wound Care,CEO,Ohio,neswc.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a04,Chad,Ollom,drchad@puresmiles.com,Pure Smiles Dental Group,Founder & CEO,Ohio,puresmiles.com,621210,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425da9,Douglas,Hampers,hampers@nationalbioskills.com,"National Bioskills Laboratories, LLC",President & CEO,Pennsylvania,nationalbioskills.com,62139;611430;561920,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e1b,Douglas,Krebs,drkrebs@chicagospineandsports.com,Chicago Spine and Sports,Owner,Illinois,chicagospineandsports.com,62139,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ec7,Phillip,Haynie,phil@resourceanesthesia.com,Resource Anesthesia,President,Tennessee,resourceanesthesia.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f60,Nilesh,Patel,nilesh@lakemoordental.com,Lakemoor Dental,Chief Executive Officer,Illinois,lakemoordental.com,62121,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d70,Arielle,Garcia,agarcia@monarchcircleaba.com,Monarch Circle ABA,"Founder, CEO",Illinois,monarchcircleaba.com,62139;62142,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d9d,Michael,Meneghini,mmeneghini@indianaortho.com,Indiana Orthopedic Institute,Founder & CEO,Indiana,indianaortho.com,621111,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e68,Eric,Wygant,eric@kidsreach4speech.com,REACH FOR SPEECH LLC,Owner/ Controller,Pennsylvania,kidsreach4speech.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dc5,Matt,Thornburg,m.thornburg@totalcarehealth.com,Total Care Health,President and CEO,Missouri,totalcarehealth.com,62111,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f7d,Jessica,Tucker,jessica@truecolorsatc.com,True Colors Autism Treatment Center,Owner,Tennessee,truecolorsatc.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e27,Jason,Meyer,jason@dubuquept.com,Dubuque Physical Therapy,Owner,Iowa,dubuquephysicaltherapy.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d72,Nathan,Ivey,niveydpm@nmfootandankle.com,New Mexico Foot & Ankle Institute,Owner,New Mexico,nmfootandankle.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425edd,Ardis,Schmitt,ardis@revivema.com,"Revive Medical Spa, LLC",CEO,Michigan,advancedskinmd.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239e8,Rodney,Williams,rodney@lyv-wellness.com,LYV Wellness,Co-Owner,Ohio,lyv-wellness.com,62139;6214,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ad8,Richard,Stamps,richard@totalaccessmedical.com,Total Access Medical,Founder & President,Pennsylvania,totalaccessmedical.com,621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423be7,Jennifer,Houk,jennifer.houk@thekidspotcenter.com,"The Kid Spot Center, LLC",Speech Language Pathologist/Co-Owner,Kentucky,thekidspotcenter.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc67974000142388b,Jitander,Dudee,dudee@medicalvision.com,Medical Vision Institute,Owner,Kentucky,medicalvision.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0dc67974000142390e,Jordan,Rauch,jrauch@dileymedicalgroup.com,Diley Medical Group,President and General Counsel,Ohio,dileymedicalgroup.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a40,Kim,Wilson,kimwilson@karefirst.com,KareFirst,Chief Executive Nursing Officer,Illinois,karefirst.com,62139;621999,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a1d,Joseph,Belmonte,jbelmonte@vocamotive.com,"Vocamotive, Inc.",President,Illinois,vocamotive.com,62139;624310;611430,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423902,Stephanie,Hunsberger,stephaniehunsberger@medisysqi.com,"Medisys Solutions, LLC",President,Pennsylvania,medisysqi.com,62139;541611;561311,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b88,Lora,Harnack,lora.harnack@purity-health.com,"Purity Health, LLC",Chief Executive Officer,Tennessee,purity-health.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238b1,Myra,Bertling,mbertling@bertlingaba.com,Bertling ABA,BCBA/owner,Illinois,bertlingaba.com,62139;621420,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423b07,Baljinder,Bathla,bathla@chicagosportsspine.com,Chicago Sports and Spine,CEO and Founder,Illinois,chicagosportsspine.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b53,Bill,Fivek,bill@totalmedicalcompliance.com,Total Medical Compliance,President & CEO,Pennsylvania,totalmedicalcompliance.com,62139;611430;541611,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423af9,Michael,Czarnecki,mczarnecki@thelungdocs.com,"""The Lung Docs"" - Pulmonary & Critical Care Consultants - MD Total Care, PLLC",President,Tennessee,thelungdocs.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238ab,Kyle,Hei,kyle@optimumtherapies.com,Optimum Therapies,Co-Owner,Wisconsin,optimumtherapies.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238bb,Matthew,Evans,mevans@eteyecare.com,Evans & Taylor Eye Care Group,"Founder, President & CEO at Evans & Taylor Eye Care Group",Indiana,eteyecare.com,62121;621320,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238e8,Tonya,Lindsell,drlindsell@cincinnativisiongroup.com,CINCINNATI VISION GROUP LLC,Optometrist/Owner,Ohio,cincinnativisiongroup.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238f6,Joe,Hein,joe@integrativemassagemn.com,Integrative Massage,Owner / Business Development / Massage Therapist,Minnesota,integrativemassagemn.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423920,Leonard,Wanta,leonard@distinctivetherapyservices.com,Distinctive Therapy Services,President,Illinois,distinctivetherapyservices.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423951,Shree,Mulay,shree.mulay@thekidneyexperts.com,"The Kidney Experts, PLLC",Co-Founder / Chairman / Interim CEO (Chief Empathy Officer) / Nephrologist,Tennessee,thekidneyexperts.com,62149;621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423abd,Andrew,Headrick,andrew.headrick@kavira.health,Kavira Health,CEO & Founder,Minnesota,kavirahealth.com,62139;621498,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423995,Michelle,Flora,michelle@comconcierge.com,Complete Concierge Care,Business Owner,Michigan,completeconciergecare.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239a2,Jeffrey,Rosenberg,jrosenberg@prizmpain.com,Prizm Pain Specialists,Chief Executive Officer,Michigan,prizmpain.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ade,Jeff,Kegarise,cole@coolspringseyecare.com,Cool Springs EyeCare,President,Tennessee,coolspringseyecare.com,62121,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423b93,Karl,Schwiesow,kurt@towerclockeyecenter.com,Tower Clock Eye Center,Owner,Wisconsin,towerclockeyecenter.com,62121;621111,Medical Practice,Approve,Medical Practice
+6a724a13c679740001423c5a,Katherine,Dixon,kdixon@reachyours.com,Action Potential - One on One Physical Therapy,Co-Owner/Physical Therapist,Pennsylvania,reachyours.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425efa,Daniel,Dpm,happyfeet@lakesfootankle.com,Foot and Ankle Associates,Owner,Michigan,thefootpros.com,621391,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f88,Steve,Downey,sdowney@thrive365.com,Thrive365,CEO,Kentucky,thrive365.com,62111;51321;62199,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d63,Mandy,Simmerman,mandy.simmerman@rbcsolutions.org,REGIONAL BEHAVIORAL CONSULTANTS INC.,Owner/CEO/President,Pennsylvania,regionalbehavioralconsultants.com,62139;62142,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d8e,John,Olsen,drjohn@franklindental.net,Franklin Dental,CEO Franklin Dental,Wisconsin,franklindental.net,62121,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425ff1,Michael,Granieri,mgranieri@conradpearson.com,The Conrad Pearson Clinic,President,Tennessee,conradpearson.com,62149;621111,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e4f,Bryan,Carestia,bryan.carestia@activcore.com,ACTIVCORE PHYSICAL THERAPY,Owner,Pennsylvania,activcore.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425ee3,Matthew,Neuhaus,drneuhaus@nfaapc.com,Neuhaus Foot & Ankle,Owner,Tennessee,neufoot.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f22,Sarah,Ligon,sarah@ohpa.com,Old Harding Pediatric Assoc,Chief Executive Officer,Tennessee,ohpa.com,62111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f48,Nate,White,nate.white@cibolohealth.com,Cibolo Health,CEO/President,Pennsylvania,cibolohealth.com,62111;541611,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d86,Thomas,Patek,thomas@ushphealth.com,USHP,Co-Founder & Chief Strategy Officer,Illinois,ushphealth.com,62111;62199,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dbd,Lori,Logsdon,lorilogsdon@brightsmiles-stl.com,Bright Smiles,Owner,Missouri,brightsmilesga.com,62121,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d8c,Caroline,Johnson,caroline@northshorerehab.com,North Shore Spinal & Sports Rehabilitation,Managing Partner,Illinois,northshorerehab.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425db8,Katy,Whalen,katy@joiandblokes.com,Joi+Blokes,Co-Founder,Tennessee,joiandblokes.com,621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c39,Michael,Gold,drgold@goldskincare.com,Gold Skin Care Center,Owner,Tennessee,goldskincare.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423aa6,Nathan,Miller,nmiller@mauryregional.com,Maury Regional Medical Group,President,Tennessee,mauryregionalmedicalgroup.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423b05,Samer,Kassar,skassar@mwneuro.com,Midwest Neurology Associates,CEO,Illinois,dgj26brif08aa.cloudfront.net,621111,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b13,Mark,Johnsen,mark@solveclinics.com,Solve Clinics,Founder & Managing Partner,Illinois,solveclinics.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423921,Chris,Zajdel,chriszajdel@lovemyskiin.com,Skiin,Co-owner,Wisconsin,skinhealthwellness.com,62111;315250;334510,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239ba,Alec,Brecker,alec@iv-active.com,IV ACTIVE,Chairman/Interim CEO/Investor,Pennsylvania,iv-active.com,62139;6219,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b87,Martin,Kungl,mkungl@ohioanesthesia.com,Ohio Anesthesia Group,President,Ohio,ohioanesthesia.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a8e,David,Whitt,missyofm@dileymedicalgroup.com,Diley Medical Group,Owner,Ohio,dileymedicalgroup.com,621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c41,David,Minges,dminges@onyx-institute.com,Onyx Spine and Orthopedic Institute,"Founder/Principle, Orthopedic Spine Surgeon",Missouri,onyx-institute.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239ee,Eugene,Jao,dr.jao@laclinicasc.com,"La Clinica, S.C.",President/CEO,Illinois,laclinicasc.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142395e,Keili,Mistovich,keili.mistovich@zestpeds.com,Zest Pediatric Network,Co-Founder,Ohio,zestpeds.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239dd,Allison,Higgins,allison@readcollc.com,Reading Write Alaska,Co-Founder,Kentucky,readingwritealaska.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142398d,Nicole,Andersen,nicolea@artisandentalmadison.com,"Artisan Dental, LLC",Owner and Dentist,Wisconsin,artisandentalmadison.com,621210,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239a3,Matthew,Doppelt,mdoppelt@drdoppelt.com,Southeastern Dermatology,Owner,Tennessee,sederm.us,62111,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b70,Emily,Lawler,emily@looklab.com,Look Lab Med Spas,President,Missouri,looklab.com,62139;621498,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b8d,Osama,Malak,stephanie@lorainsurgery.com,Comprehensive Center For Pain,Owner,Ohio,cc4pm.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bed,James,Goff,james@prosindiana.com,Prosthetic Solutions of Indiana,President,Indiana,prosindiana.com,339113;621399,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238a7,Thomas,Logan,tlogan@mwent.org,"Midwest Ear, Nose & Throat Surgery","President, Midwest Ear, Nose, & Throat",Kentucky,midwestentsurgery.com,621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bcf,Amy,Moses,amy@mojoph.com,MOJO Pelvic Health,Co-Owner,Tennessee,mojoph.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239fd,Hannah,Hutcheson,hannah@midsouththerapygroup.com,Midsouth Therapy Group,Co-Founder,Tennessee,midsouththerapygroup.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a5e,Ashley,McClellan,ashley@medcurate.com,MedCurate,CEO | Founder | Board Member | Healthcare Expert | Leadership Speaker | Private Consultant,Missouri,medcurate.com,62139;561320;541512,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238f8,Dimple,Singh,dsingh@chestertonpt.com,"Chesterton Physical Therapy, Inc.",President,Indiana,chestertonpt.com,62139,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bd4,Natalie,Reisin,natalie@mystardr.com,Star Plastic Surgery,Chief Executive Officer,Michigan,mystardr.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a69,Debra,Wygant,deb@kidsreach4speech.com,REACH FOR SPEECH LLC,Owner/Speech Therapist,Pennsylvania,kidsreach4speech.com,62139,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e81,Arpan,Patel,drpatel@alphadentalexcellence.com,Alpha Dental Excellence,Chief Executive Officer,Pennsylvania,alphadentalexcellence.com,621210,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ebd,Tim,Moore,tmoore@ptpracticepro.com,Practice Pro,Chief Executive Officer,Tennessee,ptpracticepro.com,62139;513210,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bea,Michael,Salin,drsalin@innovativeoralsurgery.com,Innovative Oral Surgery & Dental Implants,Owner,Pennsylvania,innovativeoralsurgery.com,62139;621210,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a93,Ron,Lederman,rlederman@lkorthopedics.com,Lederman Kwartowitz Center for Orthopedics and Sports Medicine,President,Michigan,lkorthopedics.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a94,Angel,Gray,angelgray@ctspediatrics.com,Community Therapy Services,President/CEO,Illinois,ctspediatrics.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423953,Kevin,Amdahl,kamdahl@amdahlhearing.com,Amdahl Hearing,Owner,Minnesota,amdahlhearing.com,62111,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e61,Wayne,Zink,wayne@metropolitanskinclinic.com,Metropolitan Skin Clinic,Chief Executive Officer,Minnesota,metropolitanskinclinic.com,62139;621111;456120,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f6c,Brenda,Navin,brenda@launchmyhealth.com,Launch My Health,Chief Executive Officer,Minnesota,launchmyhealth.com,62139;621999;611430,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425feb,Eric,Lundgren,drlundgren@lundgrenchiropractic.com,Lundgren Family Chiropractic,CEO/Dr,Tennessee,lundgrenchiropractic.com,62131,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dd2,David,Robbins,drobbins@dsmplasticsurgery.com,Des Moines Plastic Surgery,Owner/Plastic Surgeon,Iowa,dsmplasticsurgery.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425da5,Alex,Kunz,alex@tectonic.health,Tectonic Health,Co-Founder & CEO,Pennsylvania,tectonic.health,62139;62149,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f9c,Mary,Kreis,maryk@kutsllc.com,"Kids Unlimited Therapy Services, LLC",Chief Executive Officer,Illinois,kidsunlimitedtherapyservices.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d75,Paul,Thomas,pthomas@impactphysicaltherapy.com,Impact Physical Therapy,Managing Partner,Illinois,impactptaz.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f1b,Armando,Davila,drdavila@pghplasticsurgery.com,Pittsburgh Center for Plastic Surgery,CEO & President,Pennsylvania,pittsburghplasticsurgery.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f6a,Brian,Wenger,bwenger@radiusliving.net,Radius Living,Founder and CEO,Minnesota,radiusliving.net,62139;446110,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fec,Zachary,Lose,zlose@institutionaleyecare.com,Institutional Eye Care LLC,CEO,Pennsylvania,institutionaleyecare.com,62142;621320,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d8b,Kishawn,Kole-James,dr.kj@superiororthodontics.com,Superior Orthodontics,Owner,Michigan,superiororthodontics.com,62121,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f7f,Bruce,Trimble,btrimble@trimbledental.com,Trimble Dental,Owner,Wisconsin,trimbledental.com,62121,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e29,Alexander,Frisbie,alexfrisbie@fieldsfamilydentistry.com,"Fields Family Dentistry, LLC",Business Owner,Pennsylvania,fieldsfamilydentistry.com,62121,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425e99,Matthew,Ward,matthew@primeperformancept.com,Prime Performance,Founder & President,Ohio,primeperformancept.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425da8,Kevin,Campbell,kcampbell@drgsweightloss.com,Dr. G's Weight Loss & Wellness,Franchise Owner,Pennsylvania,drgsweightloss.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f41,Francois,Diouf,fdiouf@southdown.on.ca,The Southdown Institute,President and CEO,Pennsylvania,southdown.on.ca,62139;621420;623220,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d91,Patricia,Williams,pwilliams@ghsnllc.com,Global Health Services Network,President and Founder,Michigan,globalhealthservicesnetwork.com,62139;541611,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f65,Victoria,Weber,victoria@marmahealth.com,Marma,Co-Founder,Missouri,marmahealth.com,62139;611699,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a2f,Dennis,Wollschleger,wollschleger@rcmed.com,RC Medical,Owner,Ohio,rcmedical.pl,62111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423be6,Ernest,Colling,ernest@transcendcompany.com,Transcend,Founder Transcend,Michigan,transcendcompany.com,621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bff,Anastasios,Michalopulos,taso@rightstartpediatrics.com,"Right Start Pediatric Therapies, Inc",President,Illinois,rightstartpediatrics.com,62139;561110,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423932,Saumiin,Calcuttawala,saumiin@drazizrx.com,Dr Aziz,Pharmacist and Owner,Indiana,drazizrx.com,621111;45611,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c1d,Amy,Vertin,avertin@emediatecure.com,Emediate Cure® Quick Care,"Managing Partner, FNP-C",Illinois,emediatecure.com,62139,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b4f,Laura,Webber,laura@villagegreendentistry.com,Village Green Dentistry,"Founder, Dental Practice Management Consultant",Illinois,villagegreendentistry.com,62121,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c2b,Brad,Winn,brad@winnsmiles.com,Winn Smiles,President/Owner,Tennessee,winnsmiles.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423934,Chris,Potrykus,chris@keystonedentalpartners.com,Keystone Dental Partners,President,Wisconsin,keystonedentalpartners.com,621210,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238da,Staci,Bettiker,sbettiker@bettercarenutrition.com,BetterCare Nutrition Network,President & Owner,Illinois,bettercarenutrition.com,621399,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423aaf,Mark,Ellis,markellisdmd@epbfi.com,Ellis Dental,Dentist/Owner,Tennessee,ellisdental.com,621210,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238ad,Chris,Gnetz,chris@superiorconnects.com,Superior Medical Consultants LLC,President,Minnesota,smcexams.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a21,Antonio,Leandres,apleandres@journeytherapycenter.com,JOURNEY THERAPY CENTER LLC,Principal Owner,Michigan,journeytherapycenter.com,62139,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f80,Michael,Madden,michael.madden@tpadocs.com,The Physician Alliance,President & CEO,Michigan,tpadocs.com,62111;813920,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d7f,Tracy,Lyndon,tracy@therapeuticlinks.com,Therapeutic Links PC,Owner/Pediatric Occupational Therapist,Illinois,therapeuticlinks.com,62139,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fe1,Wajde,Dabah,wajde.dabah@painhelp.com,Midwest Vascular and Pain Specialists,Co-Founder,Illinois,painhelp.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fdc,Rob,Burger,rburger@lycomingpt.com,Lycoming Physical Therapy,Owner/president,Pennsylvania,lycomingpt.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425ff0,Frank,Cawley,frank@cawleyphysicaltherapy.net,Cawley Physical Therapy,CEO,Pennsylvania,cawleypt.net,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d65,Joseph,Greene,joegreenemd@louisvillehipandkneeinstitute.com,Louisville Institute of Orthopaedics,Co-Founder/Orthopaedic Surgeon,Kentucky,louisvilleorthopaedics.com,621111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d8d,Amy,Carlson,amy@keystonept.com,Keystone Physical Therapy,Co-Owner,Wisconsin,keystonept.com,62139,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e3b,Robert,Devrnja,drbob@erxgroup.net,ERx Clinical Partners,CEO,Tennessee,erxgroup.net,62139;561320;621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f09,Robert,Brunetti,rgb@procaredentalgroup.com,Procare Dental Group,Chief Executive Officer,Illinois,procaredentalgroup.com,62121,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fc7,Brook,Bishop,brook.bishop@prefercare.com,PreferCare,"Executive Consultant, Fractional CEO, COO, CGO",Tennessee,prefercare.com,62111;54161,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e5f,Timothy,Brooks,tbrooks@smilesforlifemn.com,Smiles For Life,Owner,Minnesota,dentistbloomingtonmn.com,62121,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425ee8,David,Jernigan,drjernigan@biologixcenter.com,Biologix Center for Optimum Health,Founder/CEO,Tennessee,biologixcenter.com,62139;6211,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425eaf,Jason,Stratton,jstratton@advancephysicaltherapy.net,Advance Physical Therapy,President,Illinois,advancephysicaltherapy.com,62139,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fc2,Kate,Freese,kate@bbhealingarts.com,Blue Buddha Healing Arts,Owner/LMT,Pennsylvania,bbhealingarts.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a50,Nader,Aziz,nader@regencymedicalcenter.net,Regency Medical Center,Owner,Illinois,regencymedicalcenter.net,62111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ae3,Sara,Khan,sara@vitastir.com,VITAstir,CEO,Michigan,vitastir.com,62139;6211,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bcc,Jennifer,Mulhern,jmulhern@martinfootandankle.com,Martin Foot and Ankle,Owner/Physician,Pennsylvania,martinfootandankle.com,621391,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423947,Casey,Od,drcasey@aepeye.com,"Advanced Eye Care Professionals, P. C.",President & Founder,Illinois,aepeye.com,62121,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bc0,Roohi,Jeelani,roohi.jeelani@onto.health,Onto Health,Chief Executive Officer & Founder,Illinois,onto.health,62141;621111;621498,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b6f,Jane,Sharkey,jane@hfsatc.com,Helena Autism Therapy,Owner,Minnesota,hfsatc.com,62139;621420,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238d7,James,Wachtman,jwachtman@vip-us.net,Vision Integrated Partners,Chief Executive Officer,Missouri,vipus.com,621111;541611,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a45,Terri,Kraft,terri.kraft@americanhipinstitute.com,American Hip Institute,Chief Executive Officer,Illinois,americanhipinstitute.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a8a,Eric,Nichols,eric.nichols@atriahealth.co,Atria Health,President,Pennsylvania,atriahealth.co,54133;621111;541611,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238ce,Rachel,Currie,rcurrie@milestonesautismcenter.com,Milestones Autism Center,Owner,Michigan,milestonesautismcenter.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a9c,Mary,Smith,mary@zeroinfectionrates.com,"CVC Health Care, LLC",President,Wisconsin,zeroinfectionrates.com,62139;611430,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142398e,Jonathan,Wong,jwong@renovoendo.com,Renovo Endodontic Studio,Business Owner,Illinois,renovoendo.com,621210,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b66,Alanna,Wirtz,alannaw@madisonfamilydental.com,Madison Family Dental,"Dentist, Practice Owner",Wisconsin,madisonsmiles.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239f0,Erica,Wagner-Heimann,dr.wagner@centerforanxietyandocd.com,Center for Anxiety & OCD,Co-Founder & Clinical Psychologist,Illinois,centerforanxietyandocd.com,62139;62142;611430,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423b94,Joe,McMillin,joe.mcmillin@simpsonopticalky.com,Simpson Optical,Co Owner and Optometrist,Kentucky,simpsonopticalky.com,62121,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dd8,Philip,Cunningham,philip@jamaahealth.com,Jamaa Health,Founder,Ohio,jamaahealth.com,62111;519290,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425ee2,Joshua,Smith,joshua@journeysautism.com,Journeys Autism Center,Chief Executive Officer,Indiana,journeysautism.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142394b,Samer,Sader,sbs@renalcareassoc.com,RenalCare Associates SC,President,Illinois,renalcareassoc.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a35,Spencer,Koch,spencer@spencerkoch.com,"HURON VALLEY RADIOLOGY, P.C.",President,Michigan,huronvalleyradiology.com,62151;621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423be9,Bruce,Bouts,bbouts@bvhealthsystem.org,Blanchard Valley Medical Associates,Owner,Ohio,bvma.com,621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bd8,Sal,Braico,sal.braico@pivotalhealth.care,Pivotal Healthcare,Co-Founder and CEO,Wisconsin,pivotalhealth.care,62139;621498;621111,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423884,Les,McGowan,lmcgowan@memphisurology.com,"The Urology Group, P.C.",President,Tennessee,memphisurology.com,62149;621111,Medical Practice,Approve,Medical Practice
+6a724a0dc67974000142389f,Janet,Carroll,janet@vlmassage.com,Vital Living Integrative WellSpa,Owner,Indiana,vlmassage.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238b5,Heather,Burleson,paheather@genesislifestylemedicine.com,Genesis Lifestyle Medicine,Physician Associate and Co-owner,Tennessee,genesislifestylemedicine.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b30,Patrick,Trenary,drtrenary@trenarychiro.com,Active Family Chiropractic,Owner,Iowa,activefamilychiroaz.com,62131,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c05,Lori,Short,lori.short@steppingstonestherapeutics.com,"Stepping Stones Therapeutics, LLC",Owner,Pennsylvania,steppingstonestherapeutics.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d8f,Renee,Ramon-Doughman,renee@accessabilitiesinc.com,AccessAbilities,Founder & CEO,Indiana,accessabilitiesinc.com,62139;624120;621420,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d9e,Elias,Kassab,ekassab@dearborncardiology.com,Dearborn Cardiology,President/ CEO,Michigan,dearborncardiology.com,62111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425db1,John,Lynch,jlynch@lynchdentalcenter.com,LYNCH DENTAL CENTER,Owner,Illinois,lynchdentalcenter.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423904,Firouz,Daneshgari,fd@bowtiemedical.com,BowTie Medical,Founder & CEO,Ohio,bowtiemedical.com,621111,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b22,Max,Curry,mcurry@physicaltherapyinnovations.com,Physical Therapy Innovations,President,Missouri,physicaltherapyinnovations.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423890,Michael,Lemonds,mike.lemonds@dxtxpas.com,DxTx Pain and Spine,President,Michigan,dxtxpas.com,621111;621493,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423979,Bashar,Alkabbani,dralkabbani@dental-er.us,The Dental Emergency Room,Chief Executive Officer,Minnesota,dental-er.us,621210,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b8c,Douglas,Magenheim,drdoug@mydoctorllc.com,My Doctor LLC,"Physician, President",Ohio,mydoctorllc.com,62111,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b0a,Vicki,Danis,drvicki@communitychiroavon.com,Community Chiropractic,Owner,Indiana,itsforyourlife.com,62131,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c4b,Sabina,Singh,ssingh@anoviahealth.com,Anovia Health,Co-Founder/Chief Medical Officer,Wisconsin,anoviahealth.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423944,Joseph,Snoke,joseph.snoke@aeterna-aesthetics.com,Aeterna Aesthetics,Owner/Founder,Ohio,aeterna-aesthetics.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423988,Richard,Durocher,rd@opmt.com,Optometric Physicians of Middle Tennessee,President,Tennessee,opmt.com,62142;62132;45613,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a81,Mike,Cymbor,mcymbor@nittanyeye.com,Nittany Eye Associates,Owner,Pennsylvania,nittanyeye.com,62142;62132,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423885,Stephen,Freeland,sfreeland@cancercaregroup.com,Cancer Care Group,CEO,Indiana,cancercaregroup.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239af,Tapan,Raut,tapan@synergyrehabinc.com,Synergy Rehab Inc,Chief Executive Officer,Michigan,synergyrehabinc.com,62139;62134,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ad7,Annaluisa,Reinert,areinert@empoweralaska.com,Empower Physical Therapy,Co-owner,Wisconsin,empoweralaska.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239c3,Jessie,Carter,jessie@highpointetherapy.com,High Pointe Therapy,Founder,Tennessee,highpointetherapy.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239d5,Paul,Hinton,paul_hinton@ssmhc.com,HINTON HEALTHCARE GROUP,President,Missouri,hintonhealthcare.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a05,Miles,Hodge,miles@shinepeds.com,Shine Pediatric Therapy,Owner,Indiana,shinepeds.com,62139;621498,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a3f,Jamie,Bhairoo,jlynn@cedarcrosse.com,Cedar Crosse Research Center,Chief Executive Officer,Illinois,cedarcrosse.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a80,Alex,Balaci,abalaci@bdentalmanagement.com,BDental,CEO/ D.m.d,Pennsylvania,bdentalmanagement.com,62121,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d80,Dan,Strobel,dr.dan@strobeldentistry.com,Strobel Dentistry,Owner - Dentist,Illinois,strobeldentistry.com,621210,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dcd,Tod,Gerhardt,gerhardt@americaneyecare.com,American Eyecare,Optometrist/Owner,Iowa,americaneyecare.com,62121,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fd8,Robin,Ross,drross@jsrpsychology.com,iaedp Heartland Chapter,President,Illinois,heartlandiaedp.com,62139;813920;611430,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d4d,Charu,Ramanathan,charu@vitalxchange.com,Vitalxchange,Co-Founder and CEO,Ohio,vitalxchange.com,62139;624190;513210,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e58,Chris,Brehm,chris.brehm@lifeline-therapy.com,Lifeline Physical Therapy,Owner / CEO,Pennsylvania,lifeline-therapy.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f81,Christopher,Yanakos,chris@relipartner.com,Reli,President and CEO,Pennsylvania,relipartner.com,62139;62199;541611,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fba,Stephanie,Serafimovski,stephanie@crawlwalkjumprun.com,"Crawl Walk Jump Run Therapy Clinic, LLC",Owner,Michigan,crawlwalkjumprun.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d69,Michael,Karegeannes,mkaregeannes@freedompt.com,"Freedom Physical Therapy Services, S.C.",Owner/Physical Therapist,Wisconsin,freedompt.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425ee7,Jennifer,Shelhouse,jennifer@smileddc.com,Dayton Dental Collaborative,Chief Executive Officer,Ohio,smileddc.com,62121,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425ef4,John,Moore,john@csps.me,Cool Springs Plastic Surgery,President,Tennessee,coolspringsplasticsurgery.net,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425eb1,Dan,Digman,dan@backinactionrehab.com,"Back-in-Action Rehabilitation, S.C.",Owner,Wisconsin,backinactionrehab.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425eea,Bryan,Weinstein,bryan.weinstein@mindhealthgroup.com,Mind Health Group,CEO Mind Health Group,Michigan,mindhealthgroup.com,62142;621112,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e3d,Meghan,Lash,mtlash@oneptandwellness.com,One Physical Therapy and Wellness,Owner,Pennsylvania,oneptandwellness.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f51,Kyron,Moses,kyron@bodyacheescape.com,Body Ache Escape Wellness Center,Co Owner,Ohio,bodyacheescape.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f78,Sanjay,Sharma,sanjay@ascendantcares.com,Ascendant Health,Chief Executive Officer,Michigan,ascendant.health,62139;621999,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e95,Jim,Macy,jim.macy@macyfamilydentistry.com,Macy Family Dentistry,President,Ohio,macyfamilydentistry.com,62121,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f2b,Megan,Campbell,megan@healthiertomorrows.com,Healthier Tomorrows,President and Dietitian,Illinois,healthiertomorrows.com,62139;621999,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d82,Deborah,Reed,dreed@arirehab.com,"Advanced Rehabilitation, Inc.",Owner,Indiana,arirehab.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dfa,Andrew,Henderson,andrew@grayhawkhealth.com,GrayHawk Health,Chief Executive Officer,Pennsylvania,grayhawkhealth.com,62161;621111;621420,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ead,Ryan,Zemmin,ryan.zemmin@mywoundcareplus.com,"Wound Care Plus, LLC",Chief Executive Officer,Michigan,mywoundcareplus.com,62139;621498,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d5f,Matthew,Pinto,drpinto@vivecenter.com,Vive Aesthetics & Wellness,CEO/Physician,Pennsylvania,vivecenter.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f1e,Erica,Conroy,erica.conroy@primum.co,Primum,CEO and CoFounder,Ohio,primum.co,62111;513210,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425ef1,Dan,Latham-Smith,dan.l@pulsemedicalstaffing.com,Pulse Medical Staffing,Founder & CEO,Missouri,pulsemedicalstaffing.com,62139;561311;561320,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dd1,Jen,Wheeler,jen@bigtreemedical.com,Big Tree Medical,Co-Founder and COO,Missouri,bigtreemedical.com,621111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dbf,Janet,Kickham,janet@linkupteletherapy.com,LinkUp Teletherapy,Co-Founder,Missouri,linkupteletherapy.com,61171;6211,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dc0,Jordan,Klear,jklear@cmcounselmgt.com,CM Counsel Inc,Chairman and Chief Executive Officer,Pennsylvania,cmcounsel.com,62111;621420,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fa3,Sue,Tetzlaff,sue@capstoneleadership.net,"Capstone Leadership Solutions, Inc.",Co-Founder | Chief Executive Officer | Podcast Host,Michigan,capstoneleadership.net,62111;541611;611430,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e93,Jillian,Burgard,burgard@rootsautismsolutions.com,"ROOTS AUTISM SOLUTIONS, LLC",President,Illinois,rootsautismsolutions.com,62139;6211;624410,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e0a,Neil,Kanning,drk@kanningortho.com,Kanning Orthodontics,Owner Orthodontist,Missouri,kanningorthodontics.com,62121,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e26,Tom,Sanders,tsanders@atonhealth.com,Aton Health,Founder & CEO,Missouri,atonhealth.com,62111;541715,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f23,Tisha,Barzyk,tisha@integumetrix.com,Integumetrix,CEO | CCO | Advanced Wound Care Expert,Tennessee,integumetrix.com,62139;621498,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142393c,Kim,Dennis,drkim@suncloudhealth.com,SunCloud Health,Co-founder,Illinois,suncloudhealth.com,62111;623220;621420,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423abf,Dustin,Greene,dgreene@pmgvascular.com,"PREFERRED VASCULAR GROUP, LLC",Chief Executive Officer,Tennessee,preferredvasculargroup.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239bd,Grant,Schmidt,gschmidt@ohioreproductivemedicine.com,Ohio Reproductive Medicine,President,Ohio,ohioreproductivemedicine.com,62141;621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c15,Carleton,Crutchfield,cbcrutchfield@bridgeautism.com,The Bridge Autism Clinic,"Co-founder, CEO, and Managing Partner",Minnesota,,62139;621420,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f28,Bridget,Gruender,drgruender@libertyfamilymed.com,Liberty Family Medicine,Physician and Owner,Missouri,libertyfamilymed.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423894,Mark,Piotrowski,mpiotrowski@saoeyes.com,Suburban Associates in Ophthalmology,"Owner, Partner",Illinois,saoeyes.com,62121;621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c17,Craig,Morrison,craig.morrison@sjri.com,Southern Joint Replacement Institute,President,Tennessee,sjri.com,33911;621111,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239d4,Carl,Behne,carl@exemplar.care,"Hy-Vee Health Exemplar Care, PLC",President & Chief Strategy Officer,Iowa,exemplar.care,621111;621498,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423af4,Gregory,Hill,gahill@hillvisionservices.com,"Hill Vision Services,LLC",President and Owner,Missouri,hillvisionservices.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0dc67974000142389a,Sheridan,Lam,slam@dupage2020.com,DuPage Ophthalmology,President,Illinois,dupage2020.com,62111,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b7f,Jessica,Nunnikhoven,jessica@ivleaguedrips.com,IV League Drips,Founder,Illinois,ivleaguedrips.com,62139;621999,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c23,Richard,Cunningham,rcunningham@worthingtondental.com,Worthington Dental Group,Owner,Indiana,worthingtondental.com,621210,Medical Practice,Approve,Medical Practice
+6a724a13c679740001423c54,Jacob,Lang,jlang@associatedeyecare.com,Intrepid Eye Society,President,Minnesota,intrepideyesociety.com,62131;813920;611430,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a36,Derek,Armstrong,darmstrong@midwest-ortho.com,Midwest Orthopaedic Center,Chief Executive Officer,Illinois,,621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423b02,John,Bennet,premierpediatrics@askdrbennet.com,Premier Pediatrics,Owner,Ohio,premierpediatrics.net,621111,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b6e,Don,Doyle,ddoyle@healthplexassociates.com,"Healthplex Associates, Inc",President,Pennsylvania,healthplexassociates.com,62139;541611,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bf9,Maryanna,Korwitts,maryanna@korwittschiro.com,Korwitts Chiropractic Center,Business Owner,Illinois,korwittschiro.com,621310,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c33,Tricia,Crosby,tcrosby@midwestdentalimplantology.com,"Midwest Dental Implantology - Dr. Crosby, Dr. Kolinski and Dr. Trahan",Periodontist/Owner,Illinois,midwestdentalimplantology.com,62139;621210,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425daa,Keith,Jordan,drkeith@owcenter.com,Optimal Wellness Center,Physician/Owner,Ohio,owcenter.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dfb,Brian,Schroeder,bschroeder@preventiagroup.com,Preventia,Founder & CEO,Indiana,preventia.care,62139;621999,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e05,Jeffrey,Miller,jhmiller@millervein.com,Miller Vein,Founder and CEO,Michigan,millervein.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e37,Julie,Ott,jott@workcompms.com,WORK-COMP MANAGEMENT SERVICES,Business Owner,Indiana,workcompms.net,62139,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fbb,Daniel,Cross,dcross@astepaheadpt.com,A Step Ahead Pediatric Therapy,President / Owner,Kentucky,astepaheadpt.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423886,Adrienne,Fitzmaurice,adrienne.fitzmaurice@alignpilates.co.uk,Align Pilates,Founder & Co-Owner,Minnesota,alignpilates.co.nz,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423956,Daniel,Kuy,kuy@drkuy.com,Kuy Plastic Surgery,President,Ohio,drkuy.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ae1,Deborah,Castellucci,deborah@catastrophiccarenetwork.com,Catastrophic Care Network,Founder & President,Pennsylvania,catastrophiccarenetwork.com,62139,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b5a,Rich,Maston,rich@abacustherapies.com,Abacus Therapies,President,Illinois,abacustherapies.com,62139;621420,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bef,Joseph,Castellano,jcastellano@koettingassociates.com,KOETTING EYE CENTER,Co-Owner,Missouri,koettingeyecenter.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a4c,Jeremiah,Holmes,jholmes@gotcore.net,CORE Health Centers,Chief Executive Officer,Kentucky,gotcore.net,62131,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a4f,Ryan,Mullin,ryan@advanceaquaticpt.com,"Advance Physical & Aquatic Therapy, Springfield PA",Small Business Owner,Pennsylvania,advanceaquaticpt.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238d5,Isabel,Dmd,isabel@wrigleyvilledental.com,Wrigleyville Dental,Dental Practice Owner,Illinois,wrigleyvilledental.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142396a,Richard,Wallis,rwallis@mediconsite.com,Medic On-Site Services,President / CEO,Indiana,mediconsite.com,62139;621910;611430,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a3a,Keith,Friedenberg,kfriedenberg@thectnx.com,"The Clinical Trials Network, (CTNx)","Gastroenterologist, CEO",Ohio,thectnx.com,62139;54171;541611,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423abb,Morgan,Adair,madair@autismcenterstn.com,"Autism Centers of Tennessee, PLLC",Owner,Tennessee,autismcenterstn.com,62139;621420,Medical Practice,Approve,Medical Practice
+6a724a13c679740001423c55,Sarah,Dorsky,sarah@hydratememedspa.com,Hydrate Me Medspa,Franchisee Owner,Ohio,hydratememedspa.com,621399;621999,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239c0,Chaitanya,Anand,canand@mymedicalclinicmn.com,My Medical Clinic,President,Minnesota,mymedicalclinicmn.com,62139,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b18,Robert,Jackson,robert.jackson@psnmo.net,(PSN) Premier Specialty Network,Founding Member & President,Missouri,psnmo.net,62139;561311,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423975,Michael,H,mhamlin@aomstri.com,Associated Oral and Implant Surgeons,Managing Partner,Tennessee,aomstri.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239ed,Ann,Lambie,alambie@ioa-aba.com,Individualized Outcomes for Autism  (IOA),Founder / CEO,Michigan,ioa-aba.com,62139;621420,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bd7,Patrick,Hurley,patrick.hurley@heartlandorthopedics.com,Heartland Orthopedic Specialists,Business Owner/ Orthopedic Surgeon,Minnesota,heartlandorthopedics.com,621111,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b26,Kenneth,Young,kyoung@primaryeyecare.com,Primary Eyecare Group,CEO/Optometrist,Tennessee,primaryeyecare.com,62132,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239a7,Sumayyah,Khan,drkhan@smilestudio87.com,Smile Studio 87,President,Illinois,smilestudio87.com,62121,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423beb,Shannon,Kraichely,savage@risemodernwellness.com,RISE Modern Wellness,Owner,Minnesota,risemodernwellness.com,62139;812199,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c1c,Janelle,Smith,jsmith@evolvesportsmed.com,Evolve Physical Therapy,Owner,Illinois,ptevolve.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239e4,Tham,Doan,thamd@mppcclinic.com,Michigan Psychiatric & Primary Care Clinic,CEO/Provider,Michigan,michiganpsychiatricandprimarycare.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a67,Karin,Quirk,kquirk@catholiccounselors.com,Pastoral Solutions Institute,President,Ohio,catholiccounselors.com,62139,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a98,Ryan,Broyles,drbroyles@bennetteyecaremidwest.com,Bennett Eyecare Midwest,Owner/Partner,Missouri,bennetteyecaremidwest.com,62132,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423acc,Dan,Coyle,dan.coyle@herbsetc.com,"Herbs, Etc.",President,New Mexico,herbsetc.com,33999;621399,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238e0,Pradeep,Rao,pradeep@genexsure.com,Genexsure,Co-Founder & Chief Product Officer,Tennessee,genexsure.com,62111;621399,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a75,Leslie,Mph,leslie@clemandthyme.com,Clem&Thyme Functional Nutrition,"Business Owner, Registered Dietitian Nutritionist",Ohio,clemandthyme.com,621399,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423af3,Scott,Gurwin,sgurwin@lmhealth.org,"FOOT & ANKLE SPECIALISTS OF CENTRAL OHIO, LLC",Owner,Ohio,ohiofootandankle.com,62139,Medical Practice,Approve,Medical Practice
+6a724a10c679740001423b38,Douglas,Holmes,dholmes@dermatologistoncall.com,DermatologistOnCall,CEO,Pennsylvania,dermatologistoncall.com,621111,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425eac,Lawrence,Grello,lgrello@integrated-pt.com,"Integrated Physical Therapy, LLC",Owner,Pennsylvania,integrated-pt.com,62139;62134,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f49,Jay,Christensen,jaychristensen@nsfawi.com,"North Shore Foot & Ankle, WI",Owner,Wisconsin,northshorefootandanklewi.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f52,Anokhi,Bock,dranokhi@forestorthopedo.com,Forest Orthodontics & Pediatric Dentistry,Owner,Illinois,forestorthopedo.com,62121,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d7a,Patty,Shipley,patty@leavesoflife.com,Leaves Of Life Inc,"Owner, Practitioner",Ohio,leavesoflife.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425da1,Peter,Pickens,ppickens@abingtonhemeonc.com,"Abington Hematology Oncology Associates, Inc.",President,Pennsylvania,cancerpa.net,621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f08,Ashwin,George,ageorge@valleymedical.com,Valley Medical and Wellness,Chief Executive Officer,Minnesota,valleymedical.com,62142;621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f62,Matthew,Robin,dr.robin@brightlandhealth.com,Brightland Health,CEO/Psychiatrist,Illinois,brightlandhealth.com,621112,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f8c,Judy,Kendall,judy@worldwidetransitions.com,Worldwide Transitions Inc.,Chief Executive Officer,Indiana,worldwidetransitions.com,62139;561311,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e38,Jennifer,Hall,jhall@dupagepediatrics.com,"DUPAGE PEDIATRICS, LTD.",Managing Partner,Illinois,dupagepediatrics.com,62111,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fe4,Dhiraj,Sharma,dhiraj@atooth.com,American Dental Associates LTD,Owner,Illinois,atooth.com,621210,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dd6,Anupam,Gatecha,drg@rdcaremn.com,Reflections Dental Care,President,Minnesota,rdcaremn.com,621210,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fe6,Hannah,Johnson,hjohnson@wellnestfertility.com,Wellnest Fertility,Chief Executive Officer,Illinois,wellnestfertility.com,62141;621111,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fb1,Jesse,Hunter,jesse@skylight.health,Skylight Health,Co-Founder & CEO,Missouri,skylight.health,62111;513210;541512,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e52,Nan,Gregori,nan@objectivesurgical.com,"Objective Surgical, LLC",CEO,Indiana,objectivesurgical.com,62111;621493,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d4f,Adam,Cramer,adam@myofitclinic.com,MyoFit Clinic,CEO,Ohio,myofitclinic.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dab,Lance,Smith,lsmith@integritydental.group,Integrity Dental Group,Co-Founder,Missouri,integritydental.group,621210,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d88,Debbie,Haymon,debbieh@smartmovespediatrics.com,Smart Move Pediatrics,Owner,Illinois,smartmovespediatrics.com,62139,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425e98,Scott,Hoyer,shoyer@madisonoralsurgeons.com,"Madison Oral & Maxillofacial Surgeons, S.C.","Oral & Maxillofacial Surgeon, Owner",Wisconsin,madisonoralsurgeons.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f24,Tom,Kokocinski,tomk@vitalrehabilitation.com,Vital Rehabilitation,President & CEO,Illinois,vitalrehabilitation.com,62139,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fcb,Bruce,Kutinsky,bkutinsky@accessinfusioncare.com,Access Infusion Care,Chief Executive Officer,Michigan,accessinfusioncare.com,62139;621498;621610,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f1a,Scott,Craig,scraig@midwestdentalsleepcenter.com,Midwest Dental Sleep Center,CEO,Illinois,midwestdentalsleepcenter.com,62139;62121,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f4d,Christopher,Hussussian,chussussian@illumemke.com,Plastic Surgery Associates,Owner,Wisconsin,enhanceyourimage.com,33911;621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425ee9,John,Spisak,john@michiganlearningcommunity.com,Michigan Learning Community,Chief Executive Officer,Michigan,michiganlearningcommunity.com,62139;62142,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425eda,Andrew,Cssd,andrew@casespecificnutrition.com,Case Specific Nutrition,Chief Executive Officer,Pennsylvania,casespecificnutrition.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f05,Michael,Greiwe,mikegreiwe@ortholive.com,HealthcareLive,CEO,Ohio,healthcarelive.com,621111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dfc,Bappa,Mukherji,bappa@javamedicalgroup.com,Java Medical Group,Chief Executive Officer,Tennessee,javamedicalgroup.com,62111;541611;622110,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ec5,Cody,Nelson,cody@wisnova.com,WisNova Innovative Dental Specialists,Company Owner,Wisconsin,wisnova.com,62121,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f53,Pam,Smith,psmith@performanceplusrehab.com,Performance Plus Rehabilitation Center,Owner,Missouri,performanceplusrehab.com,62139,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fdb,Chelsie,Collier,chelsie.collier@impactbehaviortherapy.com,"Impact Behavior Therapy, LLC",Business Owner,Pennsylvania,impactbehaviortherapy.com,62139;621420,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425ed0,Tanner,Gilles,tanner@ptnurse.com,PT Nurse,Chief Executive Officer,Illinois,ptnurse.com,62139,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e4b,Kobby,Amoah,kobby@helloriver.com,River Health,CEO,Minnesota,river.health,62111;524114,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d9a,Ever,Better,ever.better@maxwellclinic.com,MaxWell Clinic,Owner,Tennessee,maxwellclinic.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f43,Mary,Schrag,mschrag@ptsconline.com,"PHYSICAL THERAPY SPECIALISTS CLINIC, INC",Founder and Chair of the Board,Missouri,ptsconline.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f04,Ashli,Holiday,ashlih@renovaaesthetics.com,Renova Aesthetics,Owner/ Operations,Indiana,renovaaesthetics.com,62139;6214;8121,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fca,Jason,Donica,jdonica@premierdentistpartners.com,Premier Dentist Partners,"CEO, Premier Dentist Partners",Illinois,premierdentistpartners.com,62121;541611;561311,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fef,Scott,McDonald,scott@iowaiv.com,Iowa IV,"Chief Strategic Officer, Training & Education Leader, Minority Owner",Iowa,iowaiv.com,62139;621999,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238dd,Michael,Becker,michael.becker@ermedmke.com,ERMED S.C.,President Ermed,Wisconsin,ermedmilwaukee.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238de,Jack,Parry,parry@ihspts.com,Industry Health Solutions - IHS,Chief CEO,Pennsylvania,ihspts.com,62139;621999,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ab4,Laura,Armbrust,larmbrust@mjkidz.com,MJ KIDZ LLC,Co-Owner; Speech and Language Pathologist,Pennsylvania,mjkidz.com,62111;621340,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423937,David,Soleymani,dave@dermio.com,"DERMIO DERMATOLOGY, LLC",Physician/Founder,Illinois,dermiodermatology.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423917,William,Lovett,william@yourwellnesscenter.com,Your Wellness Center,President,Ohio,yourwellnesscenter.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423989,Gary,Vandekerckhove,gvandekerckhove@premierinc.com,PREMIER MEDICINE PC,Owner/Physician,Michigan,premiermedicine.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0ec679740001423a09,Gina,Blean,gina@unifiedtherapy.com,Unified Therapy Services,Co-Owner/Speech-Language Pathologist,Iowa,unifiedtherapy.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238a5,Alex,Madison,alex@mfemcd.com,Madison Family Dental,Owner / Operator,Tennessee,madisonsmiles.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a47,Lindsey,Spahr,lindsey@idealeyesurgery.com,IDEAL EYE SURGERY LLC,Chief Executive Officer,Missouri,idealeyesurgery.com,621111,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b8b,Gentry,Hughes,gentry@copayassistrx.com,CopayAssistRx,Founder and CEO,Kentucky,copayassistrx.com,62111;541611;561110,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425eb5,Kyle,Borowitz,kyle@backinactionrehab.com,"Back-in-Action Rehabilitation, S.C.",Business Owner,Wisconsin,backinactionrehab.com,62139,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e88,Nabil,Boutros,nabilb@pucclinic.com,"Physicians Urgent Care, PLLC",Owner and Member,Tennessee,physiciansurgentcare.com,62139;621498,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fa0,Kerry,Bush,kbush@cairndx.com,Cairn Diagnostics,President and COO,Tennessee,cairndiagnostics.com,62139;339112;541714;621511,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e7d,Renee,Stewart,renee.stewart@evergreendent.com,Evergreen Dental,Owner/Dentist,Pennsylvania,evergreendent.com,62121,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425ef3,Tim,Herby,tim@cascaidhealth.com,Cascaid Health,Co-Founder & COO,Minnesota,cascaidhealth.com,621111;513210,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f6b,Rob,Smith,rob@thebodyprojectstudio.com,The Body Project,Co-Owner,Minnesota,thebodyprojectstudio.com,62139;6219,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fc0,Supriya,Shetty,drshetty@winaturaldentist.com,PPO Advisors,Dentist Owner,Wisconsin,ppoadvisors.com,62121;541611,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e3a,Christopher,Browning,cbrowning@visionquesteyecare.com,VisionQuest Eyecare,Co-Owner,Indiana,visionquesteyecare.com,62121;621320,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425de2,Lucky,Ferguson,lucky@beyondplayllc.com,Beyond Play LLC,Co-Founder/Managing Partner,Illinois,beyondplayllc.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425df6,Hamish,Baird,hbaird@remdavis.com,"Remington-Davis, Inc. Clinical Research",President,Ohio,remdavis.com,62139;541715;621498,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e32,Aaron,Braden,abraden@capstonevitalcare.com,Capstone Vital Care,Managing Partner / President of Sales,Ohio,capstonevitalcare.com,62139;621610,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425ebe,Carly,Warden,cewarden@umich.edu,Align Orthodontics,Owner/Orthodontist,Kentucky,alignortho.com,621210,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dac,William,Yanakos,william@relipartner.com,Reli,Chief Executive Officer,Pennsylvania,relipartner.com,62139;62199;541611,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e25,Javier,Pere,javier.pere@beyond-pt.com,Beyond Physical Therapy,Owner,Tennessee,beyondptga.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f75,Dresden,Warminski,dwarminski@mkebehavioral.com,MKE Behavioral,Founder/Behavior Analyst,Wisconsin,mkebehavioral.com,62139;621420,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f95,David,Schultz,dschultz@nuraclinics.com,Medical Advanced Pain Specialists (MAPS),Owner,Minnesota,painphysicians.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a0dc67974000142388c,FJ,Leto,fjleto@totalaccessmedical.com,Total Access Medical,President,Pennsylvania,totalaccessmedical.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238f9,Jill,Zueski,jill.zueski@mimpt.com,Michigan In Motion Physical Therapy,Co-Owner,Michigan,michiganinmotionpt.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423aef,Carlo,Pike,carlo@eliteprimarycaretn.com,ELITE PRIMARY CARE & WEIGHT SCIENCE,Owner,Tennessee,eliteprimarycare.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238a0,Jody,Griffin,jgriffin@cornerstonedental.com,Cornerstone Dental Arts,"Owner, Dentist",Tennessee,whatasmile.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0dc67974000142390c,Neil,Herndon,neil.herndon@southernpeds.com,Southern Pediatrics,Co-Founder,Tennessee,southernpediatrics.com,621111,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b67,Tarik,Shirif,tshirif@care.info,Centrix Health Resources,Managing Partner,Tennessee,care.info,6211,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c45,Roger,Dean,rdean@pulseprimary.com,"Pulse Primary Care, PLLC","Managing Partner, M&A",Michigan,pulseprimary.com,62111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423ac7,Jackie,Cerar,jackie.c@macyfamilydentistry.com,Macy Family Dentistry,Dentist Owner,Ohio,macyfamilydentistry.com,62121,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c46,Omar,Said,omar.said@painhelp.com,Midwest Vascular and Pain Specialists,Co-Founder,Illinois,painhelp.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a49,Jim,Gera,jim@harmonichealth.com,Harmonic Health,CEO and Co-Founder,Missouri,harmonichealth.com,62111;621610,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239eb,Aspen,Stebbins,aspen@oleatherapy.com,Olea Pediatric Therapy,Business Owner & Occupational Therapist,Minnesota,oleatherapy.com,62139,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423c3f,Rajul,Patel,r.pateldds@puredentalspa.com,Pure Dental Spa,Dentist / Owner,Illinois,puredentalspa.com,621210,Medical Practice,Approve,Medical Practice
+6a724a0dc6797400014238d3,Omar,Salameh,dromar@signaturesmilesoh.com,Signature Smiles Dental - Ohio,Business Owner,Ohio,signaturesmilesfamilydentistry.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423aae,Patti,Holowicki,patti@hydratememedspa.com,Hydrate Me Medspa,Owner,Ohio,hydratememedspa.com,621399;621999,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d58,Juloy,Raymer,juloy@sfdpartners.com,Southern Family Dental Partners,Chief Executive Officer,Tennessee,southernfamilydentalpartners.com,621210;541611,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f01,George,Pappas,gpappas@tylermedicalservices.com,Tyler Medical Services,Owner,Illinois,tylermedicalservices.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f31,Kathy,Stevens,kstevens@bhspc.net,"Business Health Solutions, PC",Owner,Indiana,bhspc.net,62139;621498,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425ed4,Zana,Scott,zana@beutifulyesu.com,BeUtiful,Founder & Plant-Based Nutritionist,Missouri,beutifulyesu.com,62139;621999;611430,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f0f,Aundria,Riggen,aundria@lx-medical.com,LX Medical,Co-Founder,Minnesota,lx-medical.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f3b,Edward,Chang,echang@everett-hurite.com,Everett & Hurite Ophthalmic Association,President - Everett & Hurite Ophth Assoc.,Pennsylvania,everett-hurite.com,621111,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f85,Courtney,Wright,courtney@nashvillekidpro.com,"KidPRO, LLC",Owner,Tennessee,nashvillekidpro.com,62139;62134,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fa5,Cindy,Bartek,cindy@elevateptiowa.com,Elevate Physical Therapy & Sports Medicine,Owner,Iowa,elevateptiowa.com,62139,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e49,Brad,Seybert,brads@myonemedicalsource.com,My One Medical Source® (MOMS),Founder/President,Ohio,myonemedicalsource.com,62139;518210;541512,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e14,Jim,Feinstein,jfeinstein@entpartners.com,"ENT Partners, LLC",Chief Executive Officer,Illinois,entpartners.com,62111;541611,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e62,Kim,Simonds,kimberlysimonds@ballwindentalcare.com,Ballwin Dental Care,Owner of Culture,Missouri,dentistinballwinmo.com,62121,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e77,Abhishek,Nagaraj,dr.raj@areodental.com,Areo Dental Group,Co-Chief Executive Officer,Illinois,areodental.com,621210,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e91,Janet,Turkle,jturkle@turklemd.com,Turkle & Associates Plastic Surgery,Owner,Indiana,turklemd.com,33911;621111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d6e,Molly,Buist,molly@thecenterforcd.com,The Center for Childhood Development,Founder/Occupational Therapist,Michigan,thecenterforcd.com,62139;62134,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e59,Cory,Gallagher,cgallagher@allureaestheticsllc.com,Allure Aesthetics,Managing Partner,Pennsylvania,allureaestheticsllc.com,621399,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425faf,Kazutaka,Takahashi,kazutaka@ruten-neuro.com,Ruten Inc,Ceo/cso,Illinois,ruten-neuro.com,62139;339112;541714,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e83,Heather,Walker,hwalker@awcchiropractic.com,Advanced Wellness,Owner,Ohio,awcchiropractic.com,62139,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e86,Michael,Epstein,dr@maeplasticsurgery.com,MAE Plastic Surgery - Private Practice in Plastic and Reconstructive Surgery,President & Owner,Illinois,maeplasticsurgery.com,33911;621111,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e96,Bud,Flagstad,bflagstad@empowerhealth.ai,EmpowerHealth,Chief Executive Officer,Minnesota,empowerhealth.ai,62111;51321,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fac,Bivik,Shah,drshah@instituteplasticsurgery.com,Columbus Institute of Plastic Surgery,Owner,Ohio,instituteplasticsurgery.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425db6,Emily,Brewer,ebrewer@thedermcentertn.com,The DERM Center,Chief Executive Officer,Tennessee,thedermcentertn.com,621111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e03,R,Whitton,rwhitton@theramatrix.com,"Theramatrix Physical Therapy Network, Inc",Business Owner,Michigan,theramatrix.com,62139;62199,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d5a,Jason,Mejeur,jason@coya.life,Coya,Co-Founder and CEO,Michigan,coya.life,62139;621999;513210,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dd4,Pete,Duvendack,p.duvendack@iwirc.biz,Illinois Work Injury Resource Center (IWIRC),President/CEO,Illinois,iwirc.biz,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dfe,Chris,Halliday,drhalliday@chibodyworks.com,The Chicago Body Works: A Chiropractic & Massage Spa,President,Illinois,chibodyworks.com,621310,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d56,Barrett,Straub,bstraub@smilesource.com,Smile Source,Chief Executive Officer,Wisconsin,smilesource.com,62121;541611,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f70,Dania,Kamp,dkamp@gatewayclinic.com,Gateway Family Health Clinic,Physician/owner,Minnesota,gatewayclinic.com,62111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d4e,Shawn,Kramer,skramer@nposa.com,North Pittsburgh Oral Surgery,CEO,Pennsylvania,northpittsburghoralsurgery.com,621210,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142397b,Derek,Bowling,derek@smallbites.us,Small Bites,President,Ohio,smallbites.in,62121,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b7e,Jay,Pepose,jpepose@peposevision.com,Pepose Vision Institute,Founder,Missouri,peposevision.com,621111;541715,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239ea,Ben,Hackett,ben@basalt.health,Basalt Health,Founder and CEO,Tennessee,basalt.health,62111;513210,Medical Practice,Approve,Medical Practice
+6a724a0ec6797400014239b1,Julie,Sheetz,julie@blairtherapies.com,Blair Therapies,President,Pennsylvania,blairtherapies.com,62139,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b90,Grady,Randall,drgrady@mittenkids.com,Mitten Kids Dentistry & Orthodontics,Owner,Michigan,mittenkids.com,62121,Medical Practice,Approve,Medical Practice
+6a724a0dc679740001423893,Stacey,Smith,smithsjn@blomand.net,Reflex Joint Specialists,Owner,Tennessee,reflexknees.com,621111,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a8d,Mimi,Porter,mporter@equinehealthcare.com,Equine Therapy Inc.,Owner,Kentucky,equinehealthcare.com,62139,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bbf,Kevin,Nelson,kevin@richfieldmedicalgroup.com,Richfield Medical Group,"President Since 2013, Physician Since 1991",Minnesota,richfieldmedicalgroup.com,621111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bfb,Torrey,Carlson,torrey.carlson@drtcarlson.com,DR. TORREY J. CARLSON & ASSOCIATES,Optometrist- Owner,Tennessee,drtcarlson.com,62142;621320,Medical Practice,Approve,Medical Practice
+6a724a0ec67974000142395d,Barbro,Brost,dr.brost@thebrostclinic.com,The Brost Clinic,Founder,Minnesota,thebrostclinic.com,62131,Medical Practice,Approve,Medical Practice
+6a724a11c679740001423b6b,Louis,Radden,louis.radden@spinemi.com,Spine Specialists Of Michigan,CEO,Michigan,spinemi.com,62111,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423bca,Jessica,Funchion,jessica.funchion@mi3dpt.com,"3 Dimensional Physical Therapy, LLC",Co-Owner,Michigan,mi3dpt.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dbe,Bhaskar,Anepu,bhaskar.anepu@smirta.com,Smirta Inc.,Co-Founder,Pennsylvania,smirta.com,62111;513210,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f73,Lindsay,McCoy,lindsay@bodyreadymethod.com,Body Ready Method,Body Ready Birth Creator/Founder,Minnesota,bodyreadymethod.com,62139,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fc5,George,Hess,george@hesspt.com,Hess Physical Therapy,Owner,Pennsylvania,hesspt.com,62139,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fde,Monica,Montag,monica@bewellassociates.com,BEWELL ASSOCIATES,Owner,Pennsylvania,bewellassociates.com,62139,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f26,Aminat,Osuji,ami@mydesignersmiles.com,Designer Smiles,Dental Practice Owner,Illinois,mydesignersmiles.com,62121,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f4b,Bryan,Black,bblack@familyahc.com,Family Audiology And Hearing Centers,President,Ohio,familyahc.com,62111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425eef,Harry,Buchman,hbuchman@centerforurologiccare.com,Center for Urologic Care of Berks CO,Chief Executive Officer,Pennsylvania,centerforurologiccare.com,621111;621493,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d7d,Andie,McPartland,andie.mcpartland@triskele.health,Triskele,Owner / Co-Founder,Illinois,triskele.health,62139,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e97,Lee,Aase,lee@helpcare.health,HELPcare LLC,Founder,Minnesota,helpcare.health,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d76,Joel,Pa-C,joel@pa-solutions.com,Physician Assistant Solutions,Owner,Michigan,physicianassistantsolutions.com,62139;561311,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d81,Kevin,Siders,kevin.siders@summithealthky.com,"Summit Health, LLC",Co-Owner,Kentucky,summithealthky.com,62111,Medical Practice,Approve,Medical Practice
+6a724a25c679740001425e9e,John,Olive,john.olive@hearinghealth.us,Hearing Health,CEO,Tennessee,yourhearinghealth.com,62111;62199,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425ed2,Sarah,Carroll,scarroll@newphaseonline.com,New Phase Research & Development,CEO / Founder,Tennessee,newphaseonline.com,62139;541715,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f5e,John,Khalifa,jkhalifa@gatewaydoctors.com,Gateway Medical Associates,Owner,Pennsylvania,,621111,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e7c,Luke,Sewall,lsewall@virchicago.com,VIR Chicago,President and CEO VIRchicago,Illinois,virchicago.com,62151;621111,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fe5,Bobbi,Goodwine,bobbi.goodwine@mimpt.com,Michigan In Motion Physical Therapy,Physical Therapist and Co-Owner,Michigan,michiganinmotionpt.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425da3,Steven,Coen,steven@sarahealth.com,SaRA Health,CEO,Missouri,sarahealth.com,62139;513210,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e5a,Simon,Oh,soh@smartarchesdental.com,Smart Arches Implant Centers,Founder and Chief Dental Officer,Pennsylvania,smartarchesdental.com,62121,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f1f,Peter,Esgro,peter@balancenutrition.co.uk,Balance Nutrition,Owner,Pennsylvania,balancenutrition.co.uk,62139,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fa9,Jon,Evans,jon@protailored.com,ProTailored Physical Therapy,Owner/Physical Therapist,Indiana,protailored.com,62139;621340,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fd6,Scott,Miller,miller@senioritybenefitgroup.com,Seniority Benefit Group,President,Ohio,senioritybenefitgroup.com,62111;52421,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425d79,Andrew,Kashian,andrew@solveclinics.com,Solve Clinics,Founder & CEO,Illinois,solveclinics.com,621111,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425dd9,Drew,Cook,drewcook@mobilityfitpt.com,Mobility Fit Physical Therapy,Owner/Head Physical Therapist,Ohio,mobilityfit.com,62139,Medical Practice,Approve,Medical Practice
+6a724a23c679740001425e08,William,Meyers,wmeyers@vinceracorephysicians.com,Vincera Institute,President,Pennsylvania,vincerainstitute.com,62139;621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f5b,Janelle,Jones,janelle@revitalizedsolutions.com,Revitalized Solutions,Founder/CEO,Kentucky,revitalizedsolutions.com,62139;513210;561320,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423a9f,Margaret,Roche,margaret@rochedietitians.com,Roche Dietitians L.L.C.,Founder,Illinois,rochedietitians.com,62139;541611;621999,Medical Practice,Approve,Medical Practice
+6a724a0fc679740001423aa8,Scott,Anderson,scott.anderson@brightmindsinc.com,Bright Minds Consulting Inc,President,Minnesota,brightmindsconsult.com,62139,Medical Practice,Approve,Medical Practice
+6a724a12c679740001423ba3,Bob,Youkilis,robert.youkilis@stvincent.org,Northside ENT,"President, Northside ENT",Indiana,salligamaritim.com,621111,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f5f,Matt,Priddy,mpriddy@priorityphysicianspc.com,"Priority Physicians, PC",Owner,Indiana,priorityphysicianspc.com,621111,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425fa4,Pedro,Teixeira,pedro@predictionhealth.com,PredictionHealth,Co-founder & CEO,Tennessee,predictionhealth.com,62139;51321,Medical Practice,Approve,Medical Practice
+6a724a24c679740001425e4a,Nate,Rehm,nrehm@redi.health,Redi Health,Co-Founder and Chief Revenue Officer,Ohio,redi.health,62111;513210;541512,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f0d,Adrienne,Castrovinci,dradrienne@healthylivingchiropractic.com,Healthy Living Chiropractic,Owner,Minnesota,healthylivingchiropractic.com,62131,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f58,Augustine,Borgmeyer,dr.borgmeyer@stlurgentdental.com,STL Urgent Dental,"Dentist, Owner/Founder, Emergency Dental St Louis/St Charles, Nights/Weekends - Stlurgentdental.com",Missouri,stlurgentdental.com,62121,Medical Practice,Approve,Medical Practice
+6a724a26c679740001425f07,Natalie,Rd,natalie@balancednutritionllc.com,Balanced Nutrition LLC,Owner,Pennsylvania,balancednutritionllc.com,62139,Medical Practice,Approve,Medical Practice
+6a724a27c679740001425f9d,Tom,Valentine,tomv@wellbridgesurgical.com,WellBridge Surgical,President,Indiana,wellbridgesurgical.com,62111;621493,Medical Practice,Approve,Medical Practice

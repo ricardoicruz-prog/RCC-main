@@ -1,0 +1,389 @@
+contact_id,first_name,last_name,email,company,title,state,domain,naics,lane,verdict,reason
+6a7246a8ac3cce00015f02fe,Jennifer,Emch,jennifer@ubuntuwellnessohio.com,Ubuntu Wellness,Co-Owner and Supervising Licensed Professional Clinical Counselor,Ohio,ubuntuwellnessohio.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0ba7,Nicole,Slavik,slavik@cfchealth.com,"Center for Collaborative Health, PLLC",Co-Founder and Psychologist,Minnesota,centerforcollaborativehealth.com,621330;621399,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b89,Keith,Page,keith@helpwithsolutions.com,Solutions Counseling Services,Owner/Psychotherapist,Kentucky,helpwithsolutions.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02d1,Ashley,Willhite,awillhite@evolvetherapypractice.net,Evolve Therapy,Co-Owner,Iowa,evolvephx.com,621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02bf,Erin,Wiley,erin@willowcenter.com,"The Willow Center: Therapy for Individuals, Couples and Families",CEO,Ohio,willowcenter.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bc0,Lora,Rosenbaum,lrosenbaum@therasupport.com,TheraSupport Behavioral Health and Wellness,Chief CEO,Michigan,therasupport.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b84,Vani,Rao,vani@lotuscounselingmi.com,"Lotus Counseling Center, LLC",Owner/Psychotherapist,Michigan,lotuscounselingmn.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bc4,Julia,Lawrence,jlawrence@bcs4you.com,Behavioral & Counseling Services,Owner and Clinician,Illinois,bcs4you.com,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe04,Susan,Davis,sdavis@choicespsychotherapy.net,Choices Psychotherapy,Owner,Minnesota,choicespsychotherapy.net,621420;621330,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c6d,Courtney,Lewis,courtney@smallstepschildcounseling.net,"SMALL STEPS CHILD COUNSELING, LLC",Owner and CEO,New Mexico,smallstepschildcounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b8a,Pat,Germain,patann@healingheartscares.com,"Healing Hearts Family Counseling Center, LLC",Owner,Wisconsin,healingheartscares.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bd6,Cassandra,Harris-Gray,cgray@creativespiritsonline.com,"Creative Spirits Behavioral Health, Inc.",Chief Executive Officer,Kentucky,creativespiritsonline.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b90,Sheena,O'Brien,sheena@granderpeacecounseling.com,GRANDER PEACE COUNSELING LLC,Licensed Psychologist/Owner,Minnesota,granderpeacecounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0319,Jackie,Miller,jackie.miller@holisticcounselingsvcs.com,Holistic Counseling,Owner,Wisconsin,yourholisticcounseling.com,621330;624190,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bdc,Seth,Henson,shenson@elliementalhealth.com,Ellie Mental Health - Chicagoland,Clinic Owner,Missouri,,621330,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c68,Kellie,Calderon,kcalderon@acecounselors.com,Ace Counseling Group,Founder and Therapist,Illinois,acecounselinggroup.com,621330,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efdff,Jeffry,Wark,jeffry@authenticmenstherapy.com,Well-Being Center,Owner,Minnesota,wellbeingsa.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02cd,Rita,Schwartz,rschwartz@myteamaba.com,My Team ABA,Co-Chief Executive Officer,Pennsylvania,myteamaba.com,62139;62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02d3,Jessica,Rosenberg,jessica@openarmswellness.com,"Open Arms Wellness- counseling, therapy and psychiatry in St. Louis & Columbia, MO",Founder and Owner,Missouri,openarmswellness.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bb8,Julie,Johnson,juliej@heartandsolutions.net,"Heart and Solutions, LLC",President,Iowa,heartandsolutions.net,62133;62419,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bdf,Lebeka,Fox,lebeka@attachmentandtraumatherapy.com,Attachment and Trauma Therapy,Business Owner,Missouri,attachmentandtraumatherapy.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02f3,Gary,Hill,ghill@northshore.org,Solutions Northshore,Managing Partner,Illinois,solutionsnorthshore.com,621330;611430,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c44,Emmalee,Lmft,emmaleebierly@wctherapygroup.com,The Therapy Group,Co-Founder/Clinician,Pennsylvania,thetherapygroup.com,621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02ef,Kelly,Hardy,kelly@noramentalhealth.com,Nora Mental Health,Chief Executive Officer,Indiana,,621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02ca,Terra,Barnes,terra@openarmswellness.com,"Open Arms Wellness- counseling, therapy and psychiatry in St. Louis & Columbia, MO",Founder and CEO,Missouri,openarmswellness.com,621330,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe18,Caralyn,Lmhc,caralyn@counselingsimplified.com,Counseling Simplified,Owner,Indiana,counselingsimplified.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b83,Tremayne,Jones,tremayne@betterviewcounseling.com,Betterview Counseling and Trauma Recovery LLC,Owner,Pennsylvania,betterviewcounseling.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b8e,Josh,Smith,josh@dbtimi.com,DBT Institute of Michigan,Founder and CEO,Michigan,dbtimi.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe02,Thomas,Dewey,thomas@openwatercounseling.com,Open Water Counseling and Recovery LLC,President,Ohio,openwatercounseling.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe10,Gabriel,Cline,cline@psych.associates,Psych Associates LLC,Psychologist / CEO,Missouri,psychologistspringfield.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b7c,Bautz,Janis,jbautz@bdiplayhouse.com,BDI Playhouse Children's Therapy,President and Business Owner,Illinois,bdiplayhouse.com,62133;621340,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bc1,Stacia,Hanson,stacia_hanson@lilium-center.com,Lilium Center,"Founder, Psychologist, CEO",Minnesota,lilium-center.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b41,Ian,Atkins,iatkins@choosingtherapy.com,ChoosingTherapy.com,CEO & Co-founder,Minnesota,choosingtherapy.com,62133;5131,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0aff,Caprice,Lambert,clambert@hearthstonepsych.com,Hearthstone Psychology,Owner,Ohio,hearthstonepsych.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b64,Howard,Bonem,hbonem@bhwpartners.com,PARTNERS FOR BEHAVIORAL HEALTH AND WELLNESS INC,Managing Partner,Ohio,partnersbhw.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b72,Aley,Babb-Keeble,aley@acornchildrenstherapy.com,Acorn Children's Therapy LLC,Co-Owner,Missouri,acornchildrenstherapy.com,62133,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c69,Michael,Nadhir,mnadhir@kindmindbh.com,KindMind Behavioral Health,Founder,Michigan,kindmindbh.com,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe25,Caroline,Gronowski,caroline@yogablissakron.com,Yoga Bliss,Owner,Ohio,yogabliss.com,62133;61162,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b42,Jesper,Nielsen,jesper@c-nta.com,"Croyle-Nielsen Therapeutic Associates, Inc.",Chief Executive Officer,Pennsylvania,c-nta.com,62133;621420;62321,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b59,Farah,Baig,farah@innervoicepc.com,InnerVoice Psychotherapy & Consultation,Psychotherapist & Owner,Illinois,innervoicepc.com,621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f0307,Julie,Bayardo,jabayardo@midmichpsych.com,"Partners in Change, PLLC",Managing Partner,Michigan,psychologistsmidland.com,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efde3,Julia,Shah,drshah@havenpsychologyllc.com,Haven Psychology,Co-Founder & Child & Adolescent Psychologist,Wisconsin,havenpsychology.com.au,621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b37,Nicole,R,nrosenbaum@bluelakesaba.com,Blue Lakes Behavioral Health,Co-Owner,Michigan,bluelakesaba.com,62133;621420;621340,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b4c,Myra,Lmft,myra@anesistherapy.com,Anesis Therapy,Founder and Psychotherapist,Wisconsin,anesistherapycenter.com,62133;621420;624190,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0326,Erin,Redfern,erinredfern@essentiallyyoucounseling.com,Essentially You Counseling and Wellness Services,Owner-Clinical Therapist,Illinois,essentiallyyoucounseling.com,621330,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe30,Zachary,Stevens,zstevens@practicalbehavior.com,"Practical Behavior Analysis, LLC",Owner,Tennessee,practicalbehavior.com,62139;621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b3b,Amanda,Meredith,amanda@pittsburghocdtreatment.com,The Center for OCD and Anxiety,"Owner, Therapist",Pennsylvania,pittsburghocdtreatment.com,62111;621330;611430,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b58,Danna,Bodenheimer,danna@walnutpsychotherapycenter.com,Walnut Psychotherapy Center,Owner and Founder,Pennsylvania,walnutpsychotherapycenter.com,621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b49,Jason,Clauser,jasonclauser@lifesupportllc.info,"Life Support, LLC",Small Business Owner,Michigan,lifesupportllc.info,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b93,Lisa,Lovelace,drlisa@synergyetherapy.com,Synergy eTherapy,"Founder, Clinical Psychologist",Minnesota,synergyetherapy.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0c41,Hassan,Abdallah,hassan@risechildrens.com,Rise Children's Center,President & Lead Occupational Therapist,Michigan,risechildrens.com,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efdf3,Katherine,Mph,kate@joinavela.com,Avela Health,"Co-Founder, President, COO",Michigan,avelahealth.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b68,Jenn,Webb,jenn@resurgencecounseling.com,"Resurgence Counseling Center, LLC",Founder & CEO,Kentucky,resurgencecounseling.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bbd,Aimee,Salas,asalas@openmindspsychological.com,Open Minds Psychological,Co-Owner,Pennsylvania,openmindspsychological.com,621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02a5,Laura,Young,laura@therapeuticinterventionservices.com,"Therapeutic Intervention Services, PLLC","Licensed Clinical Psychologist, Owner",Kentucky,therapeuticinterventionservices.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b66,Justin,Cox,jcox@crh.org,Columbus Behavioral Center for Children and Adolescents,Interim Chief Executive Officer,Indiana,columbusbehavioral.com,62133;623220,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02ed,Melissa,Novack,melissa@truemindbody.com,True Mind + Body PLLC,Co-Founder,Illinois,truemindbody.com,621330,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efdf5,John,Kenner,jkenner@karaleeandassociates.com,"KaraLee & Associates, PC",CEO,Michigan,karaleeandassociates.com,62133,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c47,Katie,Kamholz,katie@seasonswithinllc.com,Seasons Within LLC,Co-Founder,Illinois,seasonswithinllc.com,621330,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c4d,Kellie,Rice,kellie@mindbodycoopchicago.com,Mind Body Co-op,"Founder & Chief Executive Officer (Psy.D., Cmhimp, CGP)",Illinois,mindbodycoop.com,621420;621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bb9,Natalia,Kaczmarek,dr.kaczmarek@therapyindigo.com,Indigo Therapy Group,President / Founder,Illinois,indigotherapygroup.com,621330,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efdf0,Kristin,Ballard,kballard@ballardclinic.com,Ballard Clinic Psychology,Founder,Minnesota,ballardclinic.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02b9,Lyndall,Johnson,lyndallj@aslaninst.com,Aslan Institute,President,Minnesota,aslaninst.com,62133;62142;611430,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0ba5,Sean,Lyons,lyons@djweinstein.com,"Weinstein and Associates, Inc.",President/CEO,Ohio,weinsteinandassociates.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02b5,Lisa,Eaton,lisa.eaton@sandhillcounseling.com,Sandhill Counseling & Consultation,Co-founder and Therapist,Missouri,sandhillcounseling.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b8f,Amanda,Wirth,amanda@authenticrootstherapy.com,Authentic Roots Therapy,"Co-Founder, LMFT",Minnesota,authenticrootstherapy.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0be1,Mark,Laaser,mlaaser@faithfulandtrue.com,Faithful & True,Co-Founder,Minnesota,faithfulandtrue.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0c34,Sherry,Riedel,sherry@therapyjackson.com,Comprehensive Speech and Therapy Center,Business Owner,Michigan,therapyjackson.com,62133;621498,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b17,Courtney,Decarlo,cdecarlo@oswegowellness.com,"OSWEGO WELLNESS, INC",Owner,Illinois,oswegowellness.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b3a,Mandy,Msw,mandy@southeasternohiocounseling.com,Southeastern Ohio Counseling Center,Owner/CEO,Ohio,southeasternohiocounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe09,Mavis,Rice,mavisr@aslaninst.com,Aslan Institute,Owner,Minnesota,aslaninst.com,62133;62142;611430,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efde0,Aimee,Kotrba,akotrba@thrivingminds.info,Thriving Minds Behavioral Health,"Owner, Pediatric Psychologist",Michigan,thrivingmindsbehavioralhealth.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bdb,Sarah,Disanto,sdisanto@riverwardswellness.com,RIVER WARDS WELLNESS COLLECTIVE,Co-Founder,Pennsylvania,riverwardswellness.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02d8,Laura,Ccc-Slp,laura@aurorapediatric.care,Aurora Pediatric Therapy and Integrative Health,"CEO & Founder, Aurora Pediatric Therapy and Integrative Health",Illinois,aurorapediatric.care,62133;62149;62142,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0322,Jessica,Cortez,jessicacortez@bloomfieldfamilies.com,Bloomfield Child and Family Counseling,Founder,Michigan,bloomfieldfamilies.com,621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b04,Sara,Thaxton-Wilson,sara@thaxtonwellness.com,Thaxton Holistic Wellness Center,Owner and Clinician,Pennsylvania,thaxtonholisticwellnesscenter.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0c42,Caitlin,Coile,caitlin@resiliencecounsel.com,Resilience Counseling,"Owner, Therapist",Tennessee,counselingca.com,62111;62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02a1,Glenn,Heinrichs,gheinrichs@ivylandcounselingcenter.com,Ivyland Counseling Center,CEO,Pennsylvania,ivyland.cc,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe0e,Paul,Ward,paul.ward@mi-psych.com,"Michigan Psychological, P.C.",Owner,Michigan,mi-psych.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02df,G,White,gzwhite@sexfromthecenter.com,Sex from the Center,"Owner, Licensed Psychologist",Minnesota,sexfromthecenter.com,62139;621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b3e,Katherine,Middleton,kmiddleton@lionhearttss.com,"LIONHEART TRAUMA SUPPORT SERVICES, LLC",Owner,Kentucky,lionhearttraumasupportservices.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b77,Melissa,Olsen,melissa@psychotherapycenterofwaunakee.com,Psychotherapy Center of Waunakee,Owner and LMFT,Wisconsin,psychotherapycenterofwaunakee.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bee,Carmen,Persaud,cpersaud@coretreatmentservices.com,"CORE Treatment Services, Inc.",Chief Executive Officer,Wisconsin,coretreatmentservices.com,62133;621420;623220,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe2c,Rachel,Kuenzli,rachel@therapyops.com,Therapy OPS,"Speech Language Pathologist, President",Minnesota,therapyops.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b19,Emily,Sander,emilysander@nowlogy.com,Nowlogy™ Psychology Experts,Business Owner at Nowlogy Psychology Experts,Minnesota,nowlogy.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bad,Jim,Giese,jgiese@affiliatedclinical.com,Affiliated Clinical Services,Owner,Wisconsin,affiliatedclinical.com,62133,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c50,Michael,Walton,mwalton@secondstorycounseling.com,Second Story Counseling,Owner/Counselor,Michigan,secondstorycounseling.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f0303,Karen,Bretz,kbretz@columbusbh.com,Columbus Behavioral Health,Psychologist & CEO,Ohio,columbusbehavioralhealth.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe2d,Shelby,Cook,shelby@cookcounselingandconsulting.com,Cook Counseling and Consulting Inc.,CEO & Founder,Ohio,cookcounselingandconsulting.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0316,Janna,Aiken,jannaa@c2solutions.info,"C2Solutions, LLC",Managing Partner,Tennessee,,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b22,Ryan,Peters,rpeters@thenextstepbh.com,The Next Step Behavioral Health,Chief Executive Officer/Owner,Tennessee,thenextstepbh.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b27,Stephanie,Willis,swillis@williscc.com,Willis Counseling and Consulting US,President,Illinois,williscc.com,621330;611430,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bf1,Alyx,Fields,alyx@inclusivecounseling.net,Inclusive Counseling,Founder,Ohio,inclusivecounseling.net,62133,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c62,Donna,Platt,dplatt@plattpc.com,Platt Professional Counseling,"President, Platt Professional Counseling, LLC. LCPC, MA",Illinois,plattpc.com,62133,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c49,Jamie,Fiore,jfiore@soulspace.net,Soul Space,Co-Founder,Ohio,,62133;62142,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f0171,Marsha,Bradford,marsha@diversifiedhwc.com,"Diversified Health and Wellness Center, LLC",Owner,Missouri,diversifiedhwc.com,621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b13,Nicole,Machinski,nmachinski@drlowey.com,Lowey Psychological Services,Forensic Psychologist and Chief Executive Officer,Pennsylvania,drlowey.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bd5,Lauren,Freier,lauren@ignitecounseling.com,"Ignite Counseling, PLLC",Founder & Psychotherapist,Illinois,ignitecounseling.com,621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0310,Kent,Tangen,k.tangen@iesohealth.com,ieso US,CEO,Minnesota,ieso.ai,62133;51321;62142,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b1d,Anna,Zuidema,anna@goodlifetherapyia.com,"Good Life Therapy, LLC",Licensed Mental Health Counselor & Owner,Iowa,goodlifetherapyia.com,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efdfd,Justin,Ar-Rasheed,justin@needtalk.com,Need to Talk,Cofounder & Product Architect,Michigan,needtalk.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02c8,Marion,Frank,pps@ppstherapy.net,Professional Psychology Services,Founder & President,Pennsylvania,ppstherapy.net,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efdfa,Masuma,Rasheed,drmasuma@mindfullifechicago.com,Mindful Life Counseling,Founder & Owner,Illinois,mindfullifechicago.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02ec,Yitz,Diena,yitz@ambitionsaba.com,Ambitions ABA,Founder | COO,Illinois,ambitionsaba.com,62139;621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bf3,Butch,Losey,butchlosey@waybridgecounseling.com,Waybridge Counseling Services,Chief Executive Officer,Ohio,waybridgecounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b71,Stephanie,Konesky,skonesky@emotionalwellnesscle.com,Center for Emotional Wellness,Co-Founder,Ohio,emotionalwellnesscle.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b75,Stephanie,Defilippis,stephanie@crescentmoon-therapy.com,"Crescent Moon Therapy, PLLC",Licensed Clinical Social Worker and Owner,Illinois,crescentmoon-therapy.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f029c,Bob,Baker,columbus@noramentalhealth.com,Nora Mental Health,Operating Partner / Columbus Franchise Owner,Ohio,,621330,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe24,Karisma,Hazel,karisma@poppystherapeuticcorner.com,Poppy's Therapeutic Corner,Chief Executive Officer,Ohio,poppystherapeuticcorner.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f016f,Angelica,Newton,anewton@stablewaycounseling.com,Stableway Counseling Services,Co-owner and Mental Health Therapist,Illinois,stablewaycounseling.com,621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b07,Darlene,Link,drdarlenelink@peacetreecc.com,PeaceTree Counseling and Consulting,Co-Founder and Licensed Psychologist,Pennsylvania,peacetreecc.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0ba4,Mohamed,Badra,mbadra@toledocmh.com,Toledo Counseling & Mental Health,Owner,Ohio,toledocmh.com,621330;621112,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bd7,Mary,Rourke,rourke@dragonflypsych.com,Dragonfly Psychological Associates,"Owner, Psychologist",Pennsylvania,dragonflypsych.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bfa,Rebecca,Palen,rebecca@h3well.com,"H3 - Hope, Healing, and Health Inc.",Owner of Counseling Practice,Michigan,h3well.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f031a,Katie,Gilder,katie.gilder@cultivatecounselingmn.com,Be Well Counseling,Registered Dietitian and Owner,Minnesota,bewellnj.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bf0,Stephen,Baynes,stephen@ardentcenter.com,Ardent Counseling Center,Chief Executive Officer,Illinois,ardentcenter.com,62133;62142;611710,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b51,Nick,Wallace,nick@allintherapyclinic.com,ALL IN Therapy Clinic,Co-Founder/LMFT,Minnesota,allintherapyclinic.com,621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b15,Montana,Crisp,mcrisp@novostaff.com,Novo Staffing,President,Ohio,novostaff.com,62133;561311,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b67,Ryan,Braden,rbraden@bradencenter.com,"BRADEN COUNSELING CENTER, P.C.",Company Owner,Illinois,bradencenter.com,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015f015d,Harmony,Carlson,harmony.carlson@thenestclinic.com,The Nest Clinic,Clinical Psychologist and Founder of The Nest Clinic,Minnesota,thenestclinic.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02a4,Bridget,Hormberg,bridget@bluestarstherapy.com,Blue Stars Therapy,"Co-owner, Co-founder",Missouri,bluestarstherapy.com,62133;62134,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b18,Maria,Shenkman,maria@propsychhealth.com,"Progressive Psychological Healthcare, S.C.",President and Founder,Illinois,propsychhealth.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b99,Sally,Barbat,sallyb@reflectivetherapycenter.com,Reflective Therapy Center,Owner/Therapist,Michigan,reflectivetherapycenter.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bed,Melissa,Gregory,melissa@mmgcounseling.com,"MMG Counseling, LLC",Group Practice owner/Licensed Professional Counselor,Pennsylvania,mmgcounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b09,Janice,Twesten,janice@evolvetherapygroup.com,Evolve Therapy Group,Licensed Marriage Family Therapist/Chief Executive Officer/Owner,Michigan,evolvetherapygroup.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0c3a,Shana,Kemp-Price,shana@moderntherapyohio.org,Modern Therapy,CEO and Founder,Ohio,moderntherapyohio.com,62133,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c6a,Mareiko,Au,mareiko@theradriver.com,TheraDriver,Co-Founder,Illinois,theradriver.ai,62133;51321,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efdee,Sanjay,Nigam,drnigam@sia-llc.net,SOUTHERN ILLINOIS ASSOCIATES LLC,President,Illinois,sia-llc.net,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe23,Julie,Reedy,jreedy@tempsocialwork.com,Temp Social Work,President,Minnesota,tempsocialwork.com,62133;561320;561311,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bdd,Josh,Levitan,josh@onoshealth.com,Onos Health,Founder & Chief Product Officer,Missouri,onoshealth.com,62133;513210,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f030e,Leslie,Roberts,leslie@wmps.net,West Michigan Psychological Services,Psychologist/Owner,Michigan,wmps.net,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02ee,Keeley,Seymour,kseymour@evolvecounselingpa.com,Evolve Counseling Services,Co-Founder and Therapist,Pennsylvania,evolvecounselingpa.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bf5,Kinsey,Morgan,kinsey.morgan@arisecounselingservices.net,Arise Counseling Service LLC,Independent Business Owner & Primary Therapist,Tennessee,arisecounselingservice.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bd0,Dan,Udrea,danu@capsych.com,Child and Adolescent Psychiatric Solutions,President / Psychiatrist,Pennsylvania,capsych.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02e4,Adrian,Quinn,adrianquinn@mailfence.com,HearthFire Psychology,Licensed Psychologist and Owner,Pennsylvania,hearthfirepsychology.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0beb,Jen,Savage,jen.savage@beyondhealingcenter.com,Beyond Healing,Company Owner,Missouri,connectbeyondhealing.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b1a,Melinda,Vesely,melinda@empoweringmindscounseling.com,Empowering Minds Counseling,Bussiness Owner,Illinois,emcottawa.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b74,Mauri,Tate,mauri@bridgingthegapservices.org,Bridging the Gap Therapy Services LLC,Owner/Clinician,Pennsylvania,bridgingthegaptherapyservices.com,621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b2b,David,Alexander,dalexander@firstalliancehc.com,First Alliance Healthcare of Ohio,Chief Executive Officer,Ohio,firstalliancehc.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b9d,Jevita,Hamilton,jevita@mindfulwellness.group,Mindful Wellness Counseling,Chief Executive Officer,Illinois,mindfulwellness.group,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efdf1,Jill,Vance,jvance@wellspirecounseling.com,Mentella Health,Owner and Licensed Clinical Psychologist,Illinois,mentellahealth.com,621330,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c5e,Kevin,Kilcawley,kilcawley@integrativepsychologyservices.com,Integrative Psychology Services,Founder and Licensed Psychologist,Iowa,intpsychology.com,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efdeb,Janis,Bautz,jbautz@bdiplayhouse.com,BDI Playhouse Children's Therapy,President,Illinois,bdiplayhouse.com,62133;621340,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02e5,Julia,Pritchett,julia@mentaledgecounseling.com,"Mental Edge Counseling, LLC",Co-Owner,Pennsylvania,mentaledgecounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c45,Ashley,Lehman,ashley@sunshineabatherapies.com,Sunshine ABA Therapy Inc.,Chief Executive Officer,Indiana,sunshineabatherapies.com,62139;621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bb3,Cheryl,Davidson,drdavidson@cvlstl.com,Vision Learning Center,Owner and Optometrist,Missouri,visionlearningcenter.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bcb,Melissa,Maitre,melissa@bayareamh.com,Bay Area Mental Health,Chief Executive Officer,Pennsylvania,bayareamh.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0be0,Ken,Pittman,drpittman@youthbehavior.com,Agape Youth Behavioral Health,Owner and Child Psychiatrist,Tennessee,youthbehavior.com,62133;621112;621420,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b44,Misty,Pickett,misty@reachcounseling.com,Reach Counseling Services,Chief Executive Officer Reach Counseling,Wisconsin,reachcounseling.com,62133;624190;621420,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe22,Mike,Pollak,mpollak@behavioralwellnessgroup.com,The Behavioral Wellness Group,Co-Founder and Dual Diagnosis IOP Therapist,Ohio,behavioralwellnessgroup.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02fb,Caroline,Novack,caroline@truemindbody.com,True Mind + Body PLLC,Co-Founder,Illinois,truemindbody.com,621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b43,Jason,Muzzillo,jason@resolutionstherapypractice.com,Resolutions Therapy Practice,Owner / Therapist,Kentucky,resolutionstherapypractice.com,62133;621420;624190,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0c35,Koyonne,Mims,krmims@theimaginectr.com,The Imagine Center for Psychological Health,President of Operations,Michigan,theimaginectr.com,62133,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c5b,Macarena,Corral,corral@cfchealth.com,"Center for Collaborative Health, PLLC","CEO, Bi-lingual Forensic Psychologist",Minnesota,centerforcollaborativehealth.com,621330;621399,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c5d,Kristy,Imholte,kristy@bridginghopecounseling.com,Bridging Hope Counseling,Business Owner,Minnesota,bridginghopecounseling.com,621330,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe00,Megan,Sigmon-Olsen,msigmon@sentiertherapy.com,Sentier Psychotherapy,Founder/Therapist,Minnesota,sentiertherapy.com,62133;62142;62419,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f0304,April,Kwiatkowski,april@connectionscs.com,Connections Counseling Services,President,Indiana,connectionscs.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f031d,Amy,Green,amy@mamayahealth.com,Mamaya Health,CGO/Founder,Tennessee,mamayahealth.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0baa,Crystal,Hemesath,crystal@515therapy.com,515 Therapy & Consulting,Owner,Iowa,515therapy.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b98,Lynn,Gilpin-Parks,lynn@elitecognitionllc.com,"ELITE COGNITION, LLC",Owner,Wisconsin,elitecognitionllc.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f0167,Cullen,Hardy,hc@noramentalhealth.com,Nora Mental Health,Founder,Indiana,,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b91,Ashley,Kjos,ashley.kjos@wcenters.org,Woodland Centers - Minnesota,Chief Executive Officer,Minnesota,woodlandcenters.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b06,Rebecca,Slusher,rebeccas@balancedlifechicago.com,"Balanced Life Counseling, PLLC",Founder / Lead Counselor,Illinois,balancedlifechicago.com,621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02c5,Dan,Kardatzke,dkardatzke@elliementalhealth.com,Ellie Mental Health - Chicagoland,Multi-Unit Franchise Owner,Illinois,,621330,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe0d,Abby,Koch,abbylcsw@goodtherapycounseling.com,Good Therapy,Owner and LCSW,Illinois,goodtherapycounseling.com,621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f031b,Katie,Fleming,katie@flemingfamilytherapy.com,"FLEMING FAMILY THERAPY, LLC",Founder,Illinois,flemingfamilytherapy.com,62133,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c6c,Rachel,Ledbetter,rachel@motivohealth.com,Motivo Health,Co-Founder and CEO,Tennessee,motivohealth.com,62133;621420;611430,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0c3c,Marise,Alexander,malexander@bhwpartners.com,PARTNERS FOR BEHAVIORAL HEALTH AND WELLNESS INC,President,Ohio,partnersbhw.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f0172,Melanie,Schwartz,melanie@viewpointpw.com,Viewpoint Psychology and Wellness,"Licensed Clinical Psychologist, Owner",Michigan,viewpointpw.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bba,Beau,Allen,beau@newmindpa.com,New Mind Wellness,Co-Founder New Mind Wellness,Pennsylvania,newmindpa.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c4a,Katie,Kalina,katie@kindermind.com,Kinder Mind,Chief Executive Officer Illinois,Illinois,kindermind.com,621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f032d,Diane,Hovey,diane@aheartt.com,Alliance for Healing,CEO| Marriage and Family Therapist,Minnesota,alliance4healing.com,621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b31,Teresa,Rogers,teresa@therelationshipcenterofneohio.com,MyCounselor.Online,"Owner, Therapist",Ohio,mycounselor.online,62133;62142,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02db,Jennifer,Digiandomenico,jennifer@stellalunatherapy.com,Stella Luna Counseling and Wellness,Owner/Licensed Professional Counselor,Ohio,stellalunatherapy.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f031f,Joel,Hutton,joel@indytc.com,Indy Therapy and Counseling,Owner / Therapist,Indiana,indytc.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b81,Casey,Tanner,casey@theexpansivegroup.com,The Expansive Group,CEO & Founder | Aasect Certified Sex Therapist,Illinois,theexpansivegroup.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bde,Kevin,Debruyn,kevin@adaptivecounseling.com,Adaptive Counseling And Case Management,Owner,Michigan,adaptivecounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0be3,Sunitha,Chandy,schandy@artesiancollaborative.com,"Artesian Collaborative, LLC",Founder/Licensed Clinical Psychologist/Lead Trainer,Illinois,artesiancollaborative.com,621330;611430,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c52,Donna,Palma,donna@simplymindfulcounseling.com,Simply Mindful Counseling,Founder and Owner,Michigan,simplymindfulcounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02a6,Christina,Carson-Sacco,drcarsonsacco+canned.response@thecenterinpa.com,"The Center for Neuropsychology & Counseling, P.C.","Owner, Psychologist",Pennsylvania,thecenterinpa.com,621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f032b,Marisa,Borgert,mborgert@empowerdayton.com,Empower Psychology + Wellness,Psychologist/owner,Ohio,empowerdayton.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f016e,Brooke,Miller,brooke@honeyformoms.com,Honey for Moms,Founder + Owner,Michigan,honeyformoms.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0311,Jonathan,Carlo,jonathan@c4-consulting.com,C4 Consulting,Chief Executive Officer,Illinois,c4-consulting.com,62133;541611;611430,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bea,Kim,Wolff,kwolff@wpautismcenter.com,"Wolff & Phan Autism Center, LLC",Founder & CEO,Ohio,wpautismcenter.com,62139;621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02a2,Angela,Lovett,angela@healthymindcw.com,Healthy Mind Counseling and Wellness,Owner/Licensed Professional Counselor,Missouri,healthymindcw.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02d6,Scott,Hendrickson,scott@heritagecounseling.com,Heritage Counseling Center,President,Illinois,heritagecounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bc7,Eric,Gremminger,ejg@erphealth.com,ERPHealth,Chief Executive Officer,Pennsylvania,erphealth.com,62133;513210;541512,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0afc,Jaime,Varney,jvarney@bluegrassbsc.com,Bluegrass Behavioral Services for Children,Chief Executive Officer,Kentucky,bluegrassbsc.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b62,Kristina,Graber,kristina.graber@originsfamilycounseling.com,"ORIGINS FAMILY COUNSELING, LLC",Business Owner,Indiana,originsfamilycounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0c36,Kate,Schneider,kateschneider@purehealthcenter.com,Pure Health Center,Psychotherapist | Sports Mindset Coach | Founder Pure Sports Mindset | Co-Founder Pure Health Center,Illinois,purehealthcenter.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b2d,Jana,Vink,jana@graceiowa.com,Grace Counseling,Therapist/Owner,Iowa,gracecounseling.net,62133;621420,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bd1,Sara,Lemke,sara@beginmyrevival.com,Revival Therapy,CEO/Practice Owner,Illinois,beginmyrevival.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02e6,Staci,McNicholl,stacimcnicholl@therockcg.com,The Rock Counseling Group,Senior Therapist/President,Illinois,therockcounselinggroup.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b46,Caleb,Danishefsky,caleb@rubyaba.com,Ruby ABA,Co-Founder,Ohio,rubyaba.com,62139;621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bc9,Dirk,Miller,dirk.miller@accanto.com,Accanto Health,Founder of The Emily Program and Executive Chairman and Founder of Accanto Health,Minnesota,accanto.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02f8,Jessica,Schwan,jessica.schwan@newdaycounselingil.com,"New Day Counseling, LLC (Illinois)","Therapist, Owner",Illinois,newdaycounselingil.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02b8,Angela,Derrick,drderrick@springsourcecenter.com,"SpringSource: Eating, Weight & Mood Disorders",Co-Founder,Illinois,springsourcecenter.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b86,Jeff,Sustarsic,jeff@livewellcleveland.com,Live Well Counseling,Owner,Ohio,livewellcleveland.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f029b,Oliver,Jorbedom,ojorbedom@gatewayunlimitedliving.com,Gateway Unlimited Living LLC,President,Minnesota,gatewayunlimitedliving.com,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efde6,Beau,Palin,beau@collahealth.com,Colla Health,Co-Founder & COO,Illinois,collahealth.com,62111;621330;621420,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe08,Christopher,Boys,cboys@glncenter.com,"GREAT LAKES NEUROBEHAVIORAL CENTER, PC",President/CEO,Minnesota,glncenter.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bd9,Anissa,Keyes,keyes@arubahemotionalhealth.com,Arubah Emotional Health Services,Founder and Visionary,Minnesota,arubahemotionalhealth.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f0305,Lorena,House,rena@empoweredhealingcounselingllc.com,Empowered Healing Dallas,Owner and Therapist,Ohio,empoweredhealingdallas.com,62133,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c6e,Jeffrey,Johnston,jeff@brightnapp.com,Brightn,CEO and Founder,Iowa,brightn.app,62133;62199;513210,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02ac,Angelique,Works,ahw@workscounselingcenter.com,Works Counseling Center,Owner/Therapist,Tennessee,workscounselingcenter.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b01,Dan,Brown,dbrown@danbrownconsulting.com,Brown Consulting Behavioral Services Consulting,President,Ohio,danbrownconsulting.com,62133;541611,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe1d,Katie,Augustyn,katie@augustynfamilyservices.com,AUGUSTYN FAMILY SERVICES INC,Business Owner,Illinois,augustynfamilyservices.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bd2,Jocelyn,Robinson,jocelyn@striveabaconsultants.com,Strive ABA Consultants LLC,Co-Owner/CEO,Illinois,striveabaconsultantsllc.com,621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02e2,Read,Sulik,rsulik@portages.com,Portages Health,"Founder, CEO",Minnesota,portages.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b45,Amanda,Wingertsahn,amanda@bluestarstherapy.com,Blue Stars Therapy,Co-Owner,Missouri,bluestarstherapy.com,62133;62134,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b78,Neha,Vadalia,nehavadalia@reparohealth.com,Reparo Health,Founder & CEO,Illinois,reparohealth.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bc5,Susan,McClanahan,drmcclanahan@springsourcecenter.com,"SpringSource: Eating, Weight & Mood Disorders",Co-Founder,Illinois,springsourcecenter.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe20,Jessica,Couch,jessica@wellspringtherapy.net,"WELLSPRING THERAPEUTIC PARTNERS, LLC",Practice Owner & Clinical Psychotherapist,Michigan,wellspringtherapy.net,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b55,Jeff,Ferguson,jeff.ferguson@lighthousecounselors.com,"Lighthouse Counseling Services, PLLC",Co-Owner/Psychotherapist,Wisconsin,lighthousemhcounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02e8,Karen,Gallagher,karen@wellnessinstitutemi.com,The Wellness Institute of Michigan,"Owner, Founder of Mental Health Practice With 10 Therapists.",Michigan,wellnessinstitutemi.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c5f,Yojana,Veeramasuneni,drv@psychspecialties.com,Psychiatric & Psychological Specialties,Private Practice Owner,Illinois,psychspecialties.com,621330;621112,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe21,Susan,Myket,in@myketandassociates.com,"Susan Myket, Ph.D. & Associates",Licensed Clinical Psychologist/President,Illinois,myketandassociates.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02e1,Rebecca,Gerbig,becky@vandacounseling.com,Vanda Counseling & Psychological Services,Co-Owner and Psychotherapist,Minnesota,vandacounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bb4,Fawn,Clark,fclark@alliancemhs.com,"Alliance Counseling, LLC",Owner/Licensed Professional Counselor,Pennsylvania,,621330;624190,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bf2,Susan,Labardee,susan@amplife.us,Amplified Life Counseling & Coaching,Owner,Michigan,amplifecounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f0300,Jessica,Zaucha,zaucha@bzabehavioral.com,BZA Behavioral Health,Therapist and Practice Owner,Illinois,bzabehavioral.com,621112;621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0329,Dana,Bohrer,dana@aspirewisconsin.com,Aspire Therapy & Development Services,Founder and CEO,Wisconsin,aspirewisconsin.com,62133;621340;621420,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b38,Joel,Lyon,joellyon@profamilyga.com,ProFamily,Chief Executive Officer,Tennessee,profamilyga.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bb0,Ryan,Duckworth,ryan@hopeandwholenesspsychology.com,Hope & Wholeness Psychology Center,Clinical Psychologist & Founder,Michigan,hopeandwholenesspsychology.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efde9,Larry,Pincus,l.pincus@lpacounseling.com,LPA Counseling,President/Owner,Indiana,lpacounseling.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b40,Shalene,Kennedy,skennedy@aris-clinic.com,Aris Clinic,Owner / Child and Adolescent Psychiatrist,Minnesota,aris-clinic.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bef,Leila,Macqueen,leila@circleofwellnessrockford.com,Circle of Wellness,President,Illinois,circleofwellnesscounseling.com,621330,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c51,Breanna,Lmft,breanna@bridginghopecounseling.com,Bridging Hope Counseling,Owner,Minnesota,bridginghopecounseling.com,621330,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe0b,Jessie,Morsching,jessie.morsching@accanto.com,Accanto Health,Chief Executive With Vast Healthcare Experience,Minnesota,accanto.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b5b,Craig,Stover,craig.stover@capablekidsrehab.com,"CAPABLE KIDS, LLC",Owner / President,Pennsylvania,capablekidsrehab.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bf6,Glenn,Weiss,gweiss@arborcounselingcenter.com,Arbor Counseling Center,President,Illinois,arborcounselingcenter.com,621330;624110,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02f9,Trisha,Hartmann,trisha@throughtherapy.com,Through Therapy Collective,Therapist & Founder,Minnesota,throughtherapy.com,621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0312,Morgan,Trojan,mtrojan@hhautism.com,Blue Lakes Behavioral Health,Chief Executive Officer,Michigan,bluelakesaba.com,62133;621420;621340,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b7a,Paul,Kredow,pkredow@pcpachicago.com,Primary Care Psychology Associates,CEO,Illinois,pcpachicago.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe2b,Elyse,Etapa,elyse@thrivecounselingohio.com,Thrive Counseling Services,Mental Health Center Owner,Ohio,thrivecounselingohio.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b0d,Alishia,Ebel,alishia.ebel@plymouthmentalhealth.com,Plymouth Mental Health,Founder/Owner/Clinical Therapist,Michigan,plymouthmentalhealth.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0afe,Liz,Edd,liz@freedomcounselingkalamazoo.us,Freedom Counseling,CEO & Therapist,Michigan,freedomcounselingkalamazoo.us,621420;621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0c3f,Yasmin,Traini,ytraini@trainicounseling.com,The Traini Counseling Group,Owner and Lead Clinician,Michigan,trainicounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b53,Tamera,Lagalo,tamera@springforestcounseling.com,Spring Forest Counseling,CEO,Michigan,springforestcounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bce,Marilee,Feldman,marilee@lifecounselinginstitute.com,LIFE COUNSELING INSTITUTE,Founder,Illinois,lifecounselinginstitute.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f0168,Nosheen,Hydari,nosheen@noshfamilytherapy.com,Nosh Family Therapy,Founder and Therapist,Illinois,noshfamilytherapy.com,62133,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c64,Joe,Yensel,yensel.j03@thecolecenter.com,The Cole Center,Owner,Ohio,thecolecenter.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b47,Kathleen,Stanton,kathleen@oaktreekids.com,OAK TREE DEVELOPMENTAL CENTER,Co-Founder,Illinois,oaktreekids.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f0301,Suzy,Kronfeld,skronfeld@anxietytreatmentcenter.com,The Anxiety and OCD Treatment Center,Licensed Psychologist/Owner Independent Private Practice,Minnesota,ocddelaware.com,62139;621330,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c4e,Mark,Jackson,mark@dayrisewellness.com,Dayrise Wellness,CEO,Illinois,dayrisewellness.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bbb,Kenneth,Winfrey,kenneth@umojawellness.com,"Umoja Behavioral Health, P.C.",Founder,New Mexico,umojawellness.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b3d,Brooke,Garren,brooke@uniquelyyou.email,Uniquely You Behavioral Health,Founder and Therapist,Illinois,uniquelyyoubehavioralhealth.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b5d,Nick,Lange,nick@realtalktherapygr.com,Real Talk Therapy,"Co-Owner, Professional Counselor, Marriage and Family Therapist",Michigan,realtalktherapypllc.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0c33,Justin,Briggs,drbriggs@thebriggsinstitute.com,"The Briggs Institute, Inc.",President,Tennessee,thebriggsinstitute.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b11,Darcie,Clark,darcie@riverscapecounseling.com,Riverscape Counseling,Owner,Ohio,riverscapecounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe11,Debra,Laaser,dlaaser@faithfulandtrue.com,Faithful & True,Licensed Marriage & Family Therapist & CEO of Faithful & True,Minnesota,faithfulandtrue.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b0a,Dalton,Connally,dalton@connallycounseling.com,Connally Counseling,Owner/Principal,Michigan,connallycounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b10,Felix,Perez,felix@pereztherapyllc.com,"Perez Therapy, LLC","CEO, Practice Owner & Psychotherapist",Pennsylvania,pereztherapyllc.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b76,Jessi,Frencken,jessif@thepediatricplacellc.com,"The Pediatric Place, LLC",Co-Owner,Missouri,thepediatricplacellc.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b34,Bill,Tidwell,bill@transfrm.com,Transformations,CEO,Tennessee,nlptransformations.co.uk,62139;621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f029f,Jennifer,Miller,jenmiller@aingamn.com,Ainga Mental Health & Consulting,Chief Executive Officer,Minnesota,aingamn.com,62133;541611,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02bc,Kara,Stute,kara@ygtwellness.com,Guide to Wellness,Owner,Minnesota,guidetowellnesspa.com,621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02b1,Hal,Filian,hfilian@arborcounselingcenter.com,Arbor Counseling Center,Psychotherapist/Owner,Illinois,arborcounselingcenter.com,621330;624110,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0325,Carol,Agnew,carolagnew@opendoorcounselingcenter.com,"Open Door Counseling Center, PLLC","Outpatient Therapist,, Owner",Michigan,opendoorcounselingcenter.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0be4,Sue,Gehling,sue@classroomclinic.com,Classroom Clinic,Owner,Iowa,classroomclinic.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efded,David,Smith,davidsmith@bhsogc.com,Behavioral Health Services of Greater Cleveland and Medina,Business Owner and Counselor,Ohio,behavioralhealthservicesogc.com,621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02a9,Allison,Spinneweber,allison.spinneweber@eastendtherapists.com,"EAST END THERAPISTS, LLC",Chief Executive Officer,Pennsylvania,eastendtherapists.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f016b,Elizabeth,Earnshaw,elizabeth@abetterlifetherapy.com,"A Better Life Therapy, LLC",Founder,Pennsylvania,abetterlifetherapy.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02fc,Brad,Saks,bsaks@anchorhealthcounseling.com,Anchor Health,Owner,Illinois,anchorhealthcounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b9a,Mandisa,Jones,mandisa@ashecc.com,Ashe Counseling & Coaching LLC,Founder,Illinois,ashecc.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0ba2,Hope,Cooke,hope@themiddlepath.life,The Middle Path,Founder/CEO,Tennessee,themiddlepath.life,62133;621420;624190,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02dd,Lyle,Labardee,lyle@amplife.us,Amplified Life Counseling & Coaching,Co-Founder & Owner,Michigan,amplifecounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bcd,Carolyn,Ball,carolyn@elevatecounseling.com,Elevate Counseling + Wellness,Founder & CEO,Illinois,elevatecounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bda,Kyle,Zrenchik,kyle@allintherapyclinic.com,ALL IN Therapy Clinic,"Couples Therapist, CEO",Minnesota,allintherapyclinic.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0c30,Natasha,McVey,nmcvey@nbtherapeuticservices.com,New Beginnings Therapeutic Services,Principal Owner,Pennsylvania,nbtherapeuticservices.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02ba,Evangeline,Bauer,evangeline@comeplaystl.com,"COME PLAY, STL",Owner,Missouri,comeplaystl.com,62133;62134,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02b3,Rhonda,Kelloway,kelloway@lifecarewellness.net,Life Care Wellness,"Owner, Principal Therapist & Mediator at Life Care Wellness, Inc",Illinois,life-care-wellness.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02fa,Jamila,Walker,jamila@newcounselingpllc.com,"Nashville Emotional Wellness Counseling, PLLC","Owner, Licensed Clinical Social Worker, Therapist",Tennessee,newcounselingpllc.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b97,Laurie,Groh,lgroh@shoresidetherapies.com,Shoreside Therapies,Professional Counselor and Co-Owner,Wisconsin,shoresidetherapies.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b70,Rhonda,Weber,rweber@danbrownconsulting.com,Brown Consulting Behavioral Services Consulting,President,Ohio,danbrownconsulting.com,62133;541611,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f0162,William,Dempsey,wdempsey@headsheldhighcounseling.com,Heads Held High Counseling,President/Founder,Pennsylvania,headsheldhighcounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b2f,Anna,Kirkley,anna@empowercolumbia.com,Empower Therapeutic  Support Services Inc.,Owner/therapist,Missouri,empowerfam.com,621330;621420,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f016c,Jennifer,Pinion,jpinion@omnimentalhealth.com,"Omni Mental Health, Inc","Co-owner, Therapist",Minnesota,omnimentalhealth.com,621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02d0,Katijo,Makin,katijo@innovative-speech.com,Innovative Therapy Center,Ceo/slp,Ohio,innovativetherapycenter.com,62161;621340;621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0321,Keith,Brophy,kbrophy@mentavi.com,Mentavi Health,Chief Executive Officer,Michigan,mentavi.com,621330,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efde2,Sharon,Beals,sebeals@tbhs.net,Tuscola Behavioral Health Systems,CEO,Michigan,tbhsonline.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02d9,Rayell,Grayson,rayell@headhearttherapy.com,Head Heart Therapy,Owner and President,Illinois,headhearttherapy.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02d5,Laura,Bokar,drlaura@fvinstitute.com,Fox Valley Institute for Growth and Wellness,Chief Executive Officer,Illinois,fvinstitute.com,621330;611430,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b61,Jen,Schroeder,jschroeder@inpoweredtherapy.com,InPowered Therapy + Yoga,"Founder, CEO, Psychologist",Illinois,inpoweredtherapy.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f031e,Russell,Morfitt,rmorfitt@learntolive.com,"Learn to Live, Inc.",Chief Clinical Officer & Co-Founder,Minnesota,learntolive.com,62133;621420;611699,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0be8,Jonathan,Anderson,jonathan@steeplecounseling.com,"Steeple Counseling, LLC",CEO/Owner,Illinois,steeplecounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe0c,Natasha,Kendal,kendal@kendalclinic.com,Kendal Clinic,Founder at Kendal Clinic,Michigan,kendalclinic.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f032c,David,Bradshaw,dbradshaw@healingconnectionsonline.com,Healing Connections Therapy Center,Licensed Psychologist and Owner,Minnesota,healingconnectionsonline.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02e3,Ann,Lansing,ann@empowerctc.com,EmpowerCTC,"Certified Addictions Registered Nurse, Master's in Public Health - Community Health Education, co-owner",Minnesota,empowerctc.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0c37,Bethany,Latimer,bethany@sscshealth.com,Stepping Stone Community Services,Company Owner,Ohio,ssravenna.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bab,Valerie,Weed,vweed@pcpachicago.com,Primary Care Psychology Associates,Co-Owner,Illinois,pcpachicago.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b08,Tara,Morse,tara@3riverstherapists.com,3Rivers Therapists,Founder,Pennsylvania,3riverstherapists.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bae,Christopher,Henderson,chenderson@lifeanewbh.com,Life Anew Behavioral Health,"CEO, Life Anew Behavioral Health, Inc.",Ohio,lifeanewbh.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efde8,Yvonne,Neiman,yvonne@crossingsanimalsociety.org,The Center for Psychology,Psychologist/Owner,Pennsylvania,center4psy.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bb6,Babe,Black,babe@collaborative-change.com,Collaborative Change,Owner,Indiana,collaborative-change.com,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe06,Amy,Greenamyer,drg@compasscaps.com,Compass Counseling & Psychology Services,Owner,Kentucky,compasscaps.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02cc,Janet,Weaver,jweaver@insighttherapeuticllc.com,"Insight Therapeutic Services, LLC",Owner/provider,Indiana,insightbirmingham.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b0e,Erica,Spencer,e.spencer@ewch.net,Ever Well Community Health,Chief Executive Officer,Ohio,everwellcommunityhealth.net,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02b0,Angela,Maes,angela@healthyfamiliesabq.com,Healthy Families of Albuquerque,Owner,New Mexico,healthyfamiliesabq.com,621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02e0,Christa,Surerus,christa.surerus@birchcounseling.com,"Birch Counseling, LLC","Owner, Psychotherapist",Minnesota,birchcounseling.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b79,Tiiu,Lutter,tiiu@thrivingfamiliescenter.com,Thriving Families Center LLC,"Co-owner, Therapist",Pennsylvania,thrivingfamiliescenter.com,621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02f7,Charlene,Sparacio,cwojnowskisparacio@centersforfamilychange.com,Centers for Family Change,President of Centers,Illinois,centersforfamilychange.com,621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b03,Peter,Cappon,peter@mendcounselingmi.com,Mend Counseling,Owner & Counselor,Michigan,mendcounselingmi.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b85,Kristin,Kneedler,kneedlerk@counselorsassociates.com,Counselors Associates Ltd.,Founder/CEO,Missouri,counselorsassociates.com,621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02dc,Courtney,Stivers,courtney@summitfamily.net,"Summit Family Therapy, PLLC",Chief Executive Officer / Owner,Illinois,summitfamilytherapy.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f030c,Brandy,Spear,bspear@driverrehabcenter.com,"Driver Rehabilitation Center of Excellence, LLC",President of Business Development & Growth,Michigan,driverrehabcenter.com,62133;621340;811111,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0327,Jennifer,Chaiken,jenniferchaiken@wctherapygroup.com,The Therapy Group,Co-Founder,Pennsylvania,thetherapygroup.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bd8,Fabrice,Lubin,frlubin@forrealtherapy.com,For Real Therapy,"Licensed Clinical Psychologist, Owner",Illinois,forrealtherapy.com,621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f0169,Kishore,Gangwani,kishore@miyohealth.com,MIYO Health,Chief Executive Officer,Illinois,miyohealth.com,61171;62133;54151,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efdfc,Amanda,Donath,amanda.donath@ofmindwellness.com,Peace of Mind Wellness,Owner/Outpatient Trauma Therapist,Wisconsin,ofmindwellness.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bd4,James,Castorina,jamescastorina@youfirstintegrativewellness.com,You First Integrative Wellness,Business Owner,Pennsylvania,youfirstintegrativewellness.com,621330,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c60,Joe,Humphries,jhumphries@preferredcarecounseling.com,Preferred Care Counseling,Counselor/Owner,Ohio,preferredcarecounseling.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe1b,Jeffrey,Laponsie,jlaponsie@kzoofamilycounseling.com,"Kalamazoo Child and Family Counseling, PLLC",President,Michigan,kzoofamilycounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe28,Jacob,Rosser,jacob.rosser@renewyouchicago.com,Renew You Counseling Center,"Psychologist, Founder",Illinois,renewyouchicago.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b35,Wade,Thaxton,wadethaxton@brandonshousein.com,Brandon's House Counseling Center,Chief Executive Officer,Indiana,brandonshousein.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f0166,Hugh,Smith,hsmith@hssmithassociates.com,"Hugh S. Smith, Ph.D. & Associates, P.C.",President,Pennsylvania,hssmithassociates.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bf4,John,Mlinarcik,drjohn@pcs-global.com,PCS-Global,Chief Executive Officer,Michigan,pcs-global.com,62133;54161,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0313,Stephanie,Hunt,stephanieh@thriveworks.com,Thrive Counseling,Owner,Kentucky,toaquichurrascaria.com,72241;621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b8d,Caryn,Bub-Standal,caryn.bub-standal@cfts-wi.com,Child & Family Therapeutic Systems,"President, Family Therapist",Wisconsin,cfts-wi.com,62133,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c58,Amber,Morrighan,amber@healingconnectionsllc.org,Healing Connections Therapy Center,Owner and Therapist,Minnesota,healingconnectionsonline.com,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efdf2,Robb,Kornoelje,robb@thetruismcenter.com,The Truism Center,Owner and Therapist,Michigan,thetruismcenter.com,621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f029e,Kimberly,Bushman,kbushman@watersedgechc.com,Water's Edge Counseling & Healing Center,Licensed Psychologist/Founder,Minnesota,watersedgechc.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b3c,Josh,Hetherington,joshhetherington@ncrcchicago.com,Chicago Center for Relationship Counseling,President/ Family Therapist,Illinois,chicagocenterforrelationshipcounseling.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0be5,Marlo,Torrelli,marlo@lifebalanceerie.com,"Life Balance Counseling and Wellness, LLC",Owner/ Psychotherapist,Pennsylvania,lifebalancepsychotherapy.com,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe07,Stacey,Lipson,slipson@illinoisbhg.com,Illinois Behavioral Health Group (IBHG),President & Chief Clinical Officer,Illinois,illinoisbhg.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bf8,Renee,Segal,renee@evolvetherapymn.com,Evolve Therapy,Licensed Marriage and Family Therapist and Owner,Minnesota,evolvetherapymn.com,621330,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe26,Ben,Pyykkonen,drbenpyykkonen@hesedpsych.com,"Hesed Psychological Services, LLC",Co-Founder/Co-Owner,Illinois,hesedpsych.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02f0,William,Tobler,wtobler@mayfieldclinic.com,Mayfield Clinic,Neurosurgeon/owner,Ohio,mayfieldclinic.co.uk,621111;621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0314,Jeff,Bondora,bondora@bzabehavioral.com,BZA Behavioral Health,"Therapist, Consultant & Owner",Illinois,bzabehavioral.com,621112;621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02c7,Heather,Akers,heather@connectionscs.com,Connections Counseling Services,"Owner, Therapist",Michigan,connectionscs.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b96,Dana,Bauer,dbauer@mysagewellness.com,Sage Wellness Center,President/CEO,Pennsylvania,mysagewellnes.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b9c,Nicole,Moll,nicole@greyleywellness.com,Greyley Wellness,Owner,Wisconsin,greyleywellness.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe2a,Jennifer,Dooley,jenniferdooley@aerospacellc.com,"Your Story Counselling Services - Individual, Couples, Relational, Family, Sex, & Trauma Therapy",Business Owner,Ohio,yourstorycounselling.com,621330,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c56,Brian,Kelly,b.kelly@newmindpa.com,New Mind Wellness,Co-Founder,Pennsylvania,newmindpa.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f030d,Anu,Vora,anu@mindfully.com,Mindfully Behavioral Health,CEO,Ohio,,621330;621420,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b60,Karen,Daskas,karen@tenderbirmingham.com,Tender Creative,Owner,Michigan,tendercreative.com,621330;611430,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f029d,Nichole,Wilson,nicholew@clevelandtherapygroup.com,"Cleveland Therapy Group, LLC",Co-Founder/LISW-S,Ohio,clevelandtherapygroup.com,621330;621420,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02be,Robert,Brucker,robert@bhes.us,"Behavioral Health and Education Specialists, Inc.",President,Illinois,bhes.us,621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b16,Ryan,Rohde,ryan@c4-consulting.com,C4 Consulting,Owner/CEO,Wisconsin,c4-consulting.com,62133;541611;611430,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02ae,Nicole,Champagne,nchampagne@thumbpsych.org,"THUMB AREA PSYCHOLOGICAL SERVICES, LLC",Chief Executive Officer,Michigan,thumbpsychological.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0ba8,Morten,Haugland,morten.haugland@hauglandlearningcenter.com,Haugland Learning Center,CEO,Ohio,,611110;621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02a0,Tonie,Vanstelten,tonie@vandacounseling.com,Vanda Counseling & Psychological Services,Co Owner; Licensed Psychologist,Minnesota,vandacounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02a3,Jennifer,Jones,drjones@columbuswomenswellness.com,Columbus Women's Wellness - Psychological & Consulting Services,President/Clinical Psychologist,Ohio,columbuswomenswellness.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015f015c,Jeff,Flores,jeff@mecatherapies.com,MECA Therapies - Las Cruces,Co-Founder & CEO,New Mexico,mecatherapies.com,62133;621340;624110,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe14,Deborah,Spence,drauntie@needtalk.com,Need to Talk,Chief Executive Officer,Michigan,needtalk.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b50,Julieta,Perez,jperez@rimyaservices.com,RIMYA Services,Owner/Founder,Illinois,rimyaservices.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02f5,Pierce,Ferriegel,piercef@tclhnm.com,The Community Lighthouse,CEO,New Mexico,tclhnm.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c57,Cara,Daily,caradaily@dailybh.com,Daily Behavioral Health,Owner,Ohio,dailybh.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe01,Kim,Lundholm-Eades,klundholm@centerlifecounseling.com,CenterLife Counseling,"Founder, Licensed Marriage and Family Therapist",Minnesota,centerlifecounseling.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efde4,Yedida,Teichman,yteichman@myteamaba.com,My Team ABA,Co-CEO,Pennsylvania,myteamaba.com,62139;62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efdfb,Bret,Schneider,bret.schneider@mhsclinics.com,Mental Health Solutions,CEO & Founder,Minnesota,mhsclinics.com,62133;62142;611430,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe12,Jesse,Viner,jviner@yellowbrickprogram.com,Yellowbrick,"Founder, CEO & Chief Medical Officer",Illinois,yellowbrickprogram.com,62133;621420;623220;621610,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c46,Jennifer,Sheard,jen@poppystherapeuticcorner.com,Poppy's Therapeutic Corner,Group Practice Owner,Ohio,poppystherapeuticcorner.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c65,Lindsay,Fleming,lfleming@mainstcounselingsolutions.com,Main Street Counseling,Founder & Individual Therapist,Illinois,mainstcounselingsolutions.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f0161,Faye,Brightwell,f.brightwell@caregivergrove.com,CG Behavioral Health & SUD Services,President,Ohio,caregivergrove.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02bb,Susan,Danielson,susandanielson@collaborativehealthcenter.com,"Center for Collaborative Health, PLLC",Owner,Michigan,centerforcollaborativehealth.com,621330;621399,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b5a,Tim,McVay,tim@freedomcounselingusa.com,"Freedom Counseling Center, Inc.",President / Licensed Professional Counselor (LPC),Michigan,freedomcounselingusa.com,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe0f,Kymberly,Larson,doclarson@marvelousminds.net,Marvelous Minds,Owner,Illinois,marvelousminds.net,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0324,Mallory,Silberman,mallory@authenticallyyouedc.com,Authentically You Eating Disorder Counseling,Practice Owner,Illinois,authenticallyyouedc.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b88,Heather,Lpc,heather@sanctuarycounseling.com,"Sanctuary Counseling, LLC","CEO, Psychotherapist",Pennsylvania,sanctuarycounseling.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0ba1,Elisa,Brennecke,elisa@marratherapy.com,MARRA,Founder,Illinois,marratherapy.com,621330,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02b2,Diana,Osborn,diana@dbtimi.com,DBT Institute of Michigan,Co-Owner & Licensed Professional Counselor,Michigan,dbtimi.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02d7,Deborah,Depolo,deb@compasscounselingandassociates.com,Compass Counseling and Associates,Founder and CEO,Pennsylvania,compasscounselingandassociates.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b28,Michael,Behen,mebehen@theimaginectr.com,The Imagine Center for Psychological Health,CEO and Founder of The Imagine Center for Psychological Health,Michigan,theimaginectr.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b36,Carlyn,Carper,carlyncarper@cbcounselingllc.com,CB Counseling LLC,Owner and Clinician,Pennsylvania,cbcounselingllc.com,62133,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efe2f,Charlie,Schupp,cschupp@sonderwellness.com,Sonder Behavioral Health & Wellness,CEO,Minnesota,sonderwellness.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0318,Katie,Fries,katie@allofyoutherapy.net,"All of You Therapy, LLC",Owner and Therapist,Pennsylvania,allofyoutherapy.net,62133;621420,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0afd,Michele,Hawn,mhawn@preferredcarecounseling.com,Preferred Care Counseling,Co-Owner,Ohio,preferredcarecounseling.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b3f,Luis,Suarez,luis@sanarai.com,Sanarai,Founder & CEO,Illinois,sanarai.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b69,Lori,Arambula,lori@striveabaconsultants.com,Strive ABA Consultants LLC,President of Clinical Services,Indiana,striveabaconsultantsllc.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bbe,Warren,Sadler,warren@therify.co,Therify,Chief Executive Officer,Tennessee,therify.co,62133;621420;513210,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02f1,Gina,Smithbower,gina@impactcounselingservicesllc.com,Impact Counseling Services,Owner/ Therapist,Pennsylvania,myimpactcounselingservices.com,62133;621420;624190,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02f6,Jamie,Wagaman,jamiew@dynamiccounselingassociates.com,Dynamic Counseling Associates,Co-owner,Pennsylvania,dynamiccounselingassociates.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b6a,Brad,Messenger,brad.messenger@ccmcpsych.com,Michigan Psychological Care,Owner,Michigan,michiganpsychologicalcare.com,62133;621420,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bbc,Maggie,Haraburda,maggie.h@unfurlinglittles.com,Unfurling Littles LLC,Owner/Founder,Pennsylvania,unfurlinglittles.com,621330;611430,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02eb,Kasey,Compton,kasey@mindsightbehavioral.com,Mindsight Behavioral Group,CEO,Kentucky,mindsightbehavioral.com,62133;621420;624190,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0c3b,Pam,McCaskill,drpam@mccaskillfamilyservices.com,McCaskill Family Services,"Clnical Psychologist, Owner",Michigan,mccaskillfamilyservices.com,621330,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b33,Amanda,Pelphrey,apelphrey@aibdt.com,Associates in Behavioral Diagnostics and Treatment (AIBDT),"Owner, Clinical Psychologist",Pennsylvania,aibdt.com,62133,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b5f,Devona,Marshall,devona@kettlemorainecounseling.com,Kettle Moraine Counseling,Owner,Wisconsin,kettlemorainecounseling.com,62133,Mental Health,Approve,Mental Health
+6a7246abac3cce00015f0c4b,Alicja,Matusiak,alicja@holisticws.com,Holistic Wellness Solutions,Founder and Nurse Practitioner,Ohio,holisticws.com,621330,Mental Health,Approve,Mental Health
+6a7246a7ac3cce00015efdfe,Emma,Carpenter,emma@abetterlifetherapy.com,"A Better Life Therapy, LLC",Owner,Pennsylvania,abetterlifetherapy.com,62133,Mental Health,Approve,Mental Health
+6a7246a9ac3cce00015f0b39,Joshawa,Torres,joshawa.torres@torresbehavioralhealth.com,Torres Behavioral Health LLC,Chief Executive Officer,Indiana,torresbehavioralhealth.com,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02f4,Angelita,Pritchett,angelita@wellnesscollectivehub.com,The Wellness Collective,Founder,Missouri,wellnesscollectiveal.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b6f,Amber,Reed,amber@kcresolve.com,Resolve - Counseling & Wellness,Group Practice Owner and Therapist,Missouri,kcresolve.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0c31,Bert,Fox,bert@positiveregard.co,Positive Regard Therapy,Founder | Psychotherapist,Illinois,positiveregard.co,62133,Mental Health,Approve,Mental Health
+6a7246a8ac3cce00015f02ff,Kathie,Gieselman,kathie.gieselman@tctca.com,Twin Cities Therapy and Counseling Associates,"Owner, Therapist",Minnesota,twincitiestherapyandcounseling.com,621330,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0bca,Tamarah,Gehlen,dr.tam@transformationaltherapymn.com,Transformational Therapy Services,Owner/Founder,Minnesota,transformationaltherapymn.com,62133;62142,Mental Health,Approve,Mental Health
+6a7246aaac3cce00015f0b7f,Jennifer,Knox,jknox@mchhcounseling.com,"Midwest Center for Hope & Healing, Ltd.",Owner & Therapist,Illinois,mchhcounseling.com,621330,Mental Health,Approve,Mental Health
