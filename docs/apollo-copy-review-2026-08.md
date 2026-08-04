@@ -117,10 +117,12 @@ rewrite handles this by making the question the ask and the offer the
 supporting resource, never the reverse. If reply rate is the metric, the
 question has to stay in the final line position in emails 1, 2 and 3.
 
-**Note:** `rcc-cold-outreach-sop/references/email-templates.md` and its
-SKILL.md still specify `/hello` throughout. Both need updating or the SOP and
-the live copy will drift. That file lives in the user-level skills directory,
-outside this repo.
+**SOP updated 2026-08-04.** `rcc-cold-outreach-sop/SKILL.md` and
+`references/email-templates.md` now carry the new copy, the
+`runs-without-you` destination, and two new standing rules: every email ends on
+a question with the question above the link, and bodies stay between 50 and 85
+words. Those files live in the user-level skills directory, outside this repo,
+so they are not covered by this branch.
 
 ### 2.4 The opener is hollow flattery
 
@@ -168,7 +170,10 @@ graceful exit gives people a reason to respond. This one exits with a link.
 
 ## 3. Rewritten sequence — Mental Health lane
 
-Cadence unchanged in shape, tightened slightly: Day 0, 4, 11, 19.
+Cadence unchanged: Day 0, 5, 12, 20 (wait_time 0/5/7/8), matching the SOP and
+the three live Apollo sequences. An earlier draft of this document tightened it
+to Day 0, 4, 11, 19; that change is dropped. The cadence was never the problem,
+and holding it fixed keeps the next round to one changed variable — the copy.
 Sender: ricardo@ricardocruz.io. Sign-off is first name only.
 
 Writing rules from the SOP are respected: no "it's not X, it's Y" constructs,
@@ -194,7 +199,7 @@ maximum one em dash per email, no buzzwords, calm and observational tone.
 handled" gives an easy out, which raises reply rates rather than lowering them.
 The offer sits after the question so the question keeps the emphasis.*
 
-### Email 2 — Day 4
+### Email 2 — Day 5
 **Subject:** The hire that didn't fix it
 
 > Hi {{first_name}},
@@ -215,7 +220,7 @@ The offer sits after the question so the question keeps the emphasis.*
 *82 words. Keeps the strongest existing subject line and the strongest existing
 story, cut to its bones.*
 
-### Email 3 — Day 11
+### Email 3 — Day 12
 **Subject:** The math on 15 hours
 
 > Hi {{first_name}},
@@ -233,7 +238,7 @@ story, cut to its bones.*
 *68 words. The offer carries the specific promise here, so the link earns its
 place. Still closes on a reply ask rather than the click.*
 
-### Email 4 — Day 19
+### Email 4 — Day 20
 **Subject:** Closing the loop
 
 > Hi {{first_name}},
