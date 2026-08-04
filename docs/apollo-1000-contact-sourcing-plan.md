@@ -44,13 +44,47 @@ Against available pool:
 | Pool | Size |
 |---|---|
 | 7 states (pre-widening, confirmed) | ~1,100 |
-| 12 states (widened) | ~1,800-1,900 **ESTIMATE** |
 | Already saved | 352 (103 contacted) |
 
-**The widened pool can just barely produce 1,000 — and only at the optimistic
-55% rate, consuming essentially all of it.** That leaves nothing for the next
-cycle and no margin if the estimate is high. The pool needs to be roughly
-3,000 before a repeatable 1,000-contact cycle is comfortable.
+### Actual pool, confirmed 2026-08-04
+
+Filters widened: new states added, employee ceiling dropped to 50, the 51-100
+band excluded. Resulting **net new** counts — Apollo's "net new" already
+excludes the 352 contacts saved in the account, so there is no dedupe loss
+against existing records:
+
+| Search | Net new |
+|---|---|
+| RCC Tier A 2nd search | 985 |
+| RCC Tier A Midwest Founders | 420 |
+| Naive sum | **1,405** |
+
+**The two searches almost certainly overlap.** Both target midwest
+owner/founder titles across the same verticals, so 1,405 is a ceiling, not a
+count. The unique total is unknown until both are saved and deduped, and this
+is now the largest single uncertainty in the plan.
+
+Yield against that pool:
+
+| Raw unique | @33% | @50% | @60% | @70% |
+|---|---|---|---|---|
+| 1,405 (zero overlap) | 463 | 702 | 843 | **983** |
+| 1,194 (~15% overlap) | 394 | 597 | 716 | 835 |
+| 983 (~30% overlap) | 324 | 491 | 589 | 688 |
+
+**1,000 is reachable only at roughly a 70% approve rate with near-zero
+overlap.** The realistic band is 600-850.
+
+Expect these pulls to approve better than the 33% observed on the old pool:
+that pool predates the nonprofit exclusion fix, and most of its flags were
+"not a clear decision-maker title", which the current title filter already
+removes. Plan on 50-60%; treat 70% as optimistic.
+
+**Remaining headroom lever: the 1-10 employee band is still excluded.**
+Dropping the 51-100 ceiling narrowed the range to 11-50 rather than widening it
+downward. Adding 1-10 (§3.1) is the one large expansion not yet applied, and it
+moves the search toward Owen's 5-30 profile rather than away from it. Apply it
+if the deduped count lands short.
 
 ## 3. How to expand the pool, in priority order
 
